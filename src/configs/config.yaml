@@ -1,0 +1,20 @@
+model:
+  name: "DAN"
+  num_classes: 2
+  num_layers: 5
+
+autoencoder:
+  input_size: 1
+  hidden_size: 11
+
+bilstm:
+  voca_size: 1000
+  n_class: 2
+optimizer:
+  name: "Adam"
+  lr: 0.001
+
+batch_size: 32
+epochs: 100
+iters_per_epoch: 10
+trade_off: 0.5
