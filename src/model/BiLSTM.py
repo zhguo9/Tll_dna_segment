@@ -9,8 +9,8 @@ class BILSTMCRF(nn.Module):
                  embedding_dim: int = 128,
                  rnn_units: int = 128,
                  drop_rate: float = 0.5,
-                 input_dim: int = 33,
-                 hidden_dim: int = 5,
+                 input_dim: int = 32,
+                 hidden_dim: int = 7,
                  ):
         super(BILSTMCRF, self).__init__()
         self.encoder = nn.Linear(input_dim, hidden_dim)
@@ -33,7 +33,16 @@ class BILSTMCRF(nn.Module):
         self.crf = CRF(self.n_class, batch_first=True)
 
     def forward(self, x):
+        # print("wrong:", x[0][0])
+        # print(type(x),x.shape)
+        # x = x.to(float)
+        # x = x.float()
+        # x = self.encoder(x)
+        # print(type(x), x.shape)
+        # x = self.decoder(x)
+        # print(type(x), x.shape)
         x = x.long()
+        # print(x[0][0])
         x = self.embedding(x)
         x, _ = self.bilstm(x)
         x = self.dropout(x)
@@ -45,10 +54,10 @@ class BILSTMCRF(nn.Module):
         return x
 
     def get_feature(self, x):
-        # print(x)
+        # print("right:",x[0][0])
         encoded = self.encoder(x)
         decoded = self.decoder(encoded)
-        return decoded
+        return encoded
     def loss(self, x, y):
         outputs = self.forward(x)
         loss = -self.crf(outputs, y)

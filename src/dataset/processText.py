@@ -18,7 +18,7 @@ def get_tag2index():
 
 
 class EngDataset(Dataset):
-    def __init__(self, file_path, max_len=33, transform=None):
+    def __init__(self, file_path, max_len=32, transform=None):
         self.w2i = get_w2i()
         self.tag2index = get_tag2index()
         self.vocab_size = len(self.w2i)

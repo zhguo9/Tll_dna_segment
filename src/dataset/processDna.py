@@ -7,7 +7,7 @@ path_data_dir = os.path.join(current_dir, '..\\..\\data\\dnaData\\')
 
 
 class DNADataset(Dataset):
-    def __init__(self, file_path, seq_length=33):
+    def __init__(self, file_path, seq_length=32):
         self.char_to_idx = {'A': 0, 'C': 1, 'G': 2, 'T': 3}
         self.seq_length = seq_length
         self.data = self._read_data(file_path)
@@ -35,8 +35,9 @@ class DNADataset(Dataset):
             sequence = ''
             for line in f:
                 char = line.strip()
-                if char in self.char_to_idx:
-                    sequence += char
+                # print(char[0])
+                if char[0] in self.char_to_idx:
+                    sequence += char[0]
                     if len(sequence) == self.seq_length:
                         data.append(sequence)
                         sequence = ''
@@ -44,7 +45,7 @@ class DNADataset(Dataset):
             # 处理最后一个序列
             if sequence:
                 data.append(sequence)
-
+        # print(data)
         return data
 
 def main():

@@ -1,0 +1,1724 @@
+NC_002163.1	1	1323		plus	chromosomal replication initiation protein	dnaA	904342	protein-coding		YP_002343473.1	440	Cj0001
+NC_002163.1	1483	2550		plus	DNA polymerase III subunit beta	dnaN	904340	protein-coding		YP_002343474.1	355	Cj0002
+NC_002163.1	2579	4888		plus	DNA gyrase subunit B	gyrB	904343	protein-coding		YP_002343475.1	769	Cj0003
+NC_002163.1	4916	5257		minus	monoheme cytochrome C		904344	protein-coding		YP_002343476.1	113	Cj0004c
+NC_002163.1	5260	6498		minus	molydopterin containing oxidoreductase		904345	protein-coding		YP_002343477.1	412	Cj0005c
+NC_002163.1	6703	8010		plus	Na+/H+ antiporter family protein		904346	protein-coding		YP_002343478.1	435	Cj0006
+NC_002163.1	8144	12634		plus	glutamate synthase large subunit	gltB	904339	protein-coding		YP_002343479.1	1496	Cj0007
+NC_002163.1	12644	14395		plus	hypothetical protein		904337	protein-coding		YP_002343480.1	583	Cj0008
+NC_002163.1	14398	15843		plus	glutamate synthase subunit beta	gltD	904336	protein-coding		YP_002343481.1	481	Cj0009
+NC_002163.1	15844	16419		minus	ribonuclease HII	rnhB	904334	protein-coding		YP_002343482.1	191	Cj0010c
+NC_002163.1	16452	16691		minus	non-specific DNA binding protein		904332	protein-coding		YP_002343483.1	79	Cj0011c
+NC_002163.1	16756	17403		minus	non-heme iron protein	rrc	904330	protein-coding		YP_002343484.1	215	Cj0012c
+NC_002163.1	17563	19239		plus	dihydroxy-acid dehydratase	ilvD	904349	protein-coding		YP_002343485.1	558	Cj0013
+NC_002163.1	19251	19775		minus	integral membrane protein		904347	protein-coding		YP_002343486.1	174	Cj0014c
+NC_002163.1	19867	21093		minus	hypothetical protein		904352	protein-coding		YP_002343487.1	408	Cj0015c
+NC_002163.1	21159	21833		plus	7-cyano-7-deazaguanine synthase		904353	protein-coding		YP_002343488.1	224	Cj0016
+NC_002163.1	21854	23380		minus	disulfide bond formation protein	dsbI	904354	protein-coding		YP_002343489.1	508	Cj0017c
+NC_002163.1	23392	23559		minus	disulfide bond formation protein	dba	904356	protein-coding		YP_002343490.1	55	Cj0018c
+NC_002163.1	23665	25443		minus	MCP-domain signal transduction protein		904357	protein-coding		YP_002343491.1	592	Cj0019c
+NC_002163.1	25433	26347		minus	cytochrome C551 peroxidase		904360	protein-coding		YP_002343492.1	304	Cj0020c
+NC_002163.1	26411	27289		minus	fumarylacetoacetate (FAA) hydrolase family protein		904361	protein-coding		YP_002343493.1	292	Cj0021c
+NC_002163.1	27402	28304		minus	pseudouridine synthase		904362	protein-coding		YP_002343494.1	300	Cj0022c
+NC_002163.1	28382	29710		plus	adenylosuccinate lyase	purB	904425	protein-coding		YP_002343495.1	442	Cj0023
+NC_002163.1	29726	32095		plus	ribonucleotide-diphosphate reductase subunit alpha	nrdA	904363	protein-coding		YP_002343496.1	789	Cj0024
+NC_002163.1	32134	33519		minus	sodium:dicarboxylate family transmembrane symporter		904364	protein-coding		YP_002343497.1	461	Cj0025c
+NC_002163.1	33639	34262		minus	thymidylate synthase	thyX	904365	protein-coding		YP_002343498.1	207	Cj0026c
+NC_002163.1	34382	36013		plus	CTP synthetase	pyrG	904367	protein-coding		YP_002343499.1	543	Cj0027
+NC_002163.1	36000	37571		plus	single-stranded-DNA-specific exonuclease	recJ	904450	protein-coding		YP_002343500.1	523	Cj0028
+NC_002163.1	37667	38662		plus	L-asparaginase	ansA	904872	protein-coding		YP_002343501.1	331	Cj0029
+NC_002163.1	39249	40761		plus	uncharacterized gene		3245054	rRNA				Cjr01
+NC_002163.1	39249	40761		plus	16S ribosomal RNA		3245054	other				Cjr01
+NC_002163.1	40866	40941		plus	uncharacterized gene	tRNAAla	904368	tRNA				Cjp01
+NC_002163.1	40866	40941		plus	tRNA-Ala	tRNAAla	904368	other				Cjp01
+NC_002163.1	40950	41026		plus	uncharacterized gene	tRNAIle	904458	tRNA				Cjp02
+NC_002163.1	40950	41026		plus	tRNA-Ile	tRNAIle	904458	other				Cjp02
+NC_002163.1	41568	44457		plus	uncharacterized gene		3245050	rRNA				Cjr02
+NC_002163.1	41568	44457		plus	23S ribosomal RNA		3245050	other				Cjr02
+NC_002163.1	44741	44860		plus	uncharacterized gene		3245045	rRNA				Cjr03
+NC_002163.1	44741	44860		plus	5S ribosomal RNA		3245045	other				Cjr03
+NC_002163.1	44966	46363		plus	hypothetical protein		904369	protein-coding		YP_002343502.1	465	Cj0030
+NC_002163.1	46424	50156		plus	type IIS restriction/modification enzyme		904370	protein-coding		YP_002343503.1	1243	Cj0031
+NC_002163.1	50156	51937		plus	integral membrane protein		904331	protein-coding		YP_002343504.1	593	Cj0033
+NC_002163.1	51967	52668		minus	periplasmic protein		904372	protein-coding		YP_002343505.1	233	Cj0034c
+NC_002163.1	52665	53867		minus	efflux protein		904517	protein-coding		YP_002343506.1	400	Cj0035c
+NC_002163.1	53970	55319		plus	hypothetical protein		904813	protein-coding		YP_002343507.1	449	Cj0036
+NC_002163.1	55343	56386		minus	cytochrome C		904547	protein-coding		YP_002343508.1	347	Cj0037c
+NC_002163.1	56564	57211		minus	poly(A) polymerase family protein		904373	protein-coding		YP_002343509.1	215	Cj0038c
+NC_002163.1	57211	59019		minus	GTP-binding protein TypA	typA	904374	protein-coding		YP_002343510.1	602	Cj0039c
+NC_002163.1	59154	59477		plus	hypothetical protein		904375	protein-coding		YP_002343511.1	107	Cj0040
+NC_002163.1	59493	61289		plus	flagellar hook-length control protein	fliK	904378	protein-coding		YP_002343512.1	598	Cj0041
+NC_002163.1	61343	62227		plus	flagellar hook assembly protein	flgD	904379	protein-coding		YP_002343513.1	294	Cj0042
+NC_002163.1	62231	63868		plus	flagellar hook protein	flgE	906016	protein-coding		YP_002343514.1	545	Cj0043
+NC_002163.1	63872	65743		minus	hypothetical protein		904380	protein-coding		YP_002343515.1	623	Cj0044c
+NC_002163.1	65744	66466		minus	iron-binding protein		904381	protein-coding		YP_002343516.1	240	Cj0045c
+NC_002163.1	66646	66744		plus	uncharacterized gene		7133895	misc_RNA				Cjs03
+NC_002163.1	66646	66744		plus	uncharacterized gene		7133895	other				Cjs03
+NC_002163.1	66985	68504		plus	uncharacterized gene		904382	pseudogene				Cj0046
+NC_002163.1	68532	69548		minus	tRNA-specific 2-thiouridylase MnmA	mnmA	904383	protein-coding		YP_002343517.1	338	Cj0053c
+NC_002163.1	69548	70153		minus	lysine decarboxylase family protein		904384	protein-coding		YP_002343518.1	201	Cj0054c
+NC_002163.1	70274	71098		minus	hypothetical protein		904386	protein-coding		YP_002343519.1	274	Cj0055c
+NC_002163.1	72005	72859		plus	periplasmic protein		904388	protein-coding		YP_002343521.1	284	Cj0057
+NC_002163.1	72844	73443		plus	peptidase C39 family protein		904390	protein-coding		YP_002343522.1	199	Cj0058
+NC_002163.1	73492	74334		minus	flagellar motor switch protein FliY	fliY	904391	protein-coding		YP_002343523.1	280	Cj0059c
+NC_002163.1	74331	75410		minus	flagellar motor switch protein FliM	fliM	904392	protein-coding		YP_002343524.1	359	Cj0060c
+NC_002163.1	75410	76126		minus	flagellar biosynthesis RNA polymerase sigma factor	fliA	904393	protein-coding		YP_002343525.1	238	Cj0061c
+NC_002163.1	76083	76439		minus	integral membrane protein		904394	protein-coding		YP_002343526.1	118	Cj0062c
+NC_002163.1	76458	77324		minus	ATP-binding protein		904395	protein-coding		YP_002343527.1	288	Cj0063c
+NC_002163.1	77317	78771		minus	flagellar biosynthesis regulator FlhF	flhF	904464	protein-coding		YP_002343528.1	484	Cj0064c
+NC_002163.1	78781	79254		minus	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase	folK	904396	protein-coding		YP_002343529.1	157	Cj0065c
+NC_002163.1	79257	79736		minus	3-dehydroquinate dehydratase	aroQ	904397	protein-coding		YP_002343530.1	159	Cj0066c
+NC_002163.1	79827	81056		plus	amidohydrolase family protein		904398	protein-coding		YP_002343531.1	409	Cj0067
+NC_002163.1	81044	81940		plus	protease	pspA	905251	protein-coding		YP_002343532.1	298	Cj0068
+NC_002163.1	82019	83050		plus	hypothetical protein		905192	protein-coding		YP_002343533.1	343	Cj0069
+NC_002163.1	83292	83893		minus	uncharacterized gene		904399	pseudogene				Cj0072c
+NC_002163.1	84087	84743		minus	hypothetical protein		904400	protein-coding		YP_002343535.1	218	Cj0073c
+NC_002163.1	84736	86175		minus	iron-sulfur protein		904401	protein-coding		YP_002343536.1	479	Cj0074c
+NC_002163.1	86172	86912		minus	oxidoreductase iron-sulfur subunit		904402	protein-coding		YP_002343537.1	246	Cj0075c
+NC_002163.1	87036	88718		minus	L-lactate permease	lctP	904403	protein-coding		YP_002343538.1	560	Cj0076c
+NC_002163.1	88890	89459		minus	cytolethal distending toxin C	cdtC	904404	protein-coding		YP_002343539.1	189	Cj0077c
+NC_002163.1	89470	90267		minus	cytolethal distending toxin B	cdtB	904405	protein-coding		YP_002343540.1	265	Cj0078c
+NC_002163.1	90264	91070		minus	cytolethal distending toxin A	cdtA	904406	protein-coding		YP_002343541.1	268	Cj0079c
+NC_002163.1	91147	91416		plus	membrane protein		904407	protein-coding		YP_002343542.1	89	Cj0080
+NC_002163.1	91417	92979		plus	cytochrome bd oxidase subunit I	cydA	904408	protein-coding		YP_002343543.1	520	Cj0081
+NC_002163.1	92979	94103		plus	cytochrome bd oxidase subunit II	cydB	904409	protein-coding		YP_002343544.1	374	Cj0082
+NC_002163.1	94297	94992		minus	amino acid recemase		904410	protein-coding		YP_002343545.1	231	Cj0085c
+NC_002163.1	95108	95803		minus	uracil-DNA glycosylase	ung	904411	protein-coding		YP_002343546.1	231	Cj0086c
+NC_002163.1	96074	97480		plus	aspartate ammonia-lyase	aspA	904412	protein-coding		YP_002343547.1	468	Cj0087
+NC_002163.1	97496	98833		plus	anaerobic C4-dicarboxylate transporter	dcuA	904413	protein-coding		YP_002343548.1	445	Cj0088
+NC_002163.1	98941	100302		plus	lipoprotein		904416	protein-coding		YP_002343549.1	453	Cj0089
+NC_002163.1	100312	100680		plus	lipoprotein		904418	protein-coding		YP_002343550.1	122	Cj0090
+NC_002163.1	100704	101327		plus	lipoprotein		904419	protein-coding		YP_002343551.1	207	Cj0091
+NC_002163.1	101410	102747		plus	periplasmic protein		904420	protein-coding		YP_002343552.1	445	Cj0092
+NC_002163.1	102757	103959		plus	periplasmic protein		904421	protein-coding		YP_002343553.1	400	Cj0093
+NC_002163.1	104118	104426		plus	50S ribosomal protein L21	rplU	904422	protein-coding		YP_002343554.1	102	Cj0094
+NC_002163.1	104437	104691		plus	50S ribosomal protein L27	rpmA	904423	protein-coding		YP_002343555.1	84	Cj0095
+NC_002163.1	104798	105850		plus	GTPase ObgE	obgE	905891	protein-coding		YP_002343556.1	350	Cj0096
+NC_002163.1	105955	106710		plus	glutamate 5-kinase	proB	904426	protein-coding		YP_002343557.1	251	Cj0097
+NC_002163.1	106784	107701		plus	methionyl-tRNA formyltransferase	fmt	904427	protein-coding		YP_002343558.1	305	Cj0098
+NC_002163.1	107664	108317		plus	biotin--[acetyl-CoA-carboxylase] synthetase	birA	904428	protein-coding		YP_002343559.1	217	Cj0099
+NC_002163.1	108314	109099		plus	ParA family protein		904430	protein-coding		YP_002343560.1	261	Cj0100
+NC_002163.1	109105	109941		plus	chromosome-partitioning protein ParB		904366	protein-coding		YP_002343561.1	278	Cj0101
+NC_002163.1	110002	110427		plus	ATP synthase subunit B'	atpF'	904431	protein-coding		YP_002343562.1	141	Cj0102
+NC_002163.1	110438	110950		plus	ATP synthase subunit B	atpF	904432	protein-coding		YP_002343563.1	170	Cj0103
+NC_002163.1	110953	111474		plus	ATP synthase subunit delta	atpH	904434	protein-coding		YP_002343564.1	173	Cj0104
+NC_002163.1	111488	112993		plus	ATP synthase subunit alpha	atpA	904435	protein-coding		YP_002343565.1	501	Cj0105
+NC_002163.1	113002	113886		plus	ATP synthase subunit gamma	atpG	904436	protein-coding		YP_002343566.1	294	Cj0106
+NC_002163.1	113912	115309		plus	ATP synthase subunit beta	atpD	904437	protein-coding		YP_002343567.1	465	Cj0107
+NC_002163.1	115313	115702		plus	ATP synthase subunit epsilon	atpC	904438	protein-coding		YP_002343568.1	129	Cj0108
+NC_002163.1	115702	116256		plus	MotA/TolQ/ExbB proton channel family protein	exbB3	904439	protein-coding		YP_002343569.1	184	Cj0109
+NC_002163.1	116265	116654		plus	ExbD/TolR family transport protein	exbD3	904440	protein-coding		YP_002343570.1	129	Cj0110
+NC_002163.1	116657	117436		plus	periplasmic protein		904442	protein-coding		YP_002343571.1	259	Cj0111
+NC_002163.1	117446	118654		plus	translocation protein TolB	tolB	904443	protein-coding		YP_002343572.1	402	Cj0112
+NC_002163.1	118731	119228		plus	peptidoglycan associated lipoprotein	pal	904444	protein-coding		YP_002343573.1	165	Cj0113
+NC_002163.1	119232	120179		plus	periplasmic protein		904445	protein-coding		YP_002343574.1	315	Cj0114
+NC_002163.1	120194	120763		plus	FKBP-type peptidyl-prolyl cis-trans isomerase	slyD	904446	protein-coding		YP_002343575.1	189	Cj0115
+NC_002163.1	120763	121683		plus	malonyl CoA-acyl carrier protein transacylase	fabD	904447	protein-coding		YP_002343576.1	306	Cj0116
+NC_002163.1	121680	122369		plus	aminodeoxyfutalosine nucleosidase	pfs	904448	protein-coding		YP_002343577.1	229	Cj0117
+NC_002163.1	122366	123121		plus	hypothetical protein		904449	protein-coding		YP_002343578.1	251	Cj0118
+NC_002163.1	123126	123647		plus	hydrolase		904451	protein-coding		YP_002343579.1	173	Cj0119
+NC_002163.1	123647	124261		plus	recombination protein RecO		904452	protein-coding		YP_002343580.1	204	Cj0120
+NC_002163.1	124258	124665		plus	metalloprotease		904453	protein-coding		YP_002343581.1	135	Cj0121
+NC_002163.1	124789	125478		plus	hypothetical protein		904454	protein-coding		YP_002343582.1	229	Cj0122
+NC_002163.1	125503	126429		minus	tRNA-dihydrouridine synthase		904455	protein-coding		YP_002343583.1	308	Cj0123c
+NC_002163.1	126426	127412		minus	membrane protein		904457	protein-coding		YP_002343584.1	328	Cj0124c
+NC_002163.1	127402	127764		minus	hypothetical protein		904459	protein-coding		YP_002343585.1	120	Cj0125c
+NC_002163.1	127776	128237		minus	hypothetical protein		904460	protein-coding		YP_002343586.1	153	Cj0126c
+NC_002163.1	128227	129069		minus	acetyl-CoA carboxylase carboxyl transferase subunit beta	accD	904461	protein-coding		YP_002343587.1	280	Cj0127c
+NC_002163.1	129078	129800		minus	inositol monophosphatase family protein		904462	protein-coding		YP_002343588.1	240	Cj0128c
+NC_002163.1	129800	132019		minus	outer membrane protein assembly factor		904463	protein-coding		YP_002343589.1	739	Cj0129c
+NC_002163.1	132096	132923		plus	prephenate dehydrogenase	tyrA	904465	protein-coding		YP_002343590.1	275	Cj0130
+NC_002163.1	133003	134376		plus	peptidase M23 family protein		904466	protein-coding		YP_002343591.1	457	Cj0131
+NC_002163.1	134376	135260		plus	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase	lpxC	904467	protein-coding		YP_002343592.1	294	Cj0132
+NC_002163.1	135299	135700		plus	glycoprotease family protein		904469	protein-coding		YP_002343593.1	133	Cj0133
+NC_002163.1	135709	136587		plus	homoserine kinase	thrB	904490	protein-coding		YP_002343594.1	292	Cj0134
+NC_002163.1	136612	136869		plus	hypothetical protein		904470	protein-coding		YP_002343595.1	85	Cj0135
+NC_002163.1	136856	139471		plus	translation initiation factor IF-2	infB	904471	protein-coding		YP_002343596.1	871	Cj0136
+NC_002163.1	139468	139830		plus	ribosome-binding factor A	rbfA	904468	protein-coding		YP_002343597.1	120	Cj0137
+NC_002163.1	139820	140242		plus	hypothetical protein		904546	protein-coding		YP_002343598.1	140	Cj0138
+NC_002163.1	140289	142640		plus	endonuclease		904929	protein-coding		YP_002343599.1	783	Cj0139
+NC_002163.1	142633	143964		plus	hypothetical protein		904472	protein-coding		YP_002343600.1	443	Cj0140
+NC_002163.1	143953	144756		minus	ABC transporter permease		904473	protein-coding		YP_002343601.1	267	Cj0141c
+NC_002163.1	144749	145603		minus	ABC transporter ATP-binding protein		904475	protein-coding		YP_002343602.1	284	Cj0142c
+NC_002163.1	145616	146506		minus	ABC transporter substrate-binding protein		904476	protein-coding		YP_002343603.1	296	Cj0143c
+NC_002163.1	146705	148684		plus	methyl-accepting chemotaxis signal transduction protein		904478	protein-coding		YP_002343604.1	659	Cj0144
+NC_002163.1	148819	150600		plus	TAT pathway signal sequence domain-containing protein		904480	protein-coding		YP_002343605.1	593	Cj0145
+NC_002163.1	150638	151576		minus	thioredoxin reductase	trxB	904481	protein-coding		YP_002343606.1	312	Cj0146c
+NC_002163.1	151710	152024		minus	thioredoxin	trxA	904479	protein-coding		YP_002343607.1	104	Cj0147c
+NC_002163.1	152081	152419		minus	hypothetical protein		904489	protein-coding		YP_002343608.1	112	Cj0148c
+NC_002163.1	152419	153666		minus	homoserine dehydrogenase	hom	904482	protein-coding		YP_002343609.1	415	Cj0149c
+NC_002163.1	153670	154872		minus	aminotransferase		904483	protein-coding		YP_002343610.1	400	Cj0150c
+NC_002163.1	154884	155690		minus	periplasmic protein		904484	protein-coding		YP_002343611.1	268	Cj0151c
+NC_002163.1	155684	156622		minus	membrane protein		904485	protein-coding		YP_002343612.1	312	Cj0152c
+NC_002163.1	156615	157298		minus	23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB		904486	protein-coding		YP_002343613.1	227	Cj0153c
+NC_002163.1	157312	158136		minus	rRNA small subunit methyltransferase I		904487	protein-coding		YP_002343614.1	274	Cj0154c
+NC_002163.1	158139	158339		minus	50S ribosomal protein L31	rpmE	904488	protein-coding		YP_002343615.1	66	Cj0155c
+NC_002163.1	158418	159074		minus	16S rRNA (uracil(1498)-N(3))-methyltransferase		904493	protein-coding		YP_002343616.1	218	Cj0156c
+NC_002163.1	159076	159483		minus	integral membrane protein		904494	protein-coding		YP_002343617.1	135	Cj0157c
+NC_002163.1	159483	159908		minus	heme-binding lipoprotein		904474	protein-coding		YP_002343618.1	141	Cj0158c
+NC_002163.1	159908	160489		minus	6-pyruvoyl-tetrahydropterin synthase		904501	protein-coding		YP_002343619.1	193	Cj0159c
+NC_002163.1	160486	161229		minus	7-carboxy-7-deazaguanine synthase		904496	protein-coding		YP_002343620.1	247	Cj0160c
+NC_002163.1	161232	162194		minus	cyclic pyranopterin monophosphate synthase	moaA	904499	protein-coding		YP_002343621.1	320	Cj0161c
+NC_002163.1	162207	162722		minus	periplasmic protein		904500	protein-coding		YP_002343622.1	171	Cj0162c
+NC_002163.1	162719	163216		minus	hypothetical protein		904502	protein-coding		YP_002343623.1	165	Cj0163c
+NC_002163.1	163207	164091		minus	4-hydroxybenzoate octaprenyltransferase	ubiA	904503	protein-coding		YP_002343624.1	294	Cj0164c
+NC_002163.1	164162	165031		plus	tRNA dimethylallyltransferase	miaA	904521	protein-coding		YP_002343625.1	289	Cj0166
+NC_002163.1	165017	165580		minus	integral membrane protein		904504	protein-coding		YP_002343626.1	187	Cj0167c
+NC_002163.1	165728	165802		plus	uncharacterized gene	tRNAGlu	904506	tRNA				Cjp03
+NC_002163.1	165728	165802		plus	tRNA-Glu	tRNAGlu	904506	other				Cjp03
+NC_002163.1	165938	166105		minus	periplasmic protein		904507	protein-coding		YP_002343627.1	55	Cj0168c
+NC_002163.1	166373	167035		plus	superoxide dismutase	sodB	904414	protein-coding		YP_002343628.1	220	Cj0169
+NC_002163.1	167050	167794		plus	hypothetical protein		904508	protein-coding		YP_002343629.1	247	Cj0170
+NC_002163.1	167807	169012		minus	saccharopine dehydrogenase		904510	protein-coding		YP_002343630.1	401	Cj0172c
+NC_002163.1	169054	169962		minus	iron-uptake ABC transporter ATP-binding protein	cfbpC	904511	protein-coding		YP_002343631.1	302	Cj0173c
+NC_002163.1	169946	171562		minus	iron-uptake ABC transporter permease	cfbpB	904512	protein-coding		YP_002343632.1	538	Cj0174c
+NC_002163.1	171562	172566		minus	iron-uptake ABC transporter substrate-binding protein	cfbpA	904513	protein-coding		YP_002343633.1	334	Cj0175c
+NC_002163.1	172563	172694		minus	lipoprotein		904515	protein-coding		YP_002343634.1	43	Cj0176c
+NC_002163.1	172916	173767		plus	iron transport protein		904516	protein-coding		YP_002343635.1	283	Cj0177
+NC_002163.1	173764	176031		plus	TonB-denpendent outer membrane receptor		904518	protein-coding		YP_002343636.1	755	Cj0178
+NC_002163.1	176043	176804		plus	biopolymer transport protein	exbB1	904520	protein-coding		YP_002343637.1	253	Cj0179
+NC_002163.1	176791	177201		plus	biopolymer transport protein	exbD1	904523	protein-coding		YP_002343638.1	136	Cj0180
+NC_002163.1	177203	177949		plus	TonB transport protein	tonB1	904524	protein-coding		YP_002343639.1	248	Cj0181
+NC_002163.1	177995	179200		plus	transmembrane transport protein		904525	protein-coding		YP_002343640.1	401	Cj0182
+NC_002163.1	179299	180657		plus	integral membrane protein		904526	protein-coding		YP_002343641.1	452	Cj0183
+NC_002163.1	180702	181856		minus	serine/threonine protein phosphatase		904527	protein-coding		YP_002343642.1	384	Cj0184c
+NC_002163.1	182068	182787		minus	TerC family integral membrane protein		904529	protein-coding		YP_002343644.1	239	Cj0186c
+NC_002163.1	182859	183425		minus	phosphoribosylglycinamide formyltransferase	purN	904530	protein-coding		YP_002343645.1	188	Cj0187c
+NC_002163.1	183416	184786		minus	kinase		904531	protein-coding		YP_002343646.1	456	Cj0188c
+NC_002163.1	184770	185468		minus	hypothetical protein		904532	protein-coding		YP_002343647.1	232	Cj0189c
+NC_002163.1	185470	186975		minus	hypothetical protein		904533	protein-coding		YP_002343648.1	501	Cj0190c
+NC_002163.1	186972	187499		minus	peptide deformylase	def	904534	protein-coding		YP_002343649.1	175	Cj0191c
+NC_002163.1	187535	188119		minus	ATP-dependent Clp protease proteolytic subunit	clpP	906014	protein-coding		YP_002343650.1	194	Cj0192c
+NC_002163.1	188119	189453		minus	trigger factor	tig	904535	protein-coding		YP_002343651.1	444	Cj0193c
+NC_002163.1	189596	190168		plus	GTP cyclohydrolase I	folE	904536	protein-coding		YP_002343652.1	190	Cj0194
+NC_002163.1	190168	191553		plus	flagellum-specific ATP synthase	fliI	904537	protein-coding		YP_002343653.1	461	Cj0195
+NC_002163.1	191556	192893		minus	amidophosphoribosyltransferase	purF	904538	protein-coding		YP_002343654.1	445	Cj0196c
+NC_002163.1	192895	193623		minus	4-hydroxy-tetrahydrodipicolinate reductase	dapB	904539	protein-coding		YP_002343655.1	242	Cj0197c
+NC_002163.1	193686	194867		minus	recombination factor protein RarA		904540	protein-coding		YP_002343656.1	393	Cj0198c
+NC_002163.1	194867	195988		minus	periplasmic protein		904542	protein-coding		YP_002343657.1	373	Cj0199c
+NC_002163.1	196123	196470		minus	periplasmic protein		904543	protein-coding		YP_002343658.1	115	Cj0200c
+NC_002163.1	196534	197139		minus	integral membrane protein		904544	protein-coding		YP_002343659.1	201	Cj0201c
+NC_002163.1	197707	199053		plus	citrate transporter		904545	protein-coding		YP_002343661.1	448	Cj0203
+NC_002163.1	199236	201233		plus	oligopeptide transporter		904548	protein-coding		YP_002343662.1	665	Cj0204
+NC_002163.1	201307	202110		plus	undecaprenyl-diphosphatase	uppP	904549	protein-coding		YP_002343663.1	267	Cj0205
+NC_002163.1	202241	204049		plus	threonine--tRNA ligase	thrS	904952	protein-coding		YP_002343664.1	602	Cj0206
+NC_002163.1	204046	204564		plus	translation initiation factor IF-3	infC	904550	protein-coding		YP_002343665.1	172	Cj0207
+NC_002163.1	204603	205694		plus	DNA modification methylase		904551	protein-coding		YP_002343666.1	363	Cj0208
+NC_002163.1	206063	209195		plus	uncharacterized gene		904552	pseudogene				Cj0223
+NC_002163.1	209279	210307		plus	N-acetyl-gamma-glutamyl-phosphate reductase	argC	906012	protein-coding		YP_002343667.1	342	Cj0224
+NC_002163.1	210317	210763		plus	acetyltransferase		904553	protein-coding		YP_002343668.1	148	Cj0225
+NC_002163.1	210767	211612		plus	acetylglutamate kinase	argB	904554	protein-coding		YP_002343669.1	281	Cj0226
+NC_002163.1	211616	212803		plus	acetylornithine aminotransferase	argD	904555	protein-coding		YP_002343670.1	395	Cj0227
+NC_002163.1	212822	213451		minus	protein-L-isoaspartate O-methyltransferase	pcm	906010	protein-coding		YP_002343671.1	209	Cj0228c
+NC_002163.1	213540	214088		plus	acetyltransferase		904556	protein-coding		YP_002343672.1	182	Cj0229
+NC_002163.1	214057	215430		minus	nicotinate phosphoribosyltransferase		904557	protein-coding		YP_002343673.1	457	Cj0230c
+NC_002163.1	215417	216439		minus	ribonucleotide-diphosphate reductase subunit beta	nrdF	904558	protein-coding		YP_002343674.1	340	Cj0231c
+NC_002163.1	216453	216863		minus	integral membrane protein		904559	protein-coding		YP_002343675.1	136	Cj0232c
+NC_002163.1	216864	217472		minus	orotate phosphoribosyltransferase	pyrE	904560	protein-coding		YP_002343676.1	202	Cj0233c
+NC_002163.1	217475	218038		minus	ribosome recycling factor	frr	904561	protein-coding		YP_002343677.1	187	Cj0234c
+NC_002163.1	218048	218419		minus	protein translocase subunit SecG	secG	904562	protein-coding		YP_002343678.1	123	Cj0235c
+NC_002163.1	218523	219218		minus	integral membrane protein		904563	protein-coding		YP_002343679.1	231	Cj0236c
+NC_002163.1	219378	220013		plus	carbonic anhydrase	cynT	904564	protein-coding		YP_002343680.1	211	Cj0237
+NC_002163.1	220010	221893		plus	mechanosensitive ion channel family protein		904565	protein-coding		YP_002343681.1	627	Cj0238
+NC_002163.1	221916	222887		minus	nitrogen fixation protein NifU		904566	protein-coding		YP_002343682.1	323	Cj0239c
+NC_002163.1	222897	224078		minus	cysteine desulfurase	iscS	904567	protein-coding		YP_002343683.1	393	Cj0240c
+NC_002163.1	224256	224657		minus	bacteriohemerythrin		904568	protein-coding		YP_002343684.1	133	Cj0241c
+NC_002163.1	224794	225960		minus	hypothetical protein		904569	protein-coding		YP_002343685.1	388	Cj0243c
+NC_002163.1	226116	226307		plus	50S ribosomal protein L35	rpmI	904570	protein-coding		YP_002343686.1	63	Cj0244
+NC_002163.1	226401	226754		plus	50S ribosomal protein L20	rplT	904571	protein-coding		YP_002343687.1	117	Cj0245
+NC_002163.1	228946	229803		plus	hypothetical protein		904574	protein-coding		YP_002343690.1	285	Cj0248
+NC_002163.1	229831	230310		plus	hypothetical protein		904575	protein-coding		YP_002343691.1	159	Cj0249
+NC_002163.1	230279	231589		minus	MFS transport protein		904576	protein-coding		YP_002343692.1	436	Cj0250c
+NC_002163.1	231592	231747		minus	highly acidic protein		904577	protein-coding		YP_002343693.1	51	Cj0251c
+NC_002163.1	231840	232313		plus	cyclic pyranopterin monophosphate synthase accessory protein	moaC	904578	protein-coding		YP_002343694.1	157	Cj0252
+NC_002163.1	232291	232554		plus	hypothetical protein		904579	protein-coding		YP_002343695.1	87	Cj0253
+NC_002163.1	232544	233704		plus	hypothetical protein		904580	protein-coding		YP_002343696.1	386	Cj0254
+NC_002163.1	233723	234481		minus	exodeoxyribonuclease	exoA	904581	protein-coding		YP_002343697.1	252	Cj0255c
+NC_002163.1	234599	236137		plus	sulfatase family protein		904582	protein-coding		YP_002343698.1	512	Cj0256
+NC_002163.1	236134	236490		plus	diacylglycerol kinase	dgkA	904583	protein-coding		YP_002343699.1	118	Cj0257
+NC_002163.1	236487	236732		plus	ArsR family transcriptional regulator		904584	protein-coding		YP_002343700.1	81	Cj0258
+NC_002163.1	236722	237729		plus	dihydroorotase	pyrC	904585	protein-coding		YP_002343701.1	335	Cj0259
+NC_002163.1	237761	237976		minus	hypothetical protein		904586	protein-coding		YP_002343702.1	71	Cj0260c
+NC_002163.1	238032	238751		minus	SAM-dependent methyltransferase		904587	protein-coding		YP_002343703.1	239	Cj0261c
+NC_002163.1	238832	240829		minus	methyl-accepting chemotaxis signal transduction protein		904377	protein-coding		YP_002343704.1	665	Cj0262c
+NC_002163.1	241022	241897		plus	zinc transporter ZupT		904588	protein-coding		YP_002343705.1	291	Cj0263
+NC_002163.1	241921	244437		minus	molybdopterin containing oxidoreductase		904589	protein-coding		YP_002343706.1	838	Cj0264c
+NC_002163.1	244448	245023		minus	cytochrome C-type heme-binding protein		904590	protein-coding		YP_002343707.1	191	Cj0265c
+NC_002163.1	245504	246013		minus	integral membrane protein		904591	protein-coding		YP_002343708.1	169	Cj0266c
+NC_002163.1	246013	246543		minus	integral membrane protein		904592	protein-coding		YP_002343709.1	176	Cj0267c
+NC_002163.1	246555	247643		minus	transmembrane protein		904593	protein-coding		YP_002343710.1	362	Cj0268c
+NC_002163.1	247656	248570		minus	branched-chain amino acid aminotransferase	ilvE	904594	protein-coding		YP_002343711.1	304	Cj0269c
+NC_002163.1	248747	248953		plus	tautomerase family protein		904595	protein-coding		YP_002343712.1	68	Cj0270
+NC_002163.1	248950	249405		plus	bacterioferritin comigratory protein		904596	protein-coding		YP_002343713.1	151	Cj0271
+NC_002163.1	249405	250496		plus	hypothetical protein		904597	protein-coding		YP_002343714.1	363	Cj0272
+NC_002163.1	250590	251030		plus	3-hydroxyacyl-ACP dehydratase	fabZ	904598	protein-coding		YP_002343715.1	146	Cj0273
+NC_002163.1	251030	251821		plus	acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase	lpxA	904599	protein-coding		YP_002343716.1	263	Cj0274
+NC_002163.1	251784	253037		plus	ATP-dependent protease ATP-binding subunit ClpX	clpX	904600	protein-coding		YP_002343717.1	417	Cj0275
+NC_002163.1	253049	254089		plus	rod shape-determining protein MreB	mreB	904601	protein-coding		YP_002343718.1	346	Cj0276
+NC_002163.1	254079	254828		plus	rod shape-determining protein MreC	mreC	904602	protein-coding		YP_002343719.1	249	Cj0277
+NC_002163.1	255089	258358		plus	carbamoyl phosphate synthase large subunit	carB	904603	protein-coding		YP_002343720.1	1089	Cj0279
+NC_002163.1	258355	258777		plus	hypothetical protein		904604	protein-coding		YP_002343721.1	140	Cj0280
+NC_002163.1	258778	259755		minus	transaldolase	tal	904605	protein-coding		YP_002343722.1	325	Cj0281c
+NC_002163.1	259755	260378		minus	phosphoserine phosphatase	serB	904606	protein-coding		YP_002343723.1	207	Cj0282c
+NC_002163.1	260378	260899		minus	chemotaxis protein	cheW	904607	protein-coding		YP_002343724.1	173	Cj0283c
+NC_002163.1	260904	263213		minus	chemotaxis histidine kinase	cheA	904608	protein-coding		YP_002343725.1	769	Cj0284c
+NC_002163.1	263217	264173		minus	chemotaxis protein	cheV	904609	protein-coding		YP_002343726.1	318	Cj0285c
+NC_002163.1	264166	264783		minus	hypothetical protein		904610	protein-coding		YP_002343727.1	205	Cj0286c
+NC_002163.1	264934	265419		minus	transcription elongation factor GreA	greA	904611	protein-coding		YP_002343728.1	161	Cj0287c
+NC_002163.1	265431	266525		minus	ipid-A-disaccharide synthase	lpxB	904612	protein-coding		YP_002343729.1	364	Cj0288c
+NC_002163.1	266622	267374		minus	major antigenic peptide PEB3	peb3	904613	protein-coding		YP_002343730.1	250	Cj0289c
+NC_002163.1	267516	268809		minus	uncharacterized gene	glpT	904616	pseudogene				Cj0292c
+NC_002163.1	269064	269840		plus	5'-nucleotidase SurE	surE	904617	protein-coding		YP_002343731.1	258	Cj0293
+NC_002163.1	269830	270489		plus	MoeB/ThiF family protein		904618	protein-coding		YP_002343732.1	219	Cj0294
+NC_002163.1	270473	270931		plus	acetyltransferase		904619	protein-coding		YP_002343733.1	152	Cj0295
+NC_002163.1	271041	271421		minus	aspartate 1-decarboxylase	panD	904620	protein-coding		YP_002343734.1	126	Cj0296c
+NC_002163.1	271418	272266		minus	pantothenate synthetase	panC	904621	protein-coding		YP_002343735.1	282	Cj0297c
+NC_002163.1	272277	273101		minus	3-methyl-2-oxobutanoate hydroxymethyltransferase	panB	904622	protein-coding		YP_002343736.1	274	Cj0298c
+NC_002163.1	273321	274094		plus	beta-lactamase		904623	protein-coding		YP_002343737.1	257	Cj0299
+NC_002163.1	274179	275063		minus	molybdenum ABC transporter ATP-binding protein	modC	904624	protein-coding		YP_002343738.1	294	Cj0300c
+NC_002163.1	275060	275734		minus	molybdenum ABC transporter permease	modB	904625	protein-coding		YP_002343739.1	224	Cj0301c
+NC_002163.1	275727	276128		minus	molybdenum-pterin-binding protein		904626	protein-coding		YP_002343740.1	133	Cj0302c
+NC_002163.1	276125	276874		minus	molybdenum ABC transporter substrate-binding lipoprotein	modA	904627	protein-coding		YP_002343741.1	249	Cj0303c
+NC_002163.1	276925	277611		minus	biotin synthesis protein	bioC	904628	protein-coding		YP_002343742.1	228	Cj0304c
+NC_002163.1	277608	278219		minus	hypothetical protein		904629	protein-coding		YP_002343743.1	203	Cj0305c
+NC_002163.1	278216	279358		minus	8-amino-7-oxononanoate synthase	bioF	904630	protein-coding		YP_002343744.1	380	Cj0306c
+NC_002163.1	279426	280709		plus	adenosylmethionine--8-amino-7-oxononanoate aminotransferase BioA	bioA	904631	protein-coding		YP_002343745.1	427	Cj0307
+NC_002163.1	280696	281301		minus	dethiobiotin synthetase	bioD	904632	protein-coding		YP_002343746.1	201	Cj0308c
+NC_002163.1	281311	281625		minus	efflux protein		904633	protein-coding		YP_002343747.1	104	Cj0309c
+NC_002163.1	281629	281967		minus	efflux protein		904634	protein-coding		YP_002343748.1	112	Cj0310c
+NC_002163.1	282101	282637		plus	50S ribosomal protein L25/general stress protein Ctc		904635	protein-coding		YP_002343749.1	178	Cj0311
+NC_002163.1	282634	283179		plus	peptidyl-tRNA hydrolase	pth	904636	protein-coding		YP_002343750.1	181	Cj0312
+NC_002163.1	283181	284239		plus	integral membrane protein		904637	protein-coding		YP_002343751.1	352	Cj0313
+NC_002163.1	284283	285491		plus	diaminopimelate decarboxylase	lysA	904638	protein-coding		YP_002343752.1	402	Cj0314
+NC_002163.1	285493	286260		plus	HAD-superfamily hydrolase		904639	protein-coding		YP_002343753.1	255	Cj0315
+NC_002163.1	286248	287321		plus	bifunctional chorismate mutase/prephenate dehydratase	pheA	904640	protein-coding		YP_002343754.1	357	Cj0316
+NC_002163.1	287311	288405		plus	histidinol-phosphate aminotransferase	hisC	904641	protein-coding		YP_002343755.1	364	Cj0317
+NC_002163.1	288457	290139		plus	flagellar MS-ring protein	fliF	904642	protein-coding		YP_002343756.1	560	Cj0318
+NC_002163.1	290139	291167		plus	flagellar motor switch protein	fliG	904643	protein-coding		YP_002343757.1	342	Cj0319
+NC_002163.1	291175	292005		plus	flagellar assembly protein FliH	fliH	904644	protein-coding		YP_002343758.1	276	Cj0320
+NC_002163.1	291998	293845		plus	1-deoxy-D-xylulose-5-phosphate synthase	dxs	904645	protein-coding		YP_002343759.1	615	Cj0321
+NC_002163.1	293931	294341		plus	peroxide stress regulator	perR	904646	protein-coding		YP_002343760.1	136	Cj0322
+NC_002163.1	294387	295583		plus	hypothetical protein		904647	protein-coding		YP_002343761.1	398	Cj0323
+NC_002163.1	295586	296293		plus	ubiquinone/menaquinone biosynthesis methyltransferase	ubiE	904648	protein-coding		YP_002343762.1	235	Cj0324
+NC_002163.1	296290	297453		plus	exodeoxyribonuclease VII large subunit	xseA	904649	protein-coding		YP_002343763.1	387	Cj0325
+NC_002163.1	297463	298539		plus	3-phosphoserine/phosphohydroxythreonine aminotransferase	serC	904650	protein-coding		YP_002343764.1	358	Cj0326
+NC_002163.1	298536	298886		plus	endoribonuclease L-PSP family protein		904651	protein-coding		YP_002343765.1	116	Cj0327
+NC_002163.1	298883	299857		minus	3-oxoacyl-ACP synthase III	fabH	904652	protein-coding		YP_002343766.1	324	Cj0328c
+NC_002163.1	299850	300836		minus	phosphate acyltransferase	plsX	904653	protein-coding		YP_002343767.1	328	Cj0329c
+NC_002163.1	300842	300988		minus	50S ribosomal protein L32	rpmF	904654	protein-coding		YP_002343768.1	48	Cj0330c
+NC_002163.1	301012	301365		minus	hypothetical protein		904655	protein-coding		YP_002343769.1	117	Cj0331c
+NC_002163.1	301366	301779		minus	nucleoside diphosphate kinase	ndk	904656	protein-coding		YP_002343770.1	137	Cj0332c
+NC_002163.1	301892	302176		minus	ferredoxin	fdxA	904657	protein-coding		YP_002343771.1	94	Cj0333c
+NC_002163.1	302383	302979		plus	alkyl hydroperoxide reductase	ahpC	904658	protein-coding		YP_002343772.1	198	Cj0334
+NC_002163.1	303098	304186		plus	flagellar biosynthesis protein FlhB	flhB	904659	protein-coding		YP_002343773.1	362	Cj0335
+NC_002163.1	304192	304935		minus	flagellar motor protein MotB	motB	904660	protein-coding		YP_002343774.1	247	Cj0336c
+NC_002163.1	304938	305714		minus	flagellar motor protein MotA	motA	904661	protein-coding		YP_002343775.1	258	Cj0337c
+NC_002163.1	305730	308369		minus	DNA polymerase I	polA	904662	protein-coding		YP_002343776.1	879	Cj0338c
+NC_002163.1	308533	309894		plus	MFS transport protein		904663	protein-coding		YP_002343777.1	453	Cj0339
+NC_002163.1	309891	310898		plus	nucleoside hydrolase		904664	protein-coding		YP_002343778.1	335	Cj0340
+NC_002163.1	310854	311297		minus	integral membrane protein		904665	protein-coding		YP_002343779.1	147	Cj0341c
+NC_002163.1	311302	314127		minus	excinuclease ABC subunit A	uvrA	904666	protein-coding		YP_002343780.1	941	Cj0342c
+NC_002163.1	314200	314985		minus	integral membrane protein		904667	protein-coding		YP_002343781.1	261	Cj0343c
+NC_002163.1	315108	315233		plus	hypothetical protein		904668	protein-coding		YP_002343782.1	41	Cj0344
+NC_002163.1	315398	316648		plus	anthranilate synthase subunit I	trpE	904669	protein-coding		YP_002343783.1	416	Cj0345
+NC_002163.1	316645	318246		plus	anthranilate synthase subunit II	trpD	904670	protein-coding		YP_002343784.1	533	Cj0346
+NC_002163.1	318233	318832		plus	N-(5'-phosphoribosyl)anthranilate isomerase	trpF	904671	protein-coding		YP_002343785.1	199	Cj0347
+NC_002163.1	318829	320007		plus	tryptophan synthase subunit beta	trpB	904672	protein-coding		YP_002343786.1	392	Cj0348
+NC_002163.1	320000	320749		plus	tryptophan synthase subunit alpha	trpA	904673	protein-coding		YP_002343787.1	249	Cj0349
+NC_002163.1	320820	321242		plus	hypothetical protein		904674	protein-coding		YP_002343788.1	140	Cj0350
+NC_002163.1	321242	321550		plus	flagellar motor switch protein	fliN	904675	protein-coding		YP_002343789.1	102	Cj0351
+NC_002163.1	321551	322348		plus	transmembrane protein		904676	protein-coding		YP_002343790.1	265	Cj0352
+NC_002163.1	322345	323805		minus	phosphatase		904677	protein-coding		YP_002343791.1	486	Cj0353c
+NC_002163.1	323805	324050		minus	ferredoxin	fdxB	904678	protein-coding		YP_002343792.1	81	Cj0354c
+NC_002163.1	324163	324834		minus	two-component regulator		904679	protein-coding		YP_002343793.1	223	Cj0355c
+NC_002163.1	324913	325230		minus	dihydroneopterin aldolase	folB	904680	protein-coding		YP_002343794.1	105	Cj0356c
+NC_002163.1	325215	325823		minus	glycerol-3-phosphate acyltransferase PlsY		904681	protein-coding		YP_002343795.1	202	Cj0357c
+NC_002163.1	326024	327049		plus	cytochrome C551 peroxidase		904682	protein-coding		YP_002343796.1	341	Cj0358
+NC_002163.1	327143	328480		plus	phosphoglucosamine mutase	glmM	904683	protein-coding		YP_002343797.1	445	Cj0360
+NC_002163.1	328473	328943		plus	lipoprotein signal peptidase	lspA	904684	protein-coding		YP_002343798.1	156	Cj0361
+NC_002163.1	328927	329379		plus	integral membrane protein		904685	protein-coding		YP_002343799.1	150	Cj0362
+NC_002163.1	329376	330722		minus	coproporphyrinogen III oxidase		904686	protein-coding		YP_002343800.1	448	Cj0363c
+NC_002163.1	330851	331102		plus	hypothetical protein		904687	protein-coding		YP_002343801.1	83	Cj0364
+NC_002163.1	331125	332603		minus	multidrug efflux pump protein CmeC	cmeC	904688	protein-coding		YP_002343802.1	492	Cj0365c
+NC_002163.1	332596	335718		minus	multidrug efflux pump protein CmeB	cmeB	904689	protein-coding		YP_002343803.1	1040	Cj0366c
+NC_002163.1	335718	336821		minus	multidrug efflux pump protein CmeA	cmeA	904690	protein-coding		YP_002343804.1	367	Cj0367c
+NC_002163.1	336916	337548		minus	transcriptional regulator CmeR	cmeR	904691	protein-coding		YP_002343805.1	210	Cj0368c
+NC_002163.1	337535	338911		minus	ferredoxin domain-containing integral membrane protein		904692	protein-coding		YP_002343806.1	458	Cj0369c
+NC_002163.1	339071	339283		plus	30S ribosomal protein S21	rpsU	904693	protein-coding		YP_002343807.1	70	Cj0370
+NC_002163.1	339403	340008		plus	hypothetical protein		904694	protein-coding		YP_002343808.1	201	Cj0371
+NC_002163.1	340018	341187		plus	glutathionylspermidine synthase		904695	protein-coding		YP_002343809.1	389	Cj0372
+NC_002163.1	341190	342125		plus	2-hydroxyacid dehydrogenase		904696	protein-coding		YP_002343810.1	311	Cj0373
+NC_002163.1	342115	342606		plus	nucleotide-binding protein		904697	protein-coding		YP_002343811.1	163	Cj0374
+NC_002163.1	342615	343091		plus	lipoprotein		904698	protein-coding		YP_002343812.1	158	Cj0375
+NC_002163.1	343102	343926		plus	periplasmic protein		904699	protein-coding		YP_002343813.1	274	Cj0376
+NC_002163.1	343926	345638		plus	AAA ATPase		904700	protein-coding		YP_002343814.1	570	Cj0377
+NC_002163.1	345635	346174		minus	ferric reductase-like transmembrane protein		904701	protein-coding		YP_002343815.1	179	Cj0378c
+NC_002163.1	346174	347067		minus	sulfoxide reductase catalytic subunit		904702	protein-coding		YP_002343816.1	297	Cj0379c
+NC_002163.1	347123	347908		minus	hypothetical protein		904703	protein-coding		YP_002343817.1	261	Cj0380c
+NC_002163.1	347905	348744		minus	orotidine 5'-phosphate decarboxylase	pyrF	904704	protein-coding		YP_002343818.1	279	Cj0381c
+NC_002163.1	348741	349139		minus	transcription antitermination protein NusB	nusB	904705	protein-coding		YP_002343819.1	132	Cj0382c
+NC_002163.1	349139	349603		minus	6,7-dimethyl-8-ribityllumazine synthase	ribH	904706	protein-coding		YP_002343820.1	154	Cj0383c
+NC_002163.1	349600	350415		minus	2-dehydro-3-deoxyphosphooctonate aldolase	kdsA	904707	protein-coding		YP_002343821.1	271	Cj0384c
+NC_002163.1	350412	351344		minus	integral membrane protein		904708	protein-coding		YP_002343822.1	310	Cj0385c
+NC_002163.1	351446	352828		plus	GTPase Der	engA	904709	protein-coding		YP_002343823.1	460	Cj0386
+NC_002163.1	352815	353312		plus	shikimate kinase	aroK	904710	protein-coding		YP_002343824.1	165	Cj0387
+NC_002163.1	353309	354268		plus	tryptophan--tRNA ligase	trpS	904711	protein-coding		YP_002343825.1	319	Cj0388
+NC_002163.1	354279	355514		plus	serine--tRNA ligase	serS	904712	protein-coding		YP_002343826.1	411	Cj0389
+NC_002163.1	355524	357986		plus	transmembrane protein		904713	protein-coding		YP_002343827.1	820	Cj0390
+NC_002163.1	358017	358652		minus	hypothetical protein		904714	protein-coding		YP_002343828.1	211	Cj0391c
+NC_002163.1	358750	360192		minus	pyruvate kinase	pyk	904715	protein-coding		YP_002343829.1	480	Cj0392c
+NC_002163.1	360241	361587		minus	malate:quinone oxidoreductase	mqo	904716	protein-coding		YP_002343830.1	448	Cj0393c
+NC_002163.1	361706	362335		minus	pantothenate kinase		904717	protein-coding		YP_002343831.1	209	Cj0394c
+NC_002163.1	362322	362612		minus	hypothetical protein		904718	protein-coding		YP_002343832.1	96	Cj0395c
+NC_002163.1	362609	363607		minus	lipoprotein		904719	protein-coding		YP_002343833.1	332	Cj0396c
+NC_002163.1	363604	364182		minus	hypothetical protein		904720	protein-coding		YP_002343834.1	192	Cj0397c
+NC_002163.1	364326	364610		plus	glutamyl-tRNA(Gln) amidotransferase subunit C	gatC	904721	protein-coding		YP_002343835.1	94	Cj0398
+NC_002163.1	364678	365241		plus	colicin V production protein		904722	protein-coding		YP_002343836.1	187	Cj0399
+NC_002163.1	365243	365716		plus	ferric uptake regulator	fur	904724	protein-coding		YP_002343837.1	157	Cj0400
+NC_002163.1	365717	367222		plus	lysine--tRNA ligase	lysS	904725	protein-coding		YP_002343838.1	501	Cj0401
+NC_002163.1	367219	368463		plus	serine hydroxymethyltransferase	glyA	904726	protein-coding		YP_002343839.1	414	Cj0402
+NC_002163.1	368460	369005		plus	hypothetical protein		904727	protein-coding		YP_002343840.1	181	Cj0403
+NC_002163.1	369019	369855		plus	transmembrane protein		904728	protein-coding		YP_002343841.1	278	Cj0404
+NC_002163.1	369852	370640		plus	shikimate 5-dehydrogenase	aroE	904729	protein-coding		YP_002343842.1	262	Cj0405
+NC_002163.1	370715	371614		minus	lipoprotein		904730	protein-coding		YP_002343843.1	299	Cj0406c
+NC_002163.1	371704	372519		plus	prolipoprotein diacylglyceryl transferase	lgt	904731	protein-coding		YP_002343844.1	271	Cj0407
+NC_002163.1	372589	373371		plus	fumarate reductase cytochrome B subunit	frdC	904732	protein-coding		YP_002343845.1	260	Cj0408
+NC_002163.1	373355	375346		plus	fumarate reductase flavoprotein subunit	frdA	904733	protein-coding		YP_002343846.1	663	Cj0409
+NC_002163.1	375339	376064		plus	fumarate reductase iron-sulfur subunit	frdB	904734	protein-coding		YP_002343847.1	241	Cj0410
+NC_002163.1	376092	378278		plus	ATP/GTP binding protein		904735	protein-coding		YP_002343848.1	728	Cj0411
+NC_002163.1	378268	380097		plus	ATP/GTP binding protein		904736	protein-coding		YP_002343849.1	609	Cj0412
+NC_002163.1	380097	380801		plus	periplasmic protein		904737	protein-coding		YP_002343850.1	234	Cj0413
+NC_002163.1	380937	381665		plus	oxidoreductase subunit		904738	protein-coding		YP_002343851.1	242	Cj0414
+NC_002163.1	381667	383388		plus	GMC oxidoreductase subunit		904739	protein-coding		YP_002343852.1	573	Cj0415
+NC_002163.1	383559	383657		plus	hypothetical protein		904740	protein-coding		YP_002343853.1	32	Cj0416
+NC_002163.1	383677	383823		plus	hypothetical protein		904741	protein-coding		YP_002343854.1	48	Cj0417
+NC_002163.1	383947	384651		minus	hypothetical protein		904742	protein-coding		YP_002343855.1	234	Cj0418c
+NC_002163.1	384759	385121		plus	histidine triad (HIT) family protein		904743	protein-coding		YP_002343856.1	120	Cj0419
+NC_002163.1	385195	385767		plus	periplasmic protein		904744	protein-coding		YP_002343857.1	190	Cj0420
+NC_002163.1	385772	386728		minus	integral membrane protein		904745	protein-coding		YP_002343858.1	318	Cj0421c
+NC_002163.1	386790	386999		minus	H-T-H containing protein		904746	protein-coding		YP_002343859.1	69	Cj0422c
+NC_002163.1	387168	387395		plus	integral membrane protein		904747	protein-coding		YP_002343860.1	75	Cj0423
+NC_002163.1	387404	388036		plus	acidic periplasmic protein		904748	protein-coding		YP_002343861.1	210	Cj0424
+NC_002163.1	388049	388465		plus	periplasmic protein		904749	protein-coding		YP_002343862.1	138	Cj0425
+NC_002163.1	388595	390172		plus	ABC transporter ATP-binding protein		904750	protein-coding		YP_002343863.1	525	Cj0426
+NC_002163.1	390162	390497		plus	hypothetical protein		904751	protein-coding		YP_002343864.1	111	Cj0427
+NC_002163.1	390572	390955		plus	hypothetical protein		904752	protein-coding		YP_002343865.1	127	Cj0428
+NC_002163.1	390999	391583		minus	hypothetical protein		904753	protein-coding		YP_002343866.1	194	Cj0429c
+NC_002163.1	391711	392937		plus	integral membrane protein		904754	protein-coding		YP_002343867.1	408	Cj0430
+NC_002163.1	392930	393544		plus	ATP/GTP-binding protein		904723	protein-coding		YP_002343868.1	204	Cj0431
+NC_002163.1	394130	395642		plus	uncharacterized gene		3245051	rRNA				Cjr04
+NC_002163.1	394130	395642		plus	16S ribosomal RNA		3245051	other				Cjr04
+NC_002163.1	395747	395822		plus	uncharacterized gene	tRNAAla	904755	tRNA				Cjp04
+NC_002163.1	395747	395822		plus	tRNA-Ala	tRNAAla	904755	other				Cjp04
+NC_002163.1	395831	395907		plus	uncharacterized gene	tRNAIle	904756	tRNA				Cjp05
+NC_002163.1	395831	395907		plus	tRNA-Ile	tRNAIle	904756	other				Cjp05
+NC_002163.1	396449	399360		plus	uncharacterized gene		3245053	rRNA				Cjr05
+NC_002163.1	396449	399360		plus	23S ribosomal RNA		3245053	other				Cjr05
+NC_002163.1	399644	399763		plus	uncharacterized gene		3245056	rRNA				Cjr06
+NC_002163.1	399644	399763		plus	5S ribosomal RNA		3245056	other				Cjr06
+NC_002163.1	399936	401144		minus	UDP-N-acetylmuramoylalanine--D-glutamate ligase	murD	904757	protein-coding		YP_002343869.1	402	Cj0432c
+NC_002163.1	401144	402205		minus	phospho-N-acetylmuramoyl-pentapeptide-transferase	mraY	904758	protein-coding		YP_002343870.1	353	Cj0433c
+NC_002163.1	402285	403763		plus	2,3-bisphosphoglycerate-independent phosphoglycerate mutase	pgm	904759	protein-coding		YP_002343871.1	492	Cj0434
+NC_002163.1	403835	404578		plus	3-oxoacyl-ACP reductase	fabG	904760	protein-coding		YP_002343872.1	247	Cj0435
+NC_002163.1	404585	404995		plus	pyridoxamine 5'-phosphate oxidase		904761	protein-coding		YP_002343873.1	136	Cj0436
+NC_002163.1	405333	407168		plus	succinate dehydrogenase flavoprotein subunit	sdhA	904762	protein-coding		YP_002343874.1	611	Cj0437
+NC_002163.1	407165	408130		plus	succinate dehydrogenase iron-sulfur protein	sdhB	904763	protein-coding		YP_002343875.1	321	Cj0438
+NC_002163.1	408134	408991		plus	succinate dehydrogenase subunit C	sdhC	904764	protein-coding		YP_002343876.1	285	Cj0439
+NC_002163.1	409015	409683		minus	transcriptional regulator		904765	protein-coding		YP_002343877.1	222	Cj0440c
+NC_002163.1	409793	410026		plus	acyl carrier protein	acpP	904766	protein-coding		YP_002343878.1	77	Cj0441
+NC_002163.1	410053	411267		plus	3-oxoacyl-ACP synthase	fabF	904767	protein-coding		YP_002343879.1	404	Cj0442
+NC_002163.1	411269	412207		plus	acetyl-CoA carboxylase carboxyl transferase subunit alpha	accA	904768	protein-coding		YP_002343880.1	312	Cj0443
+NC_002163.1	412359	414430		plus	uncharacterized gene		904769	pseudogene				Cj0444
+NC_002163.1	414516	415112		plus	NUDIX hydrolase family protein		904770	protein-coding		YP_002343881.1	198	Cj0447
+NC_002163.1	415144	416241		minus	MCP-type signal transduction protein		904771	protein-coding		YP_002343882.1	365	Cj0448c
+NC_002163.1	416251	416466		minus	hypothetical protein		904772	protein-coding		YP_002343883.1	71	Cj0449c
+NC_002163.1	416651	416845		minus	50S ribosomal protein L28	rpmB	904773	protein-coding		YP_002343884.1	64	Cj0450c
+NC_002163.1	416985	417632		plus	ribulose-phosphate 3-epimerase	rep	904774	protein-coding		YP_002343885.1	215	Cj0451
+NC_002163.1	417629	418390		plus	DNA polymerase III subunit epsilon	dnaQ	904775	protein-coding		YP_002343886.1	253	Cj0452
+NC_002163.1	418412	418516		plus	uncharacterized gene		7133894	misc_RNA				Cjs02
+NC_002163.1	418412	418516		plus	uncharacterized gene		7133894	other				Cjs02
+NC_002163.1	418573	419865		plus	phosphomethylpyrimidine synthase	thiC	904776	protein-coding		YP_002343887.1	430	Cj0453
+NC_002163.1	419857	420426		minus	membrane protein		904777	protein-coding		YP_002343888.1	189	Cj0454c
+NC_002163.1	420365	420892		minus	uncharacterized gene		904778	pseudogene				Cj0455c
+NC_002163.1	420889	421848		minus	hypothetical protein		904779	protein-coding		YP_002343890.1	319	Cj0456c
+NC_002163.1	421850	422479		minus	lipoprotein		904780	protein-coding		YP_002343891.1	209	Cj0457c
+NC_002163.1	422463	423764		minus	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase	miaB	904781	protein-coding		YP_002343892.1	433	Cj0458c
+NC_002163.1	423761	424027		minus	hypothetical protein		904782	protein-coding		YP_002343893.1	88	Cj0459c
+NC_002163.1	424131	425219		plus	transcription elongation factor NusA	nusA	904783	protein-coding		YP_002343894.1	362	Cj0460
+NC_002163.1	425235	426422		minus	MFS transport protein		904784	protein-coding		YP_002343895.1	395	Cj0461c
+NC_002163.1	426496	427542		plus	hypothetical protein		904785	protein-coding		YP_002343896.1	348	Cj0462
+NC_002163.1	427542	428762		plus	zinc protease-like protein		904786	protein-coding		YP_002343897.1	406	Cj0463
+NC_002163.1	428752	430575		plus	ATP-dependent DNA helicase RecG	recG	904787	protein-coding		YP_002343898.1	607	Cj0464
+NC_002163.1	430572	430955		minus	group 3 truncated hemoglobin	ctb	904788	protein-coding		YP_002343899.1	127	Cj0465c
+NC_002163.1	431050	431646		plus	transcriptional regulator	nssR	904789	protein-coding		YP_002343900.1	198	Cj0466
+NC_002163.1	431662	432363		plus	amino acid ABC transporter permease		904790	protein-coding		YP_002343901.1	233	Cj0467
+NC_002163.1	432356	433012		plus	amino acid ABC transporter permease		904791	protein-coding		YP_002343902.1	218	Cj0468
+NC_002163.1	433014	433775		plus	amino acid ABC transporter ATP-binding protein		904792	protein-coding		YP_002343903.1	253	Cj0469
+NC_002163.1	433867	433942		plus	uncharacterized gene	tRNAThr	904793	tRNA				Cjp06
+NC_002163.1	433867	433942		plus	tRNA-Thr	tRNAThr	904793	other				Cjp06
+NC_002163.1	433992	434077		plus	uncharacterized gene	tRNATyr	904794	tRNA				Cjp07
+NC_002163.1	433992	434077		plus	tRNA-Tyr	tRNATyr	904794	other				Cjp07
+NC_002163.1	434084	434160		plus	uncharacterized gene	tRNAGly	904795	tRNA				Cjp08
+NC_002163.1	434084	434160		plus	tRNA-Gly	tRNAGly	904795	other				Cjp08
+NC_002163.1	434265	434339		plus	uncharacterized gene	tRNAThr	3245039	tRNA				Cjt1
+NC_002163.1	434265	434339		plus	tRNA-Thr	tRNAThr	3245039	other				Cjt1
+NC_002163.1	434408	435607		plus	elongation factor Tu	tuf	904796	protein-coding		YP_002343904.1	399	Cj0470
+NC_002163.1	435660	435818		plus	50S ribosomal protein L33	rpmG	904797	protein-coding		YP_002343905.1	52	Cj0471
+NC_002163.1	435831	435906		plus	uncharacterized gene	tRNATrp	904798	tRNA				Cjp09
+NC_002163.1	435831	435906		plus	tRNA-Trp	tRNATrp	904798	other				Cjp09
+NC_002163.1	435925	436104		plus	protein translocase subunit SecE	secE	904799	protein-coding		YP_002343906.1	59	Cj0472
+NC_002163.1	436114	436647		plus	transcription termination/antitermination protein NusG	nusG	904801	protein-coding		YP_002343907.1	177	Cj0473
+NC_002163.1	436673	437098		plus	50S ribosomal protein L11	rplK	904802	protein-coding		YP_002343908.1	141	Cj0474
+NC_002163.1	437153	437854		plus	50S ribosomal protein L1	rplA	904803	protein-coding		YP_002343909.1	233	Cj0475
+NC_002163.1	438006	438485		plus	50S ribosomal protein L10	rplJ	904804	protein-coding		YP_002343910.1	159	Cj0476
+NC_002163.1	438506	438883		plus	50S ribosomal protein L7/L12	rplL	904805	protein-coding		YP_002343911.1	125	Cj0477
+NC_002163.1	438992	443128		plus	DNA-directed RNA polymerase subunit beta	rpoB	904806	protein-coding		YP_002343912.1	1378	Cj0478
+NC_002163.1	443121	447674		plus	DNA-directed RNA polymerase subunit beta'	rpoC	904807	protein-coding		YP_002343913.1	1517	Cj0479
+NC_002163.1	447705	448466		minus	transcriptional regulator		904808	protein-coding		YP_002343914.1	253	Cj0480c
+NC_002163.1	448697	449605		plus	dihydrodipicolinate synthase	dapA	904809	protein-coding		YP_002343915.1	302	Cj0481
+NC_002163.1	449602	451034		plus	uncharacterized gene	uxaA'	904810	pseudogene				Cj0483
+NC_002163.1	451046	452278		plus	uncharacterized gene		904811	pseudogene				Cj0484
+NC_002163.1	452320	453108		plus	short chain dehydrogenase		904812	protein-coding		YP_002343919.1	262	Cj0485
+NC_002163.1	453119	454375		plus	sugar transporter		904814	protein-coding		YP_002343920.1	418	Cj0486
+NC_002163.1	454359	455129		plus	amidohydrolase		904815	protein-coding		YP_002343921.1	256	Cj0487
+NC_002163.1	455130	455447		plus	hypothetical protein		904816	protein-coding		YP_002343922.1	105	Cj0488
+NC_002163.1	455461	456899		plus	uncharacterized gene		5066042	pseudogene				Cj0489
+NC_002163.1	457227	457613		plus	30S ribosomal protein S12	rpsL	904818	protein-coding		YP_002343925.1	128	Cj0491
+NC_002163.1	457683	458153		plus	30S ribosomal protein S7	rpsG	904819	protein-coding		YP_002343926.1	156	Cj0492
+NC_002163.1	458166	460241		plus	elongation factor G	fusA	904822	protein-coding		YP_002343927.1	691	Cj0493
+NC_002163.1	460270	460346		plus	uncharacterized gene	tRNAArg	904823	tRNA				Cjp10
+NC_002163.1	460270	460346		plus	tRNA-Arg	tRNAArg	904823	other				Cjp10
+NC_002163.1	460364	460513		plus	exporting protein		904824	protein-coding		YP_002343928.1	49	Cj0494
+NC_002163.1	460519	461220		plus	methyltransferase domain-containing protein		904825	protein-coding		YP_002343929.1	233	Cj0495
+NC_002163.1	461210	461584		plus	hypothetical protein		904826	protein-coding		YP_002343930.1	124	Cj0496
+NC_002163.1	461557	462834		plus	lipoprotein		904827	protein-coding		YP_002343931.1	425	Cj0497
+NC_002163.1	462831	463607		plus	Indole-3-glycerol phosphate synthase	trpC	904828	protein-coding		YP_002343932.1	258	Cj0498
+NC_002163.1	463617	464102		plus	histidine triad (HIT) family protein		904829	protein-coding		YP_002343933.1	161	Cj0499
+NC_002163.1	464092	465090		plus	rhodanese-like domain-containing protein		904830	protein-coding		YP_002343934.1	332	Cj0500
+NC_002163.1	465376	466598		plus	uncharacterized gene		904831	pseudogene				Cj0501
+NC_002163.1	466660	467571		minus	ferrochelatase	hemH	904832	protein-coding		YP_002343935.1	303	Cj0503c
+NC_002163.1	467568	468434		minus	oxidoreductase		904833	protein-coding		YP_002343936.1	288	Cj0504c
+NC_002163.1	468439	469512		minus	DegT family aminotransferase		904834	protein-coding		YP_002343937.1	357	Cj0505c
+NC_002163.1	469627	472155		plus	alanine--tRNA ligase	alaS	904835	protein-coding		YP_002343938.1	842	Cj0506
+NC_002163.1	472155	472706		plus	Maf-like protein	maf	904836	protein-coding		YP_002343939.1	183	Cj0507
+NC_002163.1	472703	474634		plus	penicillin-binding protein	pbpA	904837	protein-coding		YP_002343940.1	643	Cj0508
+NC_002163.1	474662	477235		minus	chaperone protein ClpB	clpB	904838	protein-coding		YP_002343941.1	857	Cj0509c
+NC_002163.1	477347	477637		minus	hypothetical protein		904839	protein-coding		YP_002343942.1	96	Cj0510c
+NC_002163.1	477755	479089		plus	protease		904840	protein-coding		YP_002343943.1	444	Cj0511
+NC_002163.1	479091	479801		plus	phosphoribosylaminoimidazolesuccinocarboxamide synthase	purC	904841	protein-coding		YP_002343944.1	236	Cj0512
+NC_002163.1	479810	480055		plus	phosphoribosylformylglycinamidine synthase	purS	904842	protein-coding		YP_002343945.1	81	Cj0513
+NC_002163.1	480057	480728		plus	phosphoribosylformylglycinamidine synthase I	purQ	904843	protein-coding		YP_002343946.1	223	Cj0514
+NC_002163.1	480700	481896		plus	periplasmic protein		904844	protein-coding		YP_002343947.1	398	Cj0515
+NC_002163.1	481877	482569		plus	1-acyl-SN-glycerol-3-phosphate acyltransferase	plsC	904845	protein-coding		YP_002343948.1	230	Cj0516
+NC_002163.1	482563	482931		plus	fluoride ion transporter CrcB	crcB	904846	protein-coding		YP_002343949.1	122	Cj0517
+NC_002163.1	483003	484829		plus	chaperone protein HtpG	htpG	904847	protein-coding		YP_002343950.1	608	Cj0518
+NC_002163.1	484826	485143		plus	rhodanese-like domain-containing protein		904848	protein-coding		YP_002343951.1	105	Cj0519
+NC_002163.1	485143	485577		plus	membrane protein		904849	protein-coding		YP_002343952.1	144	Cj0520
+NC_002163.1	485698	487343		plus	uncharacterized gene		904850	pseudogene				Cj0522
+NC_002163.1	487340	489148		minus	penicillin-binding protein	pbpB	904853	protein-coding		YP_002343956.1	602	Cj0525c
+NC_002163.1	489155	489451		minus	flagellar hook-basal body protein FliE	fliE	904854	protein-coding		YP_002343957.1	98	Cj0526c
+NC_002163.1	489458	489952		minus	flagellar basal body rod protein FlgC	flgC	904855	protein-coding		YP_002343958.1	164	Cj0527c
+NC_002163.1	489962	490393		minus	flagellar basal body rod protein FlgB	flgB	904856	protein-coding		YP_002343959.1	143	Cj0528c
+NC_002163.1	490474	491475		minus	aminodeoxychorismate lyase family protein		904857	protein-coding		YP_002343960.1	333	Cj0529c
+NC_002163.1	491390	493960		plus	periplasmic protein		904858	protein-coding		YP_002343961.1	856	Cj0530
+NC_002163.1	494077	496281		plus	isocitrate dehydrogenase	icd	904859	protein-coding		YP_002343962.1	734	Cj0531
+NC_002163.1	496278	497180		plus	malate dehydrogenase	mdh	904860	protein-coding		YP_002343963.1	300	Cj0532
+NC_002163.1	497181	498344		plus	succinyl-CoA ligase subunit beta	sucC	904861	protein-coding		YP_002343964.1	387	Cj0533
+NC_002163.1	498354	499223		plus	succinyl-CoA synthetase subunit alpha	sucD	904862	protein-coding		YP_002343965.1	289	Cj0534
+NC_002163.1	499238	499549		plus	2-oxoglutarate-acceptor oxidoreductase subunit OorD	oorD	904863	protein-coding		YP_002343966.1	103	Cj0535
+NC_002163.1	499558	500682		plus	2-oxoglutarate-acceptor oxidoreductase subunit OorA	oorA	904864	protein-coding		YP_002343967.1	374	Cj0536
+NC_002163.1	500683	501528		plus	2-oxoglutarate-acceptor oxidoreductase subunit OorB	oorB	904963	protein-coding		YP_002343968.1	281	Cj0537
+NC_002163.1	501525	502082		plus	2-oxoglutarate-acceptor oxidoreductase subunit OorC	oorC	905096	protein-coding		YP_002343969.1	185	Cj0538
+NC_002163.1	502221	502484		plus	hypothetical protein		904865	protein-coding		YP_002343970.1	87	Cj0539
+NC_002163.1	502487	503023		plus	exporting protein		904866	protein-coding		YP_002343971.1	178	Cj0540
+NC_002163.1	503037	503930		plus	polyprenyl synthetase		904867	protein-coding		YP_002343972.1	297	Cj0541
+NC_002163.1	503930	505228		plus	glutamyl-tRNA reductase	hemA	904868	protein-coding		YP_002343973.1	432	Cj0542
+NC_002163.1	505212	506921		plus	proline--tRNA ligase	proS	904869	protein-coding		YP_002343974.1	569	Cj0543
+NC_002163.1	506918	507307		plus	integral membrane protein		904870	protein-coding		YP_002343975.1	129	Cj0544
+NC_002163.1	507304	508227		plus	porphobilinogen deaminase	hemC	904871	protein-coding		YP_002343976.1	307	Cj0545
+NC_002163.1	508224	510026		plus	3-octaprenyl-4-hydroxybenzoate carboxy-lyase	ubiD	904873	protein-coding		YP_002343977.1	600	Cj0546
+NC_002163.1	510184	510549		plus	flagellar protein FlaG	flaG	904874	protein-coding		YP_002343978.1	121	Cj0547
+NC_002163.1	510552	512480		plus	flagellar hook-associated protein 2	fliD	904875	protein-coding		YP_002343979.1	642	Cj0548
+NC_002163.1	512492	512878		plus	flagellar protein FliS	fliS	904876	protein-coding		YP_002343980.1	128	Cj0549
+NC_002163.1	512859	513134		plus	hypothetical protein		904877	protein-coding		YP_002343981.1	91	Cj0550
+NC_002163.1	513138	513451		minus	uncharacterized gene	rnpB	904878	misc_RNA				Cjp11
+NC_002163.1	513138	513451		minus	RNA component of RNase P	rnpB	904878	other				Cjp11
+NC_002163.1	513566	514135		plus	elongation factor P	efp	904879	protein-coding		YP_002343982.1	189	Cj0551
+NC_002163.1	514295	514987		plus	membrane protein		904880	protein-coding		YP_002343983.1	230	Cj0552
+NC_002163.1	514974	515927		plus	integral membrane protein		904881	protein-coding		YP_002343984.1	317	Cj0553
+NC_002163.1	515937	516941		plus	hypothetical protein		904341	protein-coding		YP_002343985.1	334	Cj0554
+NC_002163.1	517060	518352		plus	dicarboxylate carrier protein MatC		904882	protein-coding		YP_002343986.1	430	Cj0555
+NC_002163.1	518363	519160		plus	amidohydrolase family protein		904883	protein-coding		YP_002343987.1	265	Cj0556
+NC_002163.1	519157	520242		minus	integral membrane protein		904884	protein-coding		YP_002343988.1	361	Cj0557c
+NC_002163.1	520239	521471		minus	gamma-glutamyl phosphate reductase	proA	904885	protein-coding		YP_002343989.1	410	Cj0558c
+NC_002163.1	521542	522477		plus	pyridine nucleotide-disulfide oxidoreductase		905160	protein-coding		YP_002343990.1	311	Cj0559
+NC_002163.1	522658	523986		plus	MATE family transport protein		905129	protein-coding		YP_002343991.1	442	Cj0560
+NC_002163.1	524034	524963		minus	periplasmic protein		905206	protein-coding		YP_002343992.1	309	Cj0561c
+NC_002163.1	525117	526493		plus	replicative DNA helicase	dnaB	904886	protein-coding		YP_002343993.1	458	Cj0562
+NC_002163.1	526556	527158		plus	hypothetical protein		905136	protein-coding		YP_002343994.1	200	Cj0563
+NC_002163.1	527149	527355		plus	integral membrane protein		904359	protein-coding		YP_002343995.1	68	Cj0564
+NC_002163.1	527436	528163		plus	uncharacterized gene		904887	pseudogene				Cj0565
+NC_002163.1	528182	529648		plus	hypothetical protein		904889	protein-coding		YP_002343996.1	488	Cj0566
+NC_002163.1	529659	529772		plus	hypothetical protein		904890	protein-coding		YP_002343997.1	37	Cj0567
+NC_002163.1	529974	531130		plus	uncharacterized gene		904891	pseudogene				Cj0568
+NC_002163.1	531139	532206		plus	ATP/GTP binding protein		904893	protein-coding		YP_002344000.1	355	Cj0570
+NC_002163.1	532203	533075		plus	transcriptional regulator		904894	protein-coding		YP_002344001.1	290	Cj0571
+NC_002163.1	533097	533172		minus	uncharacterized gene	tRNAMet	904895	tRNA				Cjp12
+NC_002163.1	533097	533172		minus	tRNA-Met	tRNAMet	904895	other				Cjp12
+NC_002163.1	533206	533280		minus	uncharacterized gene	tRNAGln	904896	tRNA				Cjp13
+NC_002163.1	533206	533280		minus	tRNA-Gln	tRNAGln	904896	other				Cjp13
+NC_002163.1	533373	534392		plus	3,4-dihydroxy-2-butanone-4-phosphate synthase	ribA	904897	protein-coding		YP_002344002.1	339	Cj0572
+NC_002163.1	534404	534847		plus	GatB/Yqey family protein		904898	protein-coding		YP_002344003.1	147	Cj0573
+NC_002163.1	534865	536565		plus	acetolactate synthase 3 catalytic subunit	ilvI	904899	protein-coding		YP_002344004.1	566	Cj0574
+NC_002163.1	536562	537026		plus	acetolactate synthase small subunit	ilvH	904900	protein-coding		YP_002344005.1	154	Cj0575
+NC_002163.1	537023	537988		plus	UDP-3-O-acylglucosamine N-acyltransferase	lpxD	904901	protein-coding		YP_002344006.1	321	Cj0576
+NC_002163.1	537977	539005		minus	S-adenosylmethionine--tRNA ribosyltransferase-isomerase	queA	904902	protein-coding		YP_002344007.1	342	Cj0577c
+NC_002163.1	538998	539735		minus	Sec-independent protein translocase TatC	tatC	904903	protein-coding		YP_002344008.1	245	Cj0578c
+NC_002163.1	539728	540144		minus	Sec-independent translocase TatB	tatB	904904	protein-coding		YP_002344009.1	138	Cj0579c
+NC_002163.1	540202	541269		minus	coproporphyrinogen III oxidase		905215	protein-coding		YP_002344010.1	355	Cj0580c
+NC_002163.1	541371	541841		plus	RNA pyrophosphohydrolase		905255	protein-coding		YP_002344011.1	156	Cj0581
+NC_002163.1	541843	543045		plus	aspartatokinase	lysC	904905	protein-coding		YP_002344012.1	400	Cj0582
+NC_002163.1	543046	543582		plus	hypothetical protein		904906	protein-coding		YP_002344013.1	178	Cj0583
+NC_002163.1	543588	544187		plus	DNA polymerase III subunit delta'		904907	protein-coding		YP_002344014.1	199	Cj0584
+NC_002163.1	544189	545331		plus	dihydropteroate synthase	folP	904908	protein-coding		YP_002344015.1	380	Cj0585
+NC_002163.1	545332	547275		plus	DNA ligase	ligA	904909	protein-coding		YP_002344016.1	647	Cj0586
+NC_002163.1	547256	548260		plus	integral membrane protein		904911	protein-coding		YP_002344017.1	334	Cj0587
+NC_002163.1	548257	549018		plus	hemolysin	tlyA	904912	protein-coding		YP_002344018.1	253	Cj0588
+NC_002163.1	548984	549838		plus	bifunctional riboflavin kinase/FMN adenylyltransferase	ribF	904913	protein-coding		YP_002344019.1	284	Cj0589
+NC_002163.1	549825	550535		plus	tRNA (cmo5U34)-methyltransferase		904914	protein-coding		YP_002344020.1	236	Cj0590
+NC_002163.1	550525	550746		minus	lipoprotein		904916	protein-coding		YP_002344021.1	73	Cj0591c
+NC_002163.1	550743	551177		minus	periplasmic protein		904917	protein-coding		YP_002344022.1	144	Cj0592c
+NC_002163.1	551235	551867		minus	integral membrane protein		904918	protein-coding		YP_002344023.1	210	Cj0593c
+NC_002163.1	551878	552528		minus	DNA/RNA non-specific endonuclease		904919	protein-coding		YP_002344024.1	216	Cj0594c
+NC_002163.1	552525	553151		minus	endonuclease III	nth	904920	protein-coding		YP_002344025.1	208	Cj0595c
+NC_002163.1	553232	554053		plus	peptidyl-prolyl cis-trans isomerase	peb4cbf2	904921	protein-coding		YP_002344026.1	273	Cj0596
+NC_002163.1	554053	555117		plus	fructose-bisphosphate aldolase	fba	904922	protein-coding		YP_002344027.1	354	Cj0597
+NC_002163.1	555212	556654		plus	membrane protein		904923	protein-coding		YP_002344028.1	480	Cj0598
+NC_002163.1	556651	557604		plus	OmpA family membrane protein		904924	protein-coding		YP_002344029.1	317	Cj0599
+NC_002163.1	557591	558466		plus	hypothetical protein		904925	protein-coding		YP_002344030.1	291	Cj0600
+NC_002163.1	558458	559801		minus	sodium-dependent transmembrane transport protein		904927	protein-coding		YP_002344031.1	447	Cj0601c
+NC_002163.1	559852	560520		minus	MOSC-domain-containing protein		904928	protein-coding		YP_002344032.1	222	Cj0602c
+NC_002163.1	560517	562220		minus	thiol:disulfide interchange protein	dsbD	904931	protein-coding		YP_002344033.1	567	Cj0603c
+NC_002163.1	562315	563196		plus	polyphosphate kinase		904932	protein-coding		YP_002344034.1	293	Cj0604
+NC_002163.1	563205	564395		plus	amidohydrolase		904933	protein-coding		YP_002344035.1	396	Cj0605
+NC_002163.1	564474	565646		plus	secretion protein HlyD		904934	protein-coding		YP_002344036.1	390	Cj0606
+NC_002163.1	565646	567571		plus	macrolide export ATP-binding protein/permease		904935	protein-coding		YP_002344037.1	641	Cj0607
+NC_002163.1	567573	568943		plus	outer membrane efflux protein		904936	protein-coding		YP_002344038.1	456	Cj0608
+NC_002163.1	568946	570124		minus	hypothetical protein		904937	protein-coding		YP_002344039.1	392	Cj0609c
+NC_002163.1	570111	571121		minus	periplasmic protein		904522	protein-coding		YP_002344040.1	336	Cj0610c
+NC_002163.1	571122	572498		minus	acyltransferase family protein		904938	protein-coding		YP_002344041.1	458	Cj0611c
+NC_002163.1	572541	573044		minus	ferritin	cft	904939	protein-coding		YP_002344042.1	167	Cj0612c
+NC_002163.1	573224	574219		plus	phosphate ABC transporter substrate-binding protein	pstS	904940	protein-coding		YP_002344043.1	331	Cj0613
+NC_002163.1	574229	575143		plus	phosphate ABC transporter permease	pstC	904941	protein-coding		YP_002344044.1	304	Cj0614
+NC_002163.1	575140	576228		plus	phosphate ABC transporter permease	pstA	904942	protein-coding		YP_002344045.1	362	Cj0615
+NC_002163.1	576225	576965		plus	phosphate ABC transporter ATP-binding protein	pstB	904943	protein-coding		YP_002344046.1	246	Cj0616
+NC_002163.1	577027	578255		plus	uncharacterized gene		904944	pseudogene				Cj0617
+NC_002163.1	578345	579661		plus	MATE family transport protein		904946	protein-coding		YP_002344049.1	438	Cj0619
+NC_002163.1	579637	580284		plus	hypothetical protein		904947	protein-coding		YP_002344050.1	215	Cj0620
+NC_002163.1	580326	581846		plus	hypothetical protein		904948	protein-coding		YP_002344051.1	506	Cj0621
+NC_002163.1	581827	584016		plus	carbamoyltransferase	hypF	904949	protein-coding		YP_002344052.1	729	Cj0622
+NC_002163.1	584094	584837		plus	hydrogenase isoenzymes formation protein	hypB	904950	protein-coding		YP_002344053.1	247	Cj0623
+NC_002163.1	584837	585118		plus	hydrogenase isoenzymes formation protein	hypC	904953	protein-coding		YP_002344054.1	93	Cj0624
+NC_002163.1	585102	586193		plus	hydrogenase isoenzymes formation protein	hypD	904954	protein-coding		YP_002344055.1	363	Cj0625
+NC_002163.1	586190	587164		plus	hydrogenase isoenzymes formation protein	hypE	904955	protein-coding		YP_002344056.1	324	Cj0626
+NC_002163.1	587164	587508		plus	hydrogenase nickel incorporation protein HypA	hypA	904956	protein-coding		YP_002344057.1	114	Cj0627
+NC_002163.1	587868	591303		plus	lipoprotein		904958	protein-coding		YP_002344058.1	1144	Cj0628
+NC_002163.1	591537	592502		minus	DNA polymerase III subunit delta		904888	protein-coding		YP_002344059.1	321	Cj0630c
+NC_002163.1	592495	594429		minus	ribonuclease		904960	protein-coding		YP_002344060.1	644	Cj0631c
+NC_002163.1	594548	595570		plus	ketol-acid reductoisomerase	ilvC	904961	protein-coding		YP_002344061.1	340	Cj0632
+NC_002163.1	595574	596656		plus	periplasmic protein		904962	protein-coding		YP_002344062.1	360	Cj0633
+NC_002163.1	596646	597419		plus	DNA processing protein A	dprA	904964	protein-coding		YP_002344063.1	257	Cj0634
+NC_002163.1	597416	597799		plus	Holliday junction resolvase-like protein		904965	protein-coding		YP_002344064.1	127	Cj0635
+NC_002163.1	597828	598667		plus	NOL1/NOP2/sun family protein		904966	protein-coding		YP_002344065.1	279	Cj0636
+NC_002163.1	598843	599340		minus	methionine sulfoxide reductase A	mrsA	904967	protein-coding		YP_002344066.1	165	Cj0637c
+NC_002163.1	599381	599899		minus	inorganic pyrophosphatase	ppa	904968	protein-coding		YP_002344067.1	172	Cj0638c
+NC_002163.1	599909	600487		minus	adenylate kinase	adk	904969	protein-coding		YP_002344068.1	192	Cj0639c
+NC_002163.1	600484	602235		minus	aspartate--tRNA ligase	aspS	904820	protein-coding		YP_002344069.1	583	Cj0640c
+NC_002163.1	602326	603186		plus	NAD kinase	pnk	905135	protein-coding		YP_002344070.1	286	Cj0641
+NC_002163.1	603186	604709		plus	DNA repair protein	recN	905122	protein-coding		YP_002344071.1	507	Cj0642
+NC_002163.1	604815	606059		plus	two-component response regulator	cbrR	904970	protein-coding		YP_002344072.1	414	Cj0643
+NC_002163.1	606050	606865		plus	TatD-related deoxyribonuclease		904971	protein-coding		YP_002344073.1	271	Cj0644
+NC_002163.1	606865	607983		plus	transglycosylase		904972	protein-coding		YP_002344074.1	372	Cj0645
+NC_002163.1	607943	608770		plus	lipoprotein		904973	protein-coding		YP_002344075.1	275	Cj0646
+NC_002163.1	608776	609264		plus	HAD-superfamily hydrolase		904974	protein-coding		YP_002344076.1	162	Cj0647
+NC_002163.1	609255	609770		plus	membrane protein		904975	protein-coding		YP_002344077.1	171	Cj0648
+NC_002163.1	609752	610213		plus	OstA family protein		904976	protein-coding		YP_002344078.1	153	Cj0649
+NC_002163.1	610210	610806		plus	GTP-binding protein EngB	engB	904977	protein-coding		YP_002344079.1	198	Cj0650
+NC_002163.1	610803	611297		plus	integral membrane protein		904978	protein-coding		YP_002344080.1	164	Cj0651
+NC_002163.1	611298	613103		plus	penicillin-binding protein	pbpC	904979	protein-coding		YP_002344081.1	601	Cj0652
+NC_002163.1	613224	615014		minus	aminopeptidase		904980	protein-coding		YP_002344082.1	596	Cj0653c
+NC_002163.1	615014	616485		minus	uncharacterized gene		904981	pseudogene				Cj0654c
+NC_002163.1	616572	617120		minus	periplasmic protein		904910	protein-coding		YP_002344083.1	182	Cj0659c
+NC_002163.1	617113	618219		minus	transmembrane protein		904982	protein-coding		YP_002344084.1	368	Cj0660c
+NC_002163.1	618206	619081		minus	GTPase Era	era	904983	protein-coding		YP_002344085.1	291	Cj0661c
+NC_002163.1	619078	620397		minus	ATP-dependent protease ATP-binding subunit HslU	hslU	904984	protein-coding		YP_002344086.1	439	Cj0662c
+NC_002163.1	620394	620936		minus	ATP-dependent protease peptidase subunit	hslV	904986	protein-coding		YP_002344087.1	180	Cj0663c
+NC_002163.1	620936	621379		minus	50S ribosomal protein L9	rplI	904987	protein-coding		YP_002344088.1	147	Cj0664c
+NC_002163.1	621392	622612		minus	argininosuccinate synthase	argG	904988	protein-coding		YP_002344089.1	406	Cj0665c
+NC_002163.1	622768	623013		plus	S4 domain-containing protein		904989	protein-coding		YP_002344090.1	81	Cj0667
+NC_002163.1	623010	623417		plus	ATP/GTP-binding protein		904990	protein-coding		YP_002344091.1	135	Cj0668
+NC_002163.1	623410	624138		plus	ABC transporter ATP-binding protein		905196	protein-coding		YP_002344092.1	242	Cj0669
+NC_002163.1	624138	625388		plus	RNA polymerase factor sigma-54	rpoN	904991	protein-coding		YP_002344093.1	416	Cj0670
+NC_002163.1	625552	626976		plus	anaerobic C4-dicarboxylate transporter	dcuB	904992	protein-coding		YP_002344094.1	474	Cj0671
+NC_002163.1	627118	627306		plus	periplasmic protein		904993	protein-coding		YP_002344095.1	62	Cj0672
+NC_002163.1	627316	628972		plus	uncharacterized gene	kdpA	904994	pseudogene				Cj0676
+NC_002163.1	629020	631065		plus	potassium-transporting ATPase subunit B	kdpB	904995	protein-coding		YP_002344096.1	681	Cj0677
+NC_002163.1	631067	631661		plus	uncharacterized gene	kdpC	904996	pseudogene				Cj0678
+NC_002163.1	631667	633487		plus	uncharacterized gene	kdpD	904997	pseudogene				Cj0679
+NC_002163.1	633589	635562		minus	excinuclease ABC subunit B	uvrB	904998	protein-coding		YP_002344098.1	657	Cj0680c
+NC_002163.1	635716	635946		plus	hypothetical protein		904999	protein-coding		YP_002344099.1	76	Cj0681
+NC_002163.1	635936	636178		plus	hypothetical protein		905000	protein-coding		YP_002344100.1	80	Cj0682
+NC_002163.1	636175	636612		plus	hypothetical protein		905001	protein-coding		YP_002344101.1	145	Cj0683
+NC_002163.1	636594	638447		plus	primosome assembly protein PriA	priA	905002	protein-coding		YP_002344102.1	617	Cj0684
+NC_002163.1	638540	639892		minus	invasion protein CipA	cipA	905003	protein-coding		YP_002344103.1	450	Cj0685c
+NC_002163.1	639998	641071		plus	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)	ispG	905004	protein-coding		YP_002344104.1	357	Cj0686
+NC_002163.1	641102	641800		minus	flagellar basal body L-ring protein	flgH	905006	protein-coding		YP_002344105.1	232	Cj0687c
+NC_002163.1	641890	643395		plus	phosphate acetyltransferase	pta	905007	protein-coding		YP_002344106.1	501	Cj0688
+NC_002163.1	643409	644599		plus	acetate kinase	ackA	905008	protein-coding		YP_002344107.1	396	Cj0689
+NC_002163.1	644627	648379		minus	restriction/modification enzyme		905009	protein-coding		YP_002344108.1	1250	Cj0690c
+NC_002163.1	648529	649020		plus	membrane protein		905010	protein-coding		YP_002344109.1	163	Cj0691
+NC_002163.1	649008	649946		minus	membrane protein		905011	protein-coding		YP_002344110.1	312	Cj0692c
+NC_002163.1	649946	650884		minus	rRNA small subunit methyltransferase H		905012	protein-coding		YP_002344111.1	312	Cj0693c
+NC_002163.1	651043	652533		plus	periplasmic protein		905013	protein-coding		YP_002344112.1	496	Cj0694
+NC_002163.1	652530	653918		plus	cell division protein FtsA	ftsA	905014	protein-coding		YP_002344113.1	462	Cj0695
+NC_002163.1	653934	655046		plus	cell division protein FtsZ	ftsZ	905015	protein-coding		YP_002344114.1	370	Cj0696
+NC_002163.1	655202	656014		plus	flagellar basal-body rod protein	flgG2	905016	protein-coding		YP_002344115.1	270	Cj0697
+NC_002163.1	656043	656834		plus	flagellar basal body rod protein	flgG	905017	protein-coding		YP_002344116.1	263	Cj0698
+NC_002163.1	656901	658331		minus	glutamine synthetase	glnA	905018	protein-coding		YP_002344117.1	476	Cj0699c
+NC_002163.1	658534	659229		plus	hypothetical protein		905019	protein-coding		YP_002344118.1	231	Cj0700
+NC_002163.1	659226	660479		plus	protease		905020	protein-coding		YP_002344119.1	417	Cj0701
+NC_002163.1	660480	660974		plus	5-(carboxyamino)imidazole ribonucleotide mutase	purE	905021	protein-coding		YP_002344120.1	164	Cj0702
+NC_002163.1	660984	661520		plus	hypothetical protein		905022	protein-coding		YP_002344121.1	178	Cj0703
+NC_002163.1	661532	662395		plus	glycine--tRNA ligase alpha subunit	glyQ	905023	protein-coding		YP_002344122.1	287	Cj0704
+NC_002163.1	662382	663107		plus	hypothetical protein		905024	protein-coding		YP_002344123.1	241	Cj0705
+NC_002163.1	663117	663833		plus	hypothetical protein		905025	protein-coding		YP_002344124.1	238	Cj0706
+NC_002163.1	663830	664987		plus	3-deoxy-D-manno-octulosonic acid transferase	kdtA	905026	protein-coding		YP_002344125.1	385	Cj0707
+NC_002163.1	664968	665720		plus	pseudouridine synthase		905027	protein-coding		YP_002344126.1	250	Cj0708
+NC_002163.1	665788	667125		plus	signal recognition particle protein	ffh	905028	protein-coding		YP_002344127.1	445	Cj0709
+NC_002163.1	667190	667417		plus	30S ribosomal protein S16	rpsP	905030	protein-coding		YP_002344128.1	75	Cj0710
+NC_002163.1	667420	667662		plus	hypothetical protein		904497	protein-coding		YP_002344129.1	80	Cj0711
+NC_002163.1	667655	668194		plus	ribosome maturation factor RimM	rimM	904519	protein-coding		YP_002344130.1	179	Cj0712
+NC_002163.1	668191	668895		plus	tRNA (guanine-N(1)-)-methyltransferase	trmD	904477	protein-coding		YP_002344131.1	234	Cj0713
+NC_002163.1	668906	669262		plus	50S ribosomal protein L19	rplS	905031	protein-coding		YP_002344132.1	118	Cj0714
+NC_002163.1	669395	669808		plus	5-hydroxyisourate hydrolase		905032	protein-coding		YP_002344133.1	137	Cj0715
+NC_002163.1	669832	671172		plus	phospho-2-dehydro-3-deoxyheptonate aldolase		905033	protein-coding		YP_002344134.1	446	Cj0716
+NC_002163.1	671169	671498		plus	ArsC family protein		905035	protein-coding		YP_002344135.1	109	Cj0717
+NC_002163.1	671946	675548		plus	DNA polymerase III subunit alpha	dnaE	905036	protein-coding		YP_002344136.1	1200	Cj0718
+NC_002163.1	675560	676192		minus	hypothetical protein		905037	protein-coding		YP_002344137.1	210	Cj0719c
+NC_002163.1	676227	676976		minus	flagellin C	flaC	905038	protein-coding		YP_002344138.1	249	Cj0720c
+NC_002163.1	677015	677485		minus	integral membrane protein		905039	protein-coding		YP_002344139.1	156	Cj0721c
+NC_002163.1	677498	678313		minus	DNA methylase		905040	protein-coding		YP_002344140.1	271	Cj0722c
+NC_002163.1	678310	679497		minus	integral membrane zinc-metalloprotease		905041	protein-coding		YP_002344141.1	395	Cj0723c
+NC_002163.1	679624	679809		plus	hypothetical protein		905042	protein-coding		YP_002344142.1	61	Cj0724
+NC_002163.1	679806	680348		minus	molybdenum cofactor biosynthesis protein MogA	mogA	905043	protein-coding		YP_002344143.1	180	Cj0725c
+NC_002163.1	680369	681352		minus	magnesium and cobalt transport protein	corA	905044	protein-coding		YP_002344144.1	327	Cj0726c
+NC_002163.1	681469	682515		plus	substrate-binding protein		905045	protein-coding		YP_002344145.1	348	Cj0727
+NC_002163.1	682526	683851		plus	periplasmic protein		905046	protein-coding		YP_002344146.1	441	Cj0728
+NC_002163.1	683848	684657		plus	type I phosphodiesterase/nucleotide pyrophosphatase		905047	protein-coding		YP_002344147.1	269	Cj0729
+NC_002163.1	684654	685493		plus	ABC transporter permease		905048	protein-coding		YP_002344148.1	279	Cj0730
+NC_002163.1	685494	686273		plus	ABC transporter permease		905049	protein-coding		YP_002344149.1	259	Cj0731
+NC_002163.1	686277	687266		plus	ABC transporter ATP-binding protein		905050	protein-coding		YP_002344150.1	329	Cj0732
+NC_002163.1	687263	687901		plus	HAD-superfamily hydrolase		905051	protein-coding		YP_002344151.1	212	Cj0733
+NC_002163.1	687925	688680		minus	histidine-binding protein	hisJ	905052	protein-coding		YP_002344152.1	251	Cj0734c
+NC_002163.1	689007	689726		plus	periplasmic protein		905053	protein-coding		YP_002344153.1	239	Cj0735
+NC_002163.1	689656	691584		plus	hypothetical protein		905054	protein-coding		YP_002344154.1	642	Cj0736
+NC_002163.1	693017	694064		plus	uncharacterized gene		905058	pseudogene				Cj0740
+NC_002163.1	694230	695922		plus	uncharacterized gene		905814	pseudogene				Cj0742
+NC_002163.1	696424	697936		plus	uncharacterized gene		3245041	rRNA				Cjr07
+NC_002163.1	696424	697936		plus	16S ribosomal RNA		3245041	other				Cjr07
+NC_002163.1	698041	698116		plus	uncharacterized gene	tRNAAla	905060	tRNA				Cjp14
+NC_002163.1	698041	698116		plus	tRNA-Ala	tRNAAla	905060	other				Cjp14
+NC_002163.1	698125	698201		plus	uncharacterized gene	tRNAIle	905061	tRNA				Cjp15
+NC_002163.1	698125	698201		plus	tRNA-Ile	tRNAIle	905061	other				Cjp15
+NC_002163.1	698743	701654		plus	uncharacterized gene		3245038	rRNA				Cjr08
+NC_002163.1	698743	701654		plus	23S ribosomal RNA		3245038	other				Cjr08
+NC_002163.1	701939	702058		plus	uncharacterized gene		3245042	rRNA				Cjr09
+NC_002163.1	701939	702058		plus	5S ribosomal RNA		3245042	other				Cjr09
+NC_002163.1	702810	702917		plus	hypothetical protein		905062	protein-coding		YP_002344160.1	35	Cj0747
+NC_002163.1	703027	703119		plus	hypothetical protein		905063	protein-coding		YP_002344161.1	30	Cj0748
+NC_002163.1	703132	704369		plus	uncharacterized gene		905064	pseudogene				Cj0752
+NC_002163.1	704442	705125		minus	TonB transport protein	tonB3	905065	protein-coding		YP_002344162.1	227	Cj0753c
+NC_002163.1	705450	707540		plus	ferric enterobactin uptake receptor	cfrA	905066	protein-coding		YP_002344163.1	696	Cj0755
+NC_002163.1	707840	708634		plus	heat-inducible transcription repressor	hrcA	905067	protein-coding		YP_002344164.1	264	Cj0757
+NC_002163.1	708631	709161		plus	heat shock protein GrpE	grpE	905068	protein-coding		YP_002344165.1	176	Cj0758
+NC_002163.1	709183	711054		plus	chaperone DnaK	dnaK	905069	protein-coding		YP_002344166.1	623	Cj0759
+NC_002163.1	711314	712336		plus	hypothetical protein		905070	protein-coding		YP_002344167.1	340	Cj0760
+NC_002163.1	712406	712747		plus	hypothetical protein		905071	protein-coding		YP_002344168.1	113	Cj0761
+NC_002163.1	712797	713966		minus	aspartate aminotransferase	aspB	905072	protein-coding		YP_002344169.1	389	Cj0762c
+NC_002163.1	714138	714776		minus	serine acetyltransferase	cysE	905073	protein-coding		YP_002344170.1	212	Cj0763c
+NC_002163.1	714777	716612		minus	arginine decarboxylase	speA	905074	protein-coding		YP_002344171.1	611	Cj0764c
+NC_002163.1	716609	717835		minus	histidine--tRNA ligase	hisS	905075	protein-coding		YP_002344172.1	408	Cj0765c
+NC_002163.1	717832	718410		minus	thymidylate kinase	tmk	905076	protein-coding		YP_002344173.1	192	Cj0766c
+NC_002163.1	718401	718877		minus	phosphopantetheine adenylyltransferase	coaD	905077	protein-coding		YP_002344174.1	158	Cj0767c
+NC_002163.1	718917	719480		minus	3-polyprenyl-4-hydroxybenzoate decarboxylase		905078	protein-coding		YP_002344175.1	187	Cj0768c
+NC_002163.1	719477	720139		minus	flagellar basal body P-ring biosynthesis protein FlgA	flgA	905079	protein-coding		YP_002344176.1	220	Cj0769c
+NC_002163.1	720223	720999		minus	NLPA family lipoprotein		905080	protein-coding		YP_002344177.1	258	Cj0770c
+NC_002163.1	721009	721779		minus	NLPA family lipoprotein		905081	protein-coding		YP_002344178.1	256	Cj0771c
+NC_002163.1	721828	722601		minus	NLPA family lipoprotein		905082	protein-coding		YP_002344179.1	257	Cj0772c
+NC_002163.1	722791	723702		minus	binding-protein dependent transport system permease		905083	protein-coding		YP_002344180.1	303	Cj0773c
+NC_002163.1	723699	724709		minus	methionine ABC transporter ATP-binding protei		905084	protein-coding		YP_002344181.1	336	Cj0774c
+NC_002163.1	724714	727326		minus	valine--tRNA ligase	valS	904417	protein-coding		YP_002344182.1	870	Cj0775c
+NC_002163.1	727349	728371		minus	periplasmic protein		905085	protein-coding		YP_002344183.1	340	Cj0776c
+NC_002163.1	728500	730530		plus	ATP-dependent DNA helicase		905086	protein-coding		YP_002344184.1	676	Cj0777
+NC_002163.1	730569	731306		plus	major antigenic peptide PEB2	peb2	905087	protein-coding		YP_002344185.1	245	Cj0778
+NC_002163.1	731405	731932		plus	2-Cys peroxiredoxin	tpx	905088	protein-coding		YP_002344186.1	175	Cj0779
+NC_002163.1	732179	734953		plus	nitrate reductase catalytic subunit	napA	905089	protein-coding		YP_002344187.1	924	Cj0780
+NC_002163.1	734971	735711		plus	quinol dehydrogenase periplasmic subunit	napG	904514	protein-coding		YP_002344188.1	246	Cj0781
+NC_002163.1	735708	736490		plus	quinol dehydrogenase membrane subunit	napH	904348	protein-coding		YP_002344189.1	260	Cj0782
+NC_002163.1	736487	737011		plus	nitrate reductase small subunit	napB	904951	protein-coding		YP_002344190.1	174	Cj0783
+NC_002163.1	737016	737930		plus	periplasmic protein	napL	905090	protein-coding		YP_002344191.1	304	Cj0784
+NC_002163.1	737923	738261		plus	nitrate reductase assembly protein NapD	napD	905091	protein-coding		YP_002344192.1	112	Cj0785
+NC_002163.1	738274	738447		plus	hypothetical protein		905092	protein-coding		YP_002344193.1	57	Cj0786
+NC_002163.1	738526	738774		plus	hypothetical protein		905224	protein-coding		YP_002344194.1	82	Cj0787
+NC_002163.1	738771	739262		plus	hypothetical protein		905093	protein-coding		YP_002344195.1	163	Cj0788
+NC_002163.1	739231	740349		plus	poly(A) polymerase family protein	cca	905094	protein-coding		YP_002344196.1	372	Cj0789
+NC_002163.1	740346	741170		plus	formyltetrahydrofolate deformylase	purU	905095	protein-coding		YP_002344197.1	274	Cj0790
+NC_002163.1	741167	742441		minus	aminotransferase		905097	protein-coding		YP_002344198.1	424	Cj0791c
+NC_002163.1	742477	743355		plus	hypothetical protein		905098	protein-coding		YP_002344199.1	292	Cj0792
+NC_002163.1	743359	744378		plus	signal transduction histidine kinase	flgS	905099	protein-coding		YP_002344200.1	339	Cj0793
+NC_002163.1	744495	745775		plus	hypothetical protein		905100	protein-coding		YP_002344201.1	426	Cj0794
+NC_002163.1	745833	747260		minus	UDP-N-acetylmuramoyl-tripeptide D-alanyl-D-alanine ligase	murF	905101	protein-coding		YP_002344202.1	475	Cj0795c
+NC_002163.1	747261	747980		minus	hydrolase		905199	protein-coding		YP_002344203.1	239	Cj0796c
+NC_002163.1	747982	748197		minus	hypothetical protein		905230	protein-coding		YP_002344204.1	71	Cj0797c
+NC_002163.1	748257	749297		minus	D-alanine--D-alanine ligase	ddl	905128	protein-coding		YP_002344205.1	346	Cj0798c
+NC_002163.1	749307	749858		minus	Holliday junction DNA helicase RuvA	ruvA	905102	protein-coding		YP_002344206.1	183	Cj0799c
+NC_002163.1	749834	751693		minus	ATPase		905103	protein-coding		YP_002344207.1	619	Cj0800c
+NC_002163.1	751797	753248		plus	integral membrane protein		905104	protein-coding		YP_002344208.1	483	Cj0801
+NC_002163.1	753248	754636		plus	cysteine--tRNA ligase	cysS	905105	protein-coding		YP_002344209.1	462	Cj0802
+NC_002163.1	754629	756371		plus	lipid ABC transporter ATP-binding protein/permease	msbA	905106	protein-coding		YP_002344210.1	580	Cj0803
+NC_002163.1	756403	757461		plus	dihydroorotate dehydrogenase 2	pyrD	905107	protein-coding		YP_002344211.1	352	Cj0804
+NC_002163.1	757458	758708		plus	zinc protease		905108	protein-coding		YP_002344212.1	416	Cj0805
+NC_002163.1	758701	759597		plus	4-hydroxy-tetrahydrodipicolinate synthase	dapA	905109	protein-coding		YP_002344213.1	298	Cj0806
+NC_002163.1	759597	760376		plus	oxidoreductase		905110	protein-coding		YP_002344214.1	259	Cj0807
+NC_002163.1	760417	760722		minus	hypothetical protein		905112	protein-coding		YP_002344215.1	101	Cj0808c
+NC_002163.1	760734	761330		minus	hydrolase		905113	protein-coding		YP_002344216.1	198	Cj0809c
+NC_002163.1	761404	762144		plus	NH(3)-dependent NAD(+) synthetase	nadE	906011	protein-coding		YP_002344217.1	246	Cj0810
+NC_002163.1	762148	763074		plus	tetraacyldisaccharide 4'-kinase	lpxK	905114	protein-coding		YP_002344218.1	308	Cj0811
+NC_002163.1	763071	764483		plus	threonine synthase	thrC	905115	protein-coding		YP_002344219.1	470	Cj0812
+NC_002163.1	764480	765199		plus	3-deoxy-manno-octulosonate cytidylyltransferase	kdsB	905116	protein-coding		YP_002344220.1	239	Cj0813
+NC_002163.1	765285	766597		plus	uncharacterized gene		905117	pseudogene				Cj0814
+NC_002163.1	766692	767462		plus	glutamine-binding protein	glnH	905120	protein-coding		YP_002344224.1	256	Cj0817
+NC_002163.1	767555	767782		plus	lipoprotein		905121	protein-coding		YP_002344225.1	75	Cj0818
+NC_002163.1	767808	768032		plus	hypothetical protein		905123	protein-coding		YP_002344226.1	74	Cj0819
+NC_002163.1	768029	768763		minus	flagellar biosynthesis protein FliP	fliP	905124	protein-coding		YP_002344227.1	244	Cj0820c
+NC_002163.1	768906	770195		plus	bifunctional N-acetylglucosamine-1-phosphate uridyltransferase/glucosamine-1-phosphate acetyltransferase	glmU	905125	protein-coding		YP_002344228.1	429	Cj0821
+NC_002163.1	770192	771346		plus	bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate synthase	dfp	905213	protein-coding		YP_002344229.1	384	Cj0822
+NC_002163.1	771343	771960		plus	hypothetical protein		905126	protein-coding		YP_002344230.1	205	Cj0823
+NC_002163.1	771964	772632		plus	UDP diphosphate synthase	uppS	905127	protein-coding		YP_002344231.1	222	Cj0824
+NC_002163.1	772629	773405		plus	processing peptidase		905130	protein-coding		YP_002344232.1	258	Cj0825
+NC_002163.1	773405	774430		plus	integral membrane protein		905219	protein-coding		YP_002344233.1	341	Cj0826
+NC_002163.1	774427	775152		plus	tRNA pseudouridine synthase A	truA	904389	protein-coding		YP_002344234.1	241	Cj0827
+NC_002163.1	775149	776360		minus	threonine dehydratase	ilvA	904335	protein-coding		YP_002344235.1	403	Cj0828c
+NC_002163.1	776360	776773		minus	CoA-binding domain-containing protein		905131	protein-coding		YP_002344236.1	137	Cj0829c
+NC_002163.1	776892	777308		plus	integral membrane protein		904930	protein-coding		YP_002344237.1	138	Cj0830
+NC_002163.1	777295	778368		minus	tRNA/tmRNA (uracil-C(5))-methyltransferase	trmA	905134	protein-coding		YP_002344238.1	357	Cj0831c
+NC_002163.1	778365	780098		minus	Na+/H+ antiporter family protein		904915	protein-coding		YP_002344239.1	577	Cj0832c
+NC_002163.1	780095	780844		minus	oxidoreductase		905132	protein-coding		YP_002344240.1	249	Cj0833c
+NC_002163.1	780841	782079		minus	ankyrin repeat-containing protein		905133	protein-coding		YP_002344241.1	412	Cj0834c
+NC_002163.1	782129	784675		minus	aconitate hydratase B	acnB	905137	protein-coding		YP_002344242.1	848	Cj0835c
+NC_002163.1	784730	785182		plus	methylated-DNA--protein-cysteine methyltransferase	ogt	904456	protein-coding		YP_002344243.1	150	Cj0836
+NC_002163.1	785174	786115		minus	hypothetical protein		905005	protein-coding		YP_002344244.1	313	Cj0837c
+NC_002163.1	786119	788005		minus	methionine--tRNA ligase	metG	905186	protein-coding		YP_002344245.1	628	Cj0838c
+NC_002163.1	788015	788212		minus	hypothetical protein		905138	protein-coding		YP_002344246.1	65	Cj0839c
+NC_002163.1	788205	789047		minus	fructose-1,6-bisphosphatase	fbp	905148	protein-coding		YP_002344247.1	280	Cj0840c
+NC_002163.1	789049	789540		minus	molybdopterin-guanine dinucleotide biosynthesis protein	mobB	904424	protein-coding		YP_002344248.1	163	Cj0841c
+NC_002163.1	789636	790121		plus	lipoprotein		905139	protein-coding		YP_002344249.1	161	Cj0842
+NC_002163.1	790018	791643		minus	transglycosylase		905140	protein-coding		YP_002344250.1	541	Cj0843c
+NC_002163.1	791640	791921		minus	integral membrane protein		905141	protein-coding		YP_002344251.1	93	Cj0844c
+NC_002163.1	791924	793219		minus	glutamate--tRNA ligase	gltX	905144	protein-coding		YP_002344252.1	431	Cj0845c
+NC_002163.1	793305	794429		plus	metallophosphoesterase		905145	protein-coding		YP_002344253.1	374	Cj0846
+NC_002163.1	794426	795226		plus	phosphatidylserine decarboxylase	psd	904800	protein-coding		YP_002344254.1	266	Cj0847
+NC_002163.1	795223	795504		minus	hypothetical protein		905149	protein-coding		YP_002344255.1	93	Cj0848c
+NC_002163.1	795501	797660		minus	hypothetical protein		905146	protein-coding		YP_002344256.1	719	Cj0849c
+NC_002163.1	797653	798840		minus	MFS transport protein		905150	protein-coding		YP_002344257.1	395	Cj0850c
+NC_002163.1	798818	799321		minus	integral membrane protein		905151	protein-coding		YP_002344258.1	167	Cj0851c
+NC_002163.1	799321	799650		minus	integral membrane protein		905153	protein-coding		YP_002344259.1	109	Cj0852c
+NC_002163.1	799647	800921		minus	glutamate-1-semialdehyde aminotransferase	hemL	905185	protein-coding		YP_002344260.1	424	Cj0853c
+NC_002163.1	800918	801265		minus	periplasmic protein		905154	protein-coding		YP_002344261.1	115	Cj0854c
+NC_002163.1	801345	802193		plus	bifunctional 5,10-methylene-tetrahydrofolate dehydrogenase/ 5,10-methylene-tetrahydrofolate cyclohydrolase	folD	905155	protein-coding		YP_002344262.1	282	Cj0855
+NC_002163.1	802203	803051		plus	signal peptidase I	lepP	905156	protein-coding		YP_002344263.1	282	Cj0856
+NC_002163.1	803073	804233		minus	molybdopterin biosynthesis protein	moeA	905221	protein-coding		YP_002344264.1	386	Cj0857c
+NC_002163.1	804230	805486		minus	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	murA	905157	protein-coding		YP_002344265.1	418	Cj0858c
+NC_002163.1	805552	805980		minus	hypothetical protein		905158	protein-coding		YP_002344266.1	142	Cj0859c
+NC_002163.1	806075	806947		plus	integral membrane protein		905161	protein-coding		YP_002344267.1	290	Cj0860
+NC_002163.1	806934	807500		minus	para-aminobenzoate synthase glutamine amidotransferase subunit II	pabA	905163	protein-coding		YP_002344268.1	188	Cj0861c
+NC_002163.1	807497	809281		minus	para-aminobenzoate synthase subunit I	pabB	905164	protein-coding		YP_002344269.1	594	Cj0862c
+NC_002163.1	809271	810335		minus	DNA recombinase	xerD	905165	protein-coding		YP_002344270.1	354	Cj0863c
+NC_002163.1	810963	811322		plus	periplasmic protein		904441	protein-coding		YP_002344271.1	119	Cj0864
+NC_002163.1	811319	812119		plus	protein-disulfide oxidoreductase	dsbB	905166	protein-coding		YP_002344272.1	266	Cj0865
+NC_002163.1	812155	813591		plus	uncharacterized gene		905188	pseudogene				Cj0866
+NC_002163.1	813675	814316		plus	hypothetical protein	dsbA	905167	protein-coding		YP_002344273.1	213	Cj0872
+NC_002163.1	814351	815337		minus	uncharacterized gene		905147	pseudogene				Cj0873c
+NC_002163.1	815432	815524		minus	hypothetical protein		905171	protein-coding		YP_002344277.1	30	Cj0877c
+NC_002163.1	815545	815691		plus	hypothetical protein		905143	protein-coding		YP_002344278.1	48	Cj0878
+NC_002163.1	815669	816301		minus	periplasmic protein		904821	protein-coding		YP_002344279.1	210	Cj0879c
+NC_002163.1	816298	816540		minus	hypothetical protein		905170	protein-coding		YP_002344280.1	80	Cj0880c
+NC_002163.1	816524	817570		minus	hypothetical protein		905173	protein-coding		YP_002344281.1	348	Cj0881c
+NC_002163.1	817579	819753		minus	flagellar biosynthesis protein FlhA	flhA	905174	protein-coding		YP_002344282.1	724	Cj0882c
+NC_002163.1	819740	820150		minus	transcriptional regulator		905175	protein-coding		YP_002344283.1	136	Cj0883c
+NC_002163.1	820325	820597		plus	30S ribosomal protein S15	rpsO	905176	protein-coding		YP_002344284.1	90	Cj0884
+NC_002163.1	820683	823523		minus	DNA translocase FtsK	ftsK	905152	protein-coding		YP_002344285.1	946	Cj0886c
+NC_002163.1	823633	825885		minus	flagellin		905178	protein-coding		YP_002344286.1	750	Cj0887c
+NC_002163.1	826066	826152		plus	uncharacterized gene	tRNALeu	905179	tRNA				Cjp16
+NC_002163.1	826066	826152		plus	tRNA-Leu	tRNALeu	905179	other				Cjp16
+NC_002163.1	826163	826237		plus	uncharacterized gene	tRNAGly	904415	tRNA				Cjp17
+NC_002163.1	826163	826237		plus	tRNA-Gly	tRNAGly	904415	other				Cjp17
+NC_002163.1	826268	828199		minus	ABC transporter ATP-binding protein		904350	protein-coding		YP_002344287.1	643	Cj0888c
+NC_002163.1	828203	829492		minus	sensory trasnduction histidine kinase		905181	protein-coding		YP_002344288.1	429	Cj0889c
+NC_002163.1	829486	830148		minus	sensory transduction transcriptional regulator		905187	protein-coding		YP_002344289.1	220	Cj0890c
+NC_002163.1	830135	831718		minus	D-3-phosphoglycerate dehydrogenase	serA	905182	protein-coding		YP_002344290.1	527	Cj0891c
+NC_002163.1	831715	832203		minus	periplasmic protein		905183	protein-coding		YP_002344291.1	162	Cj0892c
+NC_002163.1	832203	833873		minus	30S ribosomal protein S1	rpsA	905184	protein-coding		YP_002344292.1	556	Cj0893c
+NC_002163.1	834005	834838		minus	4-hydroxy-3-methylbut-2-enyl diphosphate reductase	ispH	905189	protein-coding		YP_002344293.1	277	Cj0894c
+NC_002163.1	834828	836114		minus	3-phosphoshikimate 1-carboxyvinyltransferase	aroA	904338	protein-coding		YP_002344294.1	428	Cj0895c
+NC_002163.1	836111	838432		minus	phenylalanine--tRNA ligase subunit beta	pheT	905191	protein-coding		YP_002344295.1	773	Cj0896c
+NC_002163.1	838429	839421		minus	phenylalanine--tRNA ligase subunit alpha	pheS	905193	protein-coding		YP_002344296.1	330	Cj0897c
+NC_002163.1	839544	839909		plus	histidine triad (HIT) family protein		905194	protein-coding		YP_002344297.1	121	Cj0898
+NC_002163.1	839939	840508		minus	4-methyl-5(beta-hydroxyethyl)-thiazole monophosphate synthesis protein	thiJ	905197	protein-coding		YP_002344298.1	189	Cj0899c
+NC_002163.1	840501	840680		minus	hypothetical protein		905195	protein-coding		YP_002344299.1	59	Cj0900c
+NC_002163.1	840763	841506		plus	amino acid ABC transporter permease		905200	protein-coding		YP_002344300.1	247	Cj0901
+NC_002163.1	841499	842227		plus	glutamine transporter ATP-binding protein	glnQ	905198	protein-coding		YP_002344301.1	242	Cj0902
+NC_002163.1	842255	843721		minus	amino acid transport protein		905201	protein-coding		YP_002344302.1	488	Cj0903c
+NC_002163.1	843825	844292		minus	tRNA (cytidine(34)-2'-O)-methyltransferase		905203	protein-coding		YP_002344303.1	155	Cj0904c
+NC_002163.1	844295	845281		minus	alanine racemase	alr	905209	protein-coding		YP_002344304.1	328	Cj0905c
+NC_002163.1	845282	846259		minus	periplasmic protein		905204	protein-coding		YP_002344305.1	325	Cj0906c
+NC_002163.1	846415	846885		plus	periplasmic protein		905208	protein-coding		YP_002344306.1	156	Cj0908
+NC_002163.1	846971	847390		plus	periplasmic protein		905210	protein-coding		YP_002344307.1	139	Cj0909
+NC_002163.1	847394	847846		plus	periplasmic protein		905190	protein-coding		YP_002344308.1	150	Cj0910
+NC_002163.1	847843	848403		plus	periplasmic protein		905211	protein-coding		YP_002344309.1	186	Cj0911
+NC_002163.1	848410	849309		minus	cysteine synthase	cysM	906009	protein-coding		YP_002344310.1	299	Cj0912c
+NC_002163.1	849436	849732		minus	DNA-binding protein HU	hupB	905212	protein-coding		YP_002344311.1	98	Cj0913c
+NC_002163.1	849834	851666		minus	invasion antigen CiaB	ciaB	905214	protein-coding		YP_002344312.1	610	Cj0914c
+NC_002163.1	851728	852141		plus	acyl-CoA thioesterase		905254	protein-coding		YP_002344313.1	137	Cj0915
+NC_002163.1	852181	852378		minus	hypothetical protein		905180	protein-coding		YP_002344314.1	65	Cj0916c
+NC_002163.1	852359	854470		minus	integral membrane protein	cstA	905216	protein-coding		YP_002344315.1	703	Cj0917c
+NC_002163.1	854637	855566		minus	ribose-phosphate pyrophosphokinase	prsA	905217	protein-coding		YP_002344316.1	309	Cj0918c
+NC_002163.1	855674	856333		minus	amino acid ABC transporter permease		904985	protein-coding		YP_002344317.1	219	Cj0919c
+NC_002163.1	856344	857096		minus	amino acid ABC transporter permease		905218	protein-coding		YP_002344318.1	250	Cj0920c
+NC_002163.1	857098	857877		minus	bifunctional adhesin/ABC transporter aspartate/glutamate-binding protein	peb1A	906008	protein-coding		YP_002344319.1	259	Cj0921c
+NC_002163.1	857899	858627		minus	amino acid ABC transporter ATP-binding protein	pebC	905220	protein-coding		YP_002344320.1	242	Cj0922c
+NC_002163.1	858763	859551		minus	MCP protein methyltransferase	cheR	905222	protein-coding		YP_002344321.1	262	Cj0923c
+NC_002163.1	859567	860121		minus	MCP protein-glutamate methylesterase	cheB'	904926	protein-coding		YP_002344322.1	184	Cj0924c
+NC_002163.1	860287	860724		plus	ribose 5-phosphate isomerase	rpiB	905223	protein-coding		YP_002344323.1	145	Cj0925
+NC_002163.1	860724	861056		plus	membrane protein		905225	protein-coding		YP_002344324.1	110	Cj0926
+NC_002163.1	861053	861601		plus	adenine phosphoribosyltransferase	apt	905205	protein-coding		YP_002344325.1	182	Cj0927
+NC_002163.1	861620	862216		plus	integral membrane protein		905226	protein-coding		YP_002344326.1	198	Cj0928
+NC_002163.1	862213	863664		plus	cytosol aminopeptidase	pepA	904492	protein-coding		YP_002344327.1	483	Cj0929
+NC_002163.1	863661	864764		plus	ribosome-binding ATPase		904351	protein-coding		YP_002344328.1	367	Cj0930
+NC_002163.1	864786	866168		minus	argininosuccinate lyase	argH	905111	protein-coding		YP_002344329.1	460	Cj0931c
+NC_002163.1	866178	867752		minus	phosphoenolpyruvate carboxykinase	pckA	905227	protein-coding		YP_002344330.1	524	Cj0932c
+NC_002163.1	867765	869564		minus	pyruvate carboxylase B subunit	pycB	905229	protein-coding		YP_002344331.1	599	Cj0933c
+NC_002163.1	869596	870936		minus	sodium:amino-acid symporter family protein		905237	protein-coding		YP_002344332.1	446	Cj0934c
+NC_002163.1	870949	872283		minus	sodium:amino-acid symporter family protein		906006	protein-coding		YP_002344333.1	444	Cj0935c
+NC_002163.1	872516	872854		plus	ATP synthase subunit C	atpE	905243	protein-coding		YP_002344334.1	112	Cj0936
+NC_002163.1	872889	872974		plus	uncharacterized gene	tRNALeu	3245043	tRNA				Cjt01
+NC_002163.1	872889	872974		plus	tRNA-Leu	tRNALeu	3245043	other				Cjt01
+NC_002163.1	873171	874082		plus	integral membrane protein		905231	protein-coding		YP_002344335.1	303	Cj0937
+NC_002163.1	874090	877602		minus	2-acylglycerophosphoethanolamine acyltransferase	aas	905232	protein-coding		YP_002344336.1	1170	Cj0938c
+NC_002163.1	877647	878027		minus	hypothetical protein		905233	protein-coding		YP_002344337.1	126	Cj0939c
+NC_002163.1	878095	878171		minus	uncharacterized gene	tRNAAsp	3245040	tRNA				Cjt02
+NC_002163.1	878095	878171		minus	tRNA-Asp	tRNAAsp	3245040	other				Cjt02
+NC_002163.1	878223	878298		minus	uncharacterized gene	tRNAVal	905029	tRNA				Cjp19
+NC_002163.1	878223	878298		minus	tRNA-Val	tRNAVal	905029	other				Cjp19
+NC_002163.1	878400	878475		minus	uncharacterized gene	tRNALys	905235	tRNA				Cjp20
+NC_002163.1	878400	878475		minus	tRNA-Lys	tRNALys	905235	other				Cjp20
+NC_002163.1	878480	878556		minus	uncharacterized gene	tRNAAsp	3245055	tRNA				Cjt2
+NC_002163.1	878480	878556		minus	tRNA-Asp	tRNAAsp	3245055	other				Cjt2
+NC_002163.1	878608	878683		minus	uncharacterized gene	tRNAVal	3245044	tRNA				Cjt03
+NC_002163.1	878608	878683		minus	tRNA-Val	tRNAVal	3245044	other				Cjt03
+NC_002163.1	878691	878766		minus	uncharacterized gene	tRNALys	3245048	tRNA				Cjt04
+NC_002163.1	878691	878766		minus	tRNA-Lys	tRNALys	3245048	other				Cjt04
+NC_002163.1	878828	879613		minus	glutamine transporter permease	glnP	905236	protein-coding		YP_002344338.1	261	Cj0940c
+NC_002163.1	879636	880841		minus	permease		904433	protein-coding		YP_002344339.1	401	Cj0941c
+NC_002163.1	880838	883426		minus	protein translocase subunit SecA	secA	905172	protein-coding		YP_002344340.1	862	Cj0942c
+NC_002163.1	883526	884035		plus	outer-membrane lipoprotein carrier protein	lolA	905238	protein-coding		YP_002344341.1	169	Cj0943
+NC_002163.1	884032	884766		minus	periplasmic protein		904376	protein-coding		YP_002344342.1	244	Cj0944c
+NC_002163.1	884776	886119		minus	ATP-dependent DNA helicase		905207	protein-coding		YP_002344343.1	447	Cj0945c
+NC_002163.1	886168	887514		plus	lipoprotein		905239	protein-coding		YP_002344344.1	448	Cj0946
+NC_002163.1	887526	888398		minus	carbon-nitrogen hydrolase		905240	protein-coding		YP_002344345.1	290	Cj0947c
+NC_002163.1	888395	889282		minus	cation efflux family protein		905780	protein-coding		YP_002344346.1	295	Cj0948c
+NC_002163.1	889279	890256		minus	peptidyl-arginine deiminase family protein		905241	protein-coding		YP_002344347.1	325	Cj0949c
+NC_002163.1	890355	890789		minus	lipoprotein		905242	protein-coding		YP_002344348.1	144	Cj0950c
+NC_002163.1	890799	892379		minus	uncharacterized gene		905244	pseudogene				Cj0951c
+NC_002163.1	892478	894010		minus	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	purH	905247	protein-coding		YP_002344351.1	510	Cj0953c
+NC_002163.1	894013	894783		minus	DnaJ-like protein		905248	protein-coding		YP_002344352.1	256	Cj0954c
+NC_002163.1	894780	896966		minus	phosphoribosylformylglycinamidine synthase II	purL	904957	protein-coding		YP_002344353.1	728	Cj0955c
+NC_002163.1	896977	898305		minus	tRNA modification GTPase	trmE	905249	protein-coding		YP_002344354.1	442	Cj0956c
+NC_002163.1	898298	899116		minus	hypothetical protein		906015	protein-coding		YP_002344355.1	272	Cj0957c
+NC_002163.1	899120	900706		minus	membrane protein insertase YidC		904358	protein-coding		YP_002344356.1	528	Cj0958c
+NC_002163.1	900703	901044		minus	membrane protein insertion efficiency factor		905228	protein-coding		YP_002344357.1	113	Cj0959c
+NC_002163.1	901041	901367		minus	ribonuclease P protein component	rnpA	905252	protein-coding		YP_002344358.1	108	Cj0960c
+NC_002163.1	901364	901498		minus	50S ribosomal protein L34	rpmH	905034	protein-coding		YP_002344359.1	44	Cj0961c
+NC_002163.1	901629	902108		plus	acetyltransferase		905253	protein-coding		YP_002344360.1	159	Cj0962
+NC_002163.1	902105	902713		plus	hypothetical protein		905142	protein-coding		YP_002344361.1	202	Cj0963
+NC_002163.1	902710	903900		plus	periplasmic protein		905256	protein-coding		YP_002344362.1	396	Cj0964
+NC_002163.1	903892	904266		minus	acyl-CoA thioester hydrolase		905257	protein-coding		YP_002344363.1	124	Cj0965c
+NC_002163.1	904409	906697		plus	periplasmic protein		905258	protein-coding		YP_002344364.1	762	Cj0967
+NC_002163.1	907117	907396		plus	uncharacterized gene		905260	pseudogene				Cj0969
+NC_002163.1	907408	907710		plus	hypothetical protein		905261	protein-coding		YP_002344365.1	100	Cj0970
+NC_002163.1	907713	908105		plus	hypothetical protein		905262	protein-coding		YP_002344366.1	130	Cj0971
+NC_002163.1	908107	908430		plus	hypothetical protein		905263	protein-coding		YP_002344367.1	107	Cj0972
+NC_002163.1	908554	908705		plus	uncharacterized gene		905264	pseudogene				Cj0973
+NC_002163.1	908693	908833		plus	hypothetical protein		905265	protein-coding		YP_002344369.1	46	Cj0974
+NC_002163.1	908891	910615		plus	outer-membrane protein		905266	protein-coding		YP_002344370.1	574	Cj0975
+NC_002163.1	910711	911601		plus	tRNA (mo5U34)-methyltransferase		905267	protein-coding		YP_002344371.1	296	Cj0976
+NC_002163.1	911674	912252		plus	hypothetical protein		905268	protein-coding		YP_002344372.1	192	Cj0977
+NC_002163.1	912253	912426		minus	lipoprotein		905269	protein-coding		YP_002344373.1	57	Cj0978c
+NC_002163.1	912435	912962		minus	nuclease		905270	protein-coding		YP_002344374.1	175	Cj0979c
+NC_002163.1	913030	914298		plus	peptidase		905271	protein-coding		YP_002344375.1	422	Cj0980
+NC_002163.1	914281	915528		minus	MFS transport protein	cjaB	905272	protein-coding		YP_002344376.1	415	Cj0981c
+NC_002163.1	915568	916407		minus	amino acid transporter substrate-binding protein	cjaA	905273	protein-coding		YP_002344377.1	279	Cj0982c
+NC_002163.1	916626	917744		plus	lipoprotein		905274	protein-coding		YP_002344378.1	372	Cj0983
+NC_002163.1	917836	918576		plus	hypothetical protein		905275	protein-coding		YP_002344379.1	246	Cj0984
+NC_002163.1	918580	919731		minus	hippurate hydrolase	hipO	905276	protein-coding		YP_002344380.1	383	Cj0985c
+NC_002163.1	919733	920953		minus	uncharacterized gene		905277	pseudogene				Cj0986c
+NC_002163.1	920967	921203		minus	hypothetical protein		905279	protein-coding		YP_002344383.1	78	Cj0988c
+NC_002163.1	921188	921394		plus	membrane protein		905280	protein-coding		YP_002344384.1	68	Cj0989
+NC_002163.1	921397	922158		minus	hypothetical protein		905281	protein-coding		YP_002344385.1	253	Cj0990c
+NC_002163.1	922155	923420		minus	oxidoreductase ferredoxin-type electron transport protein		905282	protein-coding		YP_002344386.1	421	Cj0991c
+NC_002163.1	923422	924777		minus	coproporphyrinogen III oxidase	hemN	905283	protein-coding		YP_002344387.1	451	Cj0992c
+NC_002163.1	924764	925255		minus	hypothetical protein		905284	protein-coding		YP_002344388.1	163	Cj0993c
+NC_002163.1	925252	926172		minus	ornithine carbamoyltransferase	argF	905285	protein-coding		YP_002344389.1	306	Cj0994c
+NC_002163.1	926169	927152		minus	delta-aminolevulinic acid dehydratase	hemB	905286	protein-coding		YP_002344390.1	327	Cj0995c
+NC_002163.1	927210	927770		plus	GTP cyclohydrolase II	ribA	905287	protein-coding		YP_002344391.1	186	Cj0996
+NC_002163.1	927771	928337		plus	rRNA small subunit methyltransferase G		905288	protein-coding		YP_002344392.1	188	Cj0997
+NC_002163.1	928353	928925		minus	periplasmic protein		905289	protein-coding		YP_002344393.1	190	Cj0998c
+NC_002163.1	929020	930117		minus	membrane protein		905290	protein-coding		YP_002344394.1	365	Cj0999c
+NC_002163.1	930230	931111		plus	transcriptional regulator		905291	protein-coding		YP_002344395.1	293	Cj1000
+NC_002163.1	931191	933059		plus	RNA polymerase sigma factor RpoD	rpoD	905292	protein-coding		YP_002344396.1	622	Cj1001
+NC_002163.1	933075	933587		minus	phosphoglycerate/bisphosphoglycerate mutase		905293	protein-coding		YP_002344397.1	170	Cj1002c
+NC_002163.1	933584	934102		minus	integral membrane protein		905294	protein-coding		YP_002344398.1	172	Cj1003c
+NC_002163.1	934201	934617		plus	periplasmic protein		905295	protein-coding		YP_002344399.1	138	Cj1004
+NC_002163.1	934626	936242		minus	membrane bound ATPase		905296	protein-coding		YP_002344400.1	538	Cj1005c
+NC_002163.1	936246	937496		minus	MiaB-like tRNA modifying enzyme		905297	protein-coding		YP_002344401.1	416	Cj1006c
+NC_002163.1	937493	939064		minus	mechanosensitive ion channel family protein		905298	protein-coding		YP_002344402.1	523	Cj1007c
+NC_002163.1	939061	940116		minus	3-dehydroquinate synthase	aroB	905299	protein-coding		YP_002344403.1	351	Cj1008c
+NC_002163.1	940162	941562		minus	hypothetical protein		905300	protein-coding		YP_002344404.1	466	Cj1009c
+NC_002163.1	941592	942713		plus	queuine tRNA-ribosyltransferase	tgt	905301	protein-coding		YP_002344405.1	373	Cj1010
+NC_002163.1	942715	943482		plus	CorA-like Mg2+ transporter protein		905302	protein-coding		YP_002344406.1	255	Cj1011
+NC_002163.1	943535	943611		plus	uncharacterized gene	tRNAArg	905303	tRNA				Cjp21
+NC_002163.1	943535	943611		plus	tRNA-Arg	tRNAArg	905303	other				Cjp21
+NC_002163.1	943614	944063		minus	membrane protein		905304	protein-coding		YP_002344407.1	149	Cj1012c
+NC_002163.1	944080	947325		minus	cytochrome C biogenesis protein		905305	protein-coding		YP_002344408.1	1081	Cj1013c
+NC_002163.1	947343	948038		minus	ABC transporter ATP-binding protein	livF	905306	protein-coding		YP_002344409.1	231	Cj1014c
+NC_002163.1	948025	948795		minus	ABC transporter ATP-binding protein	livG	905307	protein-coding		YP_002344410.1	256	Cj1015c
+NC_002163.1	948792	949844		minus	branched-chain amino acid ABC transporter permease	livM	905308	protein-coding		YP_002344411.1	350	Cj1016c
+NC_002163.1	949844	950740		minus	branched-chain amino acid ABC transporter permease	livH	905309	protein-coding		YP_002344412.1	298	Cj1017c
+NC_002163.1	950759	951868		minus	branched-chain amino acid ABC transporter substrate-binding protein	livK	905310	protein-coding		YP_002344413.1	369	Cj1018c
+NC_002163.1	951890	953005		minus	branched-chain amino acid ABC transporter substrate-binding protein	livJ	905311	protein-coding		YP_002344414.1	371	Cj1019c
+NC_002163.1	953036	953470		minus	cytochrome C		905312	protein-coding		YP_002344415.1	144	Cj1020c
+NC_002163.1	953479	953670		minus	periplasmic protein		905313	protein-coding		YP_002344416.1	63	Cj1021c
+NC_002163.1	953723	954229		minus	integral membrane protein		905314	protein-coding		YP_002344417.1	168	Cj1022c
+NC_002163.1	954238	955269		minus	aspartate-semialdehyde dehydrogenase	asd	905315	protein-coding		YP_002344418.1	343	Cj1023c
+NC_002163.1	955269	956570		minus	sigma-54 associated transcriptional activator	flgR	905316	protein-coding		YP_002344419.1	433	Cj1024c
+NC_002163.1	956627	957076		minus	hypothetical protein		905317	protein-coding		YP_002344420.1	149	Cj1025c
+NC_002163.1	957052	957567		minus	lipoprotein		905318	protein-coding		YP_002344421.1	171	Cj1026c
+NC_002163.1	957631	960222		minus	DNA gyrase subunit A	gyrA	905319	protein-coding		YP_002344422.1	863	Cj1027c
+NC_002163.1	960263	960838		minus	purine/pyrimidine phosphoribosyltransferase		905320	protein-coding		YP_002344423.1	191	Cj1028c
+NC_002163.1	960835	961479		minus	outer membrane lipoprotein MapA	mapA	905321	protein-coding		YP_002344424.1	214	Cj1029c
+NC_002163.1	961556	963352		minus	elongation factor EF-4	lepA	905322	protein-coding		YP_002344425.1	598	Cj1030c
+NC_002163.1	963479	964753		plus	multidrug efflux system outer membrane protein	cmeD	905323	protein-coding		YP_002344426.1	424	Cj1031
+NC_002163.1	964750	965490		plus	mutlidrug efflux system membrane fusion protein	cmeE	905324	protein-coding		YP_002344427.1	246	Cj1032
+NC_002163.1	965493	968510		plus	multidrug efflux system membrane protein	cmeF	905325	protein-coding		YP_002344428.1	1005	Cj1033
+NC_002163.1	968534	969340		minus	adenylosuccinate lyase		905326	protein-coding		YP_002344429.1	268	Cj1034c
+NC_002163.1	969341	970060		minus	arginyl-tRNA--protein transferase		905327	protein-coding		YP_002344430.1	239	Cj1035c
+NC_002163.1	970060	970311		minus	hypothetical protein		905328	protein-coding		YP_002344431.1	83	Cj1036c
+NC_002163.1	970315	971760		minus	acetyl-CoA carboxylase subunit A	pycA	905329	protein-coding		YP_002344432.1	481	Cj1037c
+NC_002163.1	971900	973063		plus	cell division/peptidoglycan biosynthesis protein		905330	protein-coding		YP_002344433.1	387	Cj1038
+NC_002163.1	973060	974088		plus	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase	murG	905331	protein-coding		YP_002344434.1	342	Cj1039
+NC_002163.1	974059	975222		minus	MFS transport protein		905332	protein-coding		YP_002344435.1	387	Cj1040c
+NC_002163.1	975230	976081		minus	ATP/GTP-binding protein		905333	protein-coding		YP_002344436.1	283	Cj1041c
+NC_002163.1	976144	977034		minus	transcriptional regulator		905334	protein-coding		YP_002344437.1	296	Cj1042c
+NC_002163.1	977031	977636		minus	thiamine-phosphate pyrophosphorylase		905335	protein-coding		YP_002344438.1	201	Cj1043c
+NC_002163.1	977626	978771		minus	thiamine biosynthesis protein ThiH	thiH	905336	protein-coding		YP_002344439.1	381	Cj1044c
+NC_002163.1	978774	979550		minus	thiazole synthase	thiG	905337	protein-coding		YP_002344440.1	258	Cj1045c
+NC_002163.1	979553	980356		minus	thiamine biosynthesis protein ThiF	moeB	905338	protein-coding		YP_002344441.1	267	Cj1046c
+NC_002163.1	980353	980544		minus	thiamine biosynthesis protein	thiS	905339	protein-coding		YP_002344442.1	63	Cj1047c
+NC_002163.1	980554	981651		minus	succinyl-diaminopimelate desuccinylase	dapE	905340	protein-coding		YP_002344443.1	365	Cj1048c
+NC_002163.1	981655	982254		minus	LysE family transporter protein		905341	protein-coding		YP_002344444.1	199	Cj1049c
+NC_002163.1	982247	982948		minus	NAD-dependent protein deacetylase	npdA	905342	protein-coding		YP_002344445.1	233	Cj1050c
+NC_002163.1	982991	987010		minus	restriction modification enzyme	cjeI	905343	protein-coding		YP_002344446.1	1339	Cj1051c
+NC_002163.1	987019	989229		minus	endonuclease MutS2	mutS	905344	protein-coding		YP_002344447.1	736	Cj1052c
+NC_002163.1	989219	989569		minus	integral membrane protein		905345	protein-coding		YP_002344448.1	116	Cj1053c
+NC_002163.1	989562	990860		minus	UDP-N-acetylmuramate--L-alanine ligase	murC	905346	protein-coding		YP_002344449.1	432	Cj1054c
+NC_002163.1	990924	992897		minus	sulfatase family protein		905347	protein-coding		YP_002344450.1	657	Cj1055c
+NC_002163.1	992909	993685		minus	carbon-nitrogen hydrolase family protein		905348	protein-coding		YP_002344451.1	258	Cj1056c
+NC_002163.1	993678	993851		minus	hypothetical protein		905349	protein-coding		YP_002344452.1	57	Cj1057c
+NC_002163.1	993848	995305		minus	inosine 5'-monophosphate dehydrogenase	guaB	905350	protein-coding		YP_002344453.1	485	Cj1058c
+NC_002163.1	995315	996676		minus	aspartyl/glutamyl-tRNA amidotransferase subunit A	gatA	905351	protein-coding		YP_002344454.1	453	Cj1059c
+NC_002163.1	996673	996783		minus	membrane protein		905352	protein-coding		YP_002344455.1	36	Cj1060c
+NC_002163.1	996777	999530		minus	isoleucine--tRNA ligase	ileS	905353	protein-coding		YP_002344456.1	917	Cj1061c
+NC_002163.1	999629	1000717		plus	CinA-like protein		905354	protein-coding		YP_002344457.1	362	Cj1062
+NC_002163.1	1000729	1001154		plus	acetyltransferase		905355	protein-coding		YP_002344458.1	141	Cj1063
+NC_002163.1	1001218	1001837		plus	uncharacterized gene		905356	pseudogene				Cj1064
+NC_002163.1	1001837	1002442		plus	nitroreductase	rdxA	905357	protein-coding		YP_002344459.1	201	Cj1066
+NC_002163.1	1002567	1003103		plus	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase	pgsA	905358	protein-coding		YP_002344460.1	178	Cj1067
+NC_002163.1	1003100	1004206		plus	zinc metalloprotease		905359	protein-coding		YP_002344461.1	368	Cj1068
+NC_002163.1	1004199	1005065		plus	hypothetical protein		905360	protein-coding		YP_002344462.1	288	Cj1069
+NC_002163.1	1005152	1005529		plus	30S ribosomal protein S6	rpsF	905361	protein-coding		YP_002344463.1	125	Cj1070
+NC_002163.1	1005538	1006089		plus	single-stranded DNA-binding protein	ssb	905362	protein-coding		YP_002344464.1	183	Cj1071
+NC_002163.1	1006100	1006360		plus	30S ribosomal protein S18	rpsR	905363	protein-coding		YP_002344465.1	86	Cj1072
+NC_002163.1	1006421	1008796		minus	ATP-dependent protease La	lon	905364	protein-coding		YP_002344466.1	791	Cj1073c
+NC_002163.1	1008813	1009460		minus	lipoprotein		905365	protein-coding		YP_002344467.1	215	Cj1074c
+NC_002163.1	1009621	1010010		plus	flagellar assembly protein FliW		905366	protein-coding		YP_002344468.1	129	Cj1075
+NC_002163.1	1010010	1010741		plus	pyrroline-5-carboxylate reductase	proC	905367	protein-coding		YP_002344469.1	243	Cj1076
+NC_002163.1	1010738	1011040		plus	periplasmic protein	ctsT	905368	protein-coding		YP_002344470.1	100	Cj1077
+NC_002163.1	1011037	1011699		plus	periplasmic protein		905369	protein-coding		YP_002344471.1	220	Cj1078
+NC_002163.1	1011696	1012148		plus	periplasmic protein		905370	protein-coding		YP_002344472.1	150	Cj1079
+NC_002163.1	1012145	1012774		minus	uroporphyrinogen-III synthase	hemD	905371	protein-coding		YP_002344473.1	209	Cj1080c
+NC_002163.1	1012752	1013384		minus	thiamin-phosphate pyrophosphorylase	thiE	905372	protein-coding		YP_002344474.1	210	Cj1081c
+NC_002163.1	1013374	1014186		minus	phosphomethylpyrimidine kinase	thiD	905373	protein-coding		YP_002344475.1	270	Cj1082c
+NC_002163.1	1014183	1014869		minus	endonuclease III		905374	protein-coding		YP_002344476.1	228	Cj1083c
+NC_002163.1	1014866	1015627		minus	ATP/GTP-binding protein		905375	protein-coding		YP_002344477.1	253	Cj1084c
+NC_002163.1	1015629	1018565		minus	transcription-repair coupling factor	mfd	905376	protein-coding		YP_002344478.1	978	Cj1085c
+NC_002163.1	1018565	1018960		minus	hypothetical protein		905377	protein-coding		YP_002344479.1	131	Cj1086c
+NC_002163.1	1018897	1019799		minus	peptidase		905378	protein-coding		YP_002344480.1	300	Cj1087c
+NC_002163.1	1019786	1020970		minus	bifunctional folylpolyglutamate synthase/dihydrofolate synthase	folC	905379	protein-coding		YP_002344481.1	394	Cj1088c
+NC_002163.1	1020936	1022333		minus	hypothetical protein		905380	protein-coding		YP_002344482.1	465	Cj1089c
+NC_002163.1	1022317	1022829		minus	lipoprotein		905381	protein-coding		YP_002344483.1	170	Cj1090c
+NC_002163.1	1022826	1025255		minus	leucine--tRNA ligase	leuS	905382	protein-coding		YP_002344484.1	809	Cj1091c
+NC_002163.1	1025265	1026236		minus	protein translocase subunit SecF	secF	905383	protein-coding		YP_002344485.1	323	Cj1092c
+NC_002163.1	1026236	1027816		minus	protein translocase subunit SecD	secD	905384	protein-coding		YP_002344486.1	526	Cj1093c
+NC_002163.1	1027809	1028081		minus	protein translocase subunit YajC	yajC	905385	protein-coding		YP_002344487.1	90	Cj1094c
+NC_002163.1	1028054	1029379		plus	apolipoprotein N-acyltransferase		905386	protein-coding		YP_002344488.1	441	Cj1095
+NC_002163.1	1029616	1030812		minus	S-adenosylmethionine synthetase	metK	905387	protein-coding		YP_002344489.1	398	Cj1096c
+NC_002163.1	1030953	1032176		plus	serine/threonine transporter SstT		905388	protein-coding		YP_002344490.1	407	Cj1097
+NC_002163.1	1032186	1033073		plus	aspartate carbamoyltransferase	pyrB	905389	protein-coding		YP_002344491.1	295	Cj1098
+NC_002163.1	1033077	1034798		plus	peptidase		905390	protein-coding		YP_002344492.1	573	Cj1099
+NC_002163.1	1034792	1035229		plus	hypothetical protein		905391	protein-coding		YP_002344493.1	145	Cj1100
+NC_002163.1	1035226	1037301		plus	ATP-dependent DNA helicase		905392	protein-coding		YP_002344494.1	691	Cj1101
+NC_002163.1	1037298	1038116		plus	tRNA pseudouridine synthase B	truB	905393	protein-coding		YP_002344495.1	272	Cj1102
+NC_002163.1	1038110	1038337		plus	carbon storage regulator	csrA	905394	protein-coding		YP_002344496.1	75	Cj1103
+NC_002163.1	1038334	1039101		plus	4-diphosphocytidyl-2C-methyl-D-erythritol kinase		905395	protein-coding		YP_002344497.1	255	Cj1104
+NC_002163.1	1039098	1039550		plus	SsrA-binding protein	smpB	905396	protein-coding		YP_002344498.1	150	Cj1105
+NC_002163.1	1039561	1040163		plus	thioredoxin		905397	protein-coding		YP_002344499.1	200	Cj1106
+NC_002163.1	1040163	1040453		plus	ATP-dependent Clp protease adaptor protein	clpS	905398	protein-coding		YP_002344500.1	96	Cj1107
+NC_002163.1	1040450	1042579		plus	ATP-dependent Clp protease ATP-binding subunit	clpA	905399	protein-coding		YP_002344501.1	709	Cj1108
+NC_002163.1	1042554	1043201		plus	leucyl/phenylalanyl-tRNA--protein transferase	aat	905400	protein-coding		YP_002344502.1	215	Cj1109
+NC_002163.1	1043223	1044512		minus	MCP-type signal transduction protein		905401	protein-coding		YP_002344503.1	429	Cj1110c
+NC_002163.1	1044593	1045219		minus	MarC family integral membrane protein		905402	protein-coding		YP_002344504.1	208	Cj1111c
+NC_002163.1	1045234	1045593		minus	methionine sulfoxide reductase B		905403	protein-coding		YP_002344505.1	119	Cj1112c
+NC_002163.1	1045683	1046480		plus	hypothetical protein		905404	protein-coding		YP_002344506.1	265	Cj1113
+NC_002163.1	1046471	1047199		minus	CDP-diacylglycerol--serine O-phosphatidyltransferase	pssA	905405	protein-coding		YP_002344507.1	242	Cj1114c
+NC_002163.1	1047209	1047826		minus	phosphatidylserine decarboxylase-like protein		905406	protein-coding		YP_002344508.1	205	Cj1115c
+NC_002163.1	1047823	1049760		minus	ATP-dependent zinc metalloprotease FtsH	ftsH	905407	protein-coding		YP_002344509.1	645	Cj1116c
+NC_002163.1	1049764	1050609		minus	50S ribosomal protein L11 methyltransferase	prmA	905408	protein-coding		YP_002344510.1	281	Cj1117c
+NC_002163.1	1050632	1051024		minus	chemotaxis protein CheY	cheY	905409	protein-coding		YP_002344511.1	130	Cj1118c
+NC_002163.1	1051137	1052030		minus	integral membrane protein	pglG	905410	protein-coding		YP_002344512.1	297	Cj1119c
+NC_002163.1	1052030	1053802		minus	UDP-N-acetyl-alpha-D-glucosamine C6 dehydratase	pglF	905411	protein-coding		YP_002344513.1	590	Cj1120c
+NC_002163.1	1053804	1054964		minus	UDP-N-acetylbacillosamine transaminase	pglE	905412	protein-coding		YP_002344514.1	386	Cj1121c
+NC_002163.1	1055060	1055713		minus	integral membrane protein		905413	protein-coding		YP_002344515.1	217	Cj1122c
+NC_002163.1	1055670	1056257		minus	UDP-N-acetylbacillosamine N-acetyltransferase	pglD	905414	protein-coding		YP_002344516.1	195	Cj1123c
+NC_002163.1	1056244	1056846		minus	undecaprenyl phosphate N,N'-diacetylbacillosamine 1-phosphate transferase	pglC	905415	protein-coding		YP_002344517.1	200	Cj1124c
+NC_002163.1	1056839	1057969		minus	N,N'-diacetylbacillosaminyl-diphospho-undecaprenol alpha-1,3-N-acetylgalactosaminyltransferase	pglA	905416	protein-coding		YP_002344518.1	376	Cj1125c
+NC_002163.1	1057979	1060120		minus	undecaprenyl-diphosphooligosaccharide--protein glycotransferase	pglB	905417	protein-coding		YP_002344519.1	713	Cj1126c
+NC_002163.1	1060124	1061221		minus	N-acetylgalactosamine-N,N'-diacetylbacillosaminyl-diphospho-undecaprenol 4-alpha-N-acetylgalactosaminyltransferase	pglJ	905418	protein-coding		YP_002344520.1	365	Cj1127c
+NC_002163.1	1061209	1062138		minus	GalNAc(5)-diNAcBac-PP-undecaprenol beta-1,3-glucosyltransferase	pglI	905419	protein-coding		YP_002344521.1	309	Cj1128c
+NC_002163.1	1062131	1063210		minus	GalNAc-alpha-(1->4)-GalNAc-alpha-(1->3)-diNAcBac-PP-undecaprenol alpha-1,4-N-acetyl-D-galactosaminyltransferase	pglH	905420	protein-coding		YP_002344522.1	359	Cj1129c
+NC_002163.1	1063207	1064901		minus	protein glycosylation K	pglK	905421	protein-coding		YP_002344523.1	564	Cj1130c
+NC_002163.1	1064895	1065881		minus	UDP-GlcNAc/Glc 4-epimerase	gne	905422	protein-coding		YP_002344524.1	328	Cj1131c
+NC_002163.1	1065939	1066733		minus	hypothetical protein		905423	protein-coding		YP_002344525.1	264	Cj1132c
+NC_002163.1	1066799	1067827		plus	heptosyltransferase I	waaC	905424	protein-coding		YP_002344526.1	342	Cj1133
+NC_002163.1	1067817	1068704		plus	lipid A biosynthesis lauroyl acyltransferase	htrB	905425	protein-coding		YP_002344527.1	295	Cj1134
+NC_002163.1	1068701	1070248		plus	glucosyltransferase		905426	protein-coding		YP_002344528.1	515	Cj1135
+NC_002163.1	1070252	1071424		plus	glycosyltransferase		905427	protein-coding		YP_002344529.1	390	Cj1136
+NC_002163.1	1071408	1072403		minus	glycosyltransferase		905428	protein-coding		YP_002344530.1	331	Cj1137c
+NC_002163.1	1072461	1073630		plus	glycosyltransferase		905429	protein-coding		YP_002344531.1	389	Cj1138
+NC_002163.1	1073619	1074530		minus	beta-1,3 galactosyltransferase	wlaN	905430	protein-coding		YP_002344532.1	303	Cj1139c
+NC_002163.1	1074585	1075469		plus	alpha-2,3 sialyltransferase	cstIII	905431	protein-coding		YP_002344533.1	294	Cj1140
+NC_002163.1	1075450	1076481		plus	sialic acid synthase	neuB1	905432	protein-coding		YP_002344534.1	343	Cj1141
+NC_002163.1	1076478	1077593		plus	UDP-N-acetylglucosamine 2-epimerase	neuC1	905433	protein-coding		YP_002344535.1	371	Cj1142
+NC_002163.1	1077590	1079200		plus	bifunctional beta-1,4-N-acetylgalactosaminyltransferase/CMP-Neu5Ac synthase	neuA1	905434	protein-coding		YP_002344536.1	536	Cj1143
+NC_002163.1	1079195	1080041		minus	hypothetical protein		905436	protein-coding		YP_002344537.1	281	Cj1145c
+NC_002163.1	1080025	1080849		minus	glucosyltransferase	waaV	905437	protein-coding		YP_002344538.1	274	Cj1146c
+NC_002163.1	1080908	1081867		plus	heptosyltransferase II	waaF	905438	protein-coding		YP_002344539.1	319	Cj1148
+NC_002163.1	1081848	1082408		minus	phosphoheptose isomerase	gmhA	905439	protein-coding		YP_002344540.1	186	Cj1149c
+NC_002163.1	1082405	1083790		minus	bifunctional D-beta-D-heptose 7-phosphate kinase/D-beta-D-heptose 1-phosphate adenylyltransferase	hldE	905440	protein-coding		YP_002344541.1	461	Cj1150c
+NC_002163.1	1083783	1084736		minus	ADP-glyceromanno-heptose 6-epimerase	hldD	905441	protein-coding		YP_002344542.1	317	Cj1151c
+NC_002163.1	1084737	1085297		minus	D-glycero-alpha-D-manno-heptose-1,7-bisphosphate 7-phosphatase	gmhB	905442	protein-coding		YP_002344543.1	186	Cj1152c
+NC_002163.1	1085379	1085681		plus	cytochrome C		905443	protein-coding		YP_002344544.1	100	Cj1153
+NC_002163.1	1085704	1085910		minus	cbb3-type cytochrome oxidase maturation protein		905444	protein-coding		YP_002344545.1	68	Cj1154c
+NC_002163.1	1085907	1088264		minus	cation-transporting ATPase		905445	protein-coding		YP_002344546.1	785	Cj1155c
+NC_002163.1	1088373	1089671		plus	transcription termination factor Rho	rho	905446	protein-coding		YP_002344547.1	432	Cj1156
+NC_002163.1	1089675	1091204		plus	DNA polymerase III subunits gamma and tau	dnaX	905447	protein-coding		YP_002344548.1	509	Cj1157
+NC_002163.1	1091201	1091428		minus	hypothetical protein		905448	protein-coding		YP_002344549.1	75	Cj1158c
+NC_002163.1	1091407	1091529		minus	hypothetical protein		905449	protein-coding		YP_002344550.1	40	Cj1159c
+NC_002163.1	1091544	1091723		minus	membrane protein		905450	protein-coding		YP_002344551.1	59	Cj1160c
+NC_002163.1	1091795	1093894		minus	cation-transporting ATPase		905451	protein-coding		YP_002344552.1	699	Cj1161c
+NC_002163.1	1093894	1094088		minus	heavy-metal-associated domain-containing protein		905452	protein-coding		YP_002344553.1	64	Cj1162c
+NC_002163.1	1094078	1095028		minus	cation transport protein		905453	protein-coding		YP_002344554.1	316	Cj1163c
+NC_002163.1	1095104	1095367		minus	hypothetical protein		905454	protein-coding		YP_002344555.1	87	Cj1164c
+NC_002163.1	1095437	1095931		minus	integral membrane protein		905455	protein-coding		YP_002344556.1	164	Cj1165c
+NC_002163.1	1095928	1096704		minus	integral membrane protein		905456	protein-coding		YP_002344557.1	258	Cj1166c
+NC_002163.1	1096771	1097697		plus	L-lactate dehydrogenase	ldh	905457	protein-coding		YP_002344558.1	308	Cj1167
+NC_002163.1	1097694	1098296		minus	integral membrane protein		905458	protein-coding		YP_002344559.1	200	Cj1168c
+NC_002163.1	1098377	1098604		minus	periplasmic protein		905459	protein-coding		YP_002344560.1	75	Cj1169c
+NC_002163.1	1098615	1100036		minus	outer membrane protein	omp50	905460	protein-coding		YP_002344561.1	473	Cj1170c
+NC_002163.1	1100192	1100674		minus	peptidyl-prolyl cis-trans isomerase	ppi	905461	protein-coding		YP_002344562.1	160	Cj1171c
+NC_002163.1	1100684	1101391		minus	transcriptional regulator		905462	protein-coding		YP_002344563.1	235	Cj1172c
+NC_002163.1	1101500	1101841		plus	multidrug resistance protein		905463	protein-coding		YP_002344564.1	113	Cj1173
+NC_002163.1	1101841	1102149		plus	multidrug resistance protein		905464	protein-coding		YP_002344565.1	102	Cj1174
+NC_002163.1	1102167	1103759		minus	arginine--tRNA ligase	argS	905465	protein-coding		YP_002344566.1	530	Cj1175c
+NC_002163.1	1103771	1104010		minus	Sec-independent protein translocase	tatA	905466	protein-coding		YP_002344567.1	79	Cj1176c
+NC_002163.1	1104012	1104635		minus	guanylate kinase	gmk	905467	protein-coding		YP_002344568.1	207	Cj1177c
+NC_002163.1	1104632	1106260		minus	highly acidic protein		905468	protein-coding		YP_002344569.1	542	Cj1178c
+NC_002163.1	1106317	1107084		minus	flagellar biosynthesis protein FliR	fliR	905469	protein-coding		YP_002344570.1	255	Cj1179c
+NC_002163.1	1107071	1107706		minus	ABC transporter ATP-binding protein		905470	protein-coding		YP_002344571.1	211	Cj1180c
+NC_002163.1	1107719	1108792		minus	elongation factor Ts	tsf	905471	protein-coding		YP_002344572.1	357	Cj1181c
+NC_002163.1	1108792	1109583		minus	30S ribosomal protein S2	rpsB	905472	protein-coding		YP_002344573.1	263	Cj1182c
+NC_002163.1	1109699	1110862		minus	cyclopropane-fatty-acyl-phospholipid synthase	cfa	905473	protein-coding		YP_002344574.1	387	Cj1183c
+NC_002163.1	1110990	1112114		minus	ubiquinol-cytochrome C reductase cytochrome C subunit	petC	905474	protein-coding		YP_002344575.1	374	Cj1184c
+NC_002163.1	1112111	1113361		minus	ubiquinol-cytochrome C reductase cytochrome B subunit	petB	905475	protein-coding		YP_002344576.1	416	Cj1185c
+NC_002163.1	1113363	1113866		minus	ubiquinol-cytochrome C reductase iron-sulfur subunit	petA	905476	protein-coding		YP_002344577.1	167	Cj1186c
+NC_002163.1	1113956	1115242		minus	arsenical pump membrane protein	arsB	905477	protein-coding		YP_002344578.1	428	Cj1187c
+NC_002163.1	1115243	1117102		minus	tRNA uridine 5-carboxymethylaminomethyl modification protein GidA	gidA	905478	protein-coding		YP_002344579.1	619	Cj1188c
+NC_002163.1	1117190	1117687		minus	bipartate energy taxis response protein CetB	cetB	905479	protein-coding		YP_002344580.1	165	Cj1189c
+NC_002163.1	1117705	1119084		minus	bipartate energy taxis response protein CetA	cetA	905480	protein-coding		YP_002344581.1	459	Cj1190c
+NC_002163.1	1119205	1119699		minus	PAS domain-containing signal-transduction sensor protein		905481	protein-coding		YP_002344582.1	164	Cj1191c
+NC_002163.1	1119968	1121344		plus	C4-dicarboxylate transport protein	dctA	905482	protein-coding		YP_002344583.1	458	Cj1192
+NC_002163.1	1121341	1122147		minus	periplasmic protein		905483	protein-coding		YP_002344584.1	268	Cj1193c
+NC_002163.1	1122289	1123815		plus	phosphate permease		905484	protein-coding		YP_002344585.1	508	Cj1194
+NC_002163.1	1123823	1125001		minus	dihydroorotase	pyrC2	905485	protein-coding		YP_002344586.1	392	Cj1195c
+NC_002163.1	1125011	1125907		minus	glycerol-3-phosphate dehydrogenase	gpsA	905486	protein-coding		YP_002344587.1	298	Cj1196c
+NC_002163.1	1125904	1127322		minus	aspartyl/glutamyl-tRNA amidotransferase subunit B	gatB	905487	protein-coding		YP_002344588.1	472	Cj1197c
+NC_002163.1	1127437	1127931		plus	S-ribosylhomocysteine lyase		905488	protein-coding		YP_002344589.1	164	Cj1198
+NC_002163.1	1128243	1129235		plus	oxidoreductase		905489	protein-coding		YP_002344590.1	330	Cj1199
+NC_002163.1	1129228	1130016		plus	NLPA family lipoprotein		905490	protein-coding		YP_002344591.1	262	Cj1200
+NC_002163.1	1130028	1132292		plus	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase	metE	905491	protein-coding		YP_002344592.1	754	Cj1201
+NC_002163.1	1132302	1133150		plus	methylenetetrahydrofolate reductase	metF	905492	protein-coding		YP_002344593.1	282	Cj1202
+NC_002163.1	1133172	1133363		minus	integral membrane protein		905493	protein-coding		YP_002344594.1	63	Cj1203c
+NC_002163.1	1133360	1134040		minus	ATP synthase subunit A	atpB	905494	protein-coding		YP_002344595.1	226	Cj1204c
+NC_002163.1	1134109	1135449		minus	DNA repair protein RadA	radA	905495	protein-coding		YP_002344596.1	446	Cj1205c
+NC_002163.1	1135449	1136315		minus	signal recognition particle protein	ftsY	905496	protein-coding		YP_002344597.1	288	Cj1206c
+NC_002163.1	1136315	1136872		minus	lipoprotein thiredoxin		905497	protein-coding		YP_002344598.1	185	Cj1207c
+NC_002163.1	1136955	1137581		plus	5-formyltetrahydrofolate cyclo-ligase		905498	protein-coding		YP_002344599.1	208	Cj1208
+NC_002163.1	1137502	1139055		plus	ribonuclease Y		905499	protein-coding		YP_002344600.1	517	Cj1209
+NC_002163.1	1139064	1139621		plus	integral membrane protein		905500	protein-coding		YP_002344601.1	185	Cj1210
+NC_002163.1	1139621	1140880		plus	competence family protein		905501	protein-coding		YP_002344602.1	419	Cj1211
+NC_002163.1	1140824	1141630		minus	ribonuclease BN	rbn	905502	protein-coding		YP_002344603.1	268	Cj1212c
+NC_002163.1	1141634	1143016		minus	glycolate oxidase subunit D	glcD	905503	protein-coding		YP_002344604.1	460	Cj1213c
+NC_002163.1	1143019	1143744		minus	exporting protein		905504	protein-coding		YP_002344605.1	241	Cj1214c
+NC_002163.1	1143866	1145026		plus	peptidase M23 family protein		905505	protein-coding		YP_002344606.1	386	Cj1215
+NC_002163.1	1145023	1145226		minus	hypothetical protein		905506	protein-coding		YP_002344607.1	67	Cj1216c
+NC_002163.1	1145228	1145908		minus	laccase domain-containing protein		905507	protein-coding		YP_002344608.1	226	Cj1217c
+NC_002163.1	1145872	1146483		minus	riboflavin synthase subunit alpha	ribA	905508	protein-coding		YP_002344609.1	203	Cj1218c
+NC_002163.1	1146492	1149032		minus	periplasmic protein		905509	protein-coding		YP_002344610.1	846	Cj1219c
+NC_002163.1	1149194	1149454		plus	co-chaperonin GroES	groES	905510	protein-coding		YP_002344611.1	86	Cj1220
+NC_002163.1	1149475	1151112		plus	chaperone GroEL	groEL	905511	protein-coding		YP_002344612.1	545	Cj1221
+NC_002163.1	1151155	1152345		minus	two-component sensor histidine kinase	dccS	905512	protein-coding		YP_002344613.1	396	Cj1222c
+NC_002163.1	1152338	1153003		minus	two-component regulator	dccR	905513	protein-coding		YP_002344614.1	221	Cj1223c
+NC_002163.1	1153151	1153750		plus	iron-binding protein		905514	protein-coding		YP_002344615.1	199	Cj1224
+NC_002163.1	1153761	1154009		plus	hypothetical protein		905515	protein-coding		YP_002344616.1	82	Cj1225
+NC_002163.1	1154100	1154174		minus	uncharacterized gene	tRNAAsn	905516	tRNA				Cjp22
+NC_002163.1	1154100	1154174		minus	tRNA-Asn	tRNAAsn	905516	other				Cjp22
+NC_002163.1	1154267	1155514		minus	two-component sensor histidine kinase		905517	protein-coding		YP_002344617.1	415	Cj1226c
+NC_002163.1	1155511	1156185		minus	two-component regulator		905518	protein-coding		YP_002344618.1	224	Cj1227c
+NC_002163.1	1156261	1157679		minus	serine protease	htrA	905519	protein-coding		YP_002344619.1	472	Cj1228c
+NC_002163.1	1157879	1158772		plus	curved-DNA binding protein	cbpA	905520	protein-coding		YP_002344620.1	297	Cj1229
+NC_002163.1	1158788	1159162		plus	heat shock transcriptional regulator	hspR	905521	protein-coding		YP_002344621.1	124	Cj1230
+NC_002163.1	1159168	1160793		plus	glutathione-regulated potassium-efflux system protein	kefB	905522	protein-coding		YP_002344622.1	541	Cj1231
+NC_002163.1	1160803	1161135		plus	hypothetical protein		905523	protein-coding		YP_002344623.1	110	Cj1232
+NC_002163.1	1161132	1161752		plus	HAD-superfamily hydrolase		905524	protein-coding		YP_002344624.1	206	Cj1233
+NC_002163.1	1161808	1163802		plus	glycine--tRNA ligase subunit beta	glyS	905525	protein-coding		YP_002344625.1	664	Cj1234
+NC_002163.1	1163799	1164620		plus	peptidase M23 family protein		905526	protein-coding		YP_002344626.1	273	Cj1235
+NC_002163.1	1164617	1165567		plus	hypothetical protein		905527	protein-coding		YP_002344627.1	316	Cj1236
+NC_002163.1	1165564	1166538		minus	phosphatase		905528	protein-coding		YP_002344628.1	324	Cj1237c
+NC_002163.1	1166594	1167367		plus	pyridoxine 5'-phosphate synthase	pdxJ	905529	protein-coding		YP_002344629.1	257	Cj1238
+NC_002163.1	1167364	1168458		plus	4-hydroxythreonine-4-phosphate dehydrogenase	pdxA	905530	protein-coding		YP_002344630.1	364	Cj1239
+NC_002163.1	1168448	1169050		minus	periplasmic protein		905531	protein-coding		YP_002344631.1	200	Cj1240c
+NC_002163.1	1169163	1170362		plus	MFS transport protein		905532	protein-coding		YP_002344632.1	399	Cj1241
+NC_002163.1	1170418	1170738		plus	hypothetical protein		905533	protein-coding		YP_002344633.1	106	Cj1242
+NC_002163.1	1170922	1171944		plus	uroporphyrinogen decarboxylase	hemE	905534	protein-coding		YP_002344634.1	340	Cj1243
+NC_002163.1	1171941	1172843		plus	radical SAM domain-containing protein		905535	protein-coding		YP_002344635.1	300	Cj1244
+NC_002163.1	1172840	1174036		minus	membrane protein		905536	protein-coding		YP_002344636.1	398	Cj1245c
+NC_002163.1	1174038	1175840		minus	excinuclease ABC subunit C	uvrC	905537	protein-coding		YP_002344637.1	600	Cj1246c
+NC_002163.1	1175833	1176327		minus	hypothetical protein		905538	protein-coding		YP_002344638.1	164	Cj1247c
+NC_002163.1	1176466	1178001		plus	GMP synthase	guaA	905539	protein-coding		YP_002344639.1	511	Cj1248
+NC_002163.1	1178087	1179547		plus	hypothetical protein		905540	protein-coding		YP_002344640.1	486	Cj1249
+NC_002163.1	1179787	1181037		plus	phosphoribosylamine--glycine ligase	purD	905541	protein-coding		YP_002344641.1	416	Cj1250
+NC_002163.1	1181034	1181486		plus	hypothetical protein		905542	protein-coding		YP_002344642.1	150	Cj1251
+NC_002163.1	1181476	1183524		plus	hypothetical protein		905543	protein-coding		YP_002344643.1	682	Cj1252
+NC_002163.1	1183594	1185753		plus	polynucleotide phosphorylase	pnp	905544	protein-coding		YP_002344644.1	719	Cj1253
+NC_002163.1	1185750	1186232		plus	hypothetical protein		905545	protein-coding		YP_002344645.1	160	Cj1254
+NC_002163.1	1186290	1186499		plus	isomerase		905546	protein-coding		YP_002344646.1	69	Cj1255
+NC_002163.1	1186496	1187158		minus	membrane protein		905547	protein-coding		YP_002344647.1	220	Cj1256c
+NC_002163.1	1187176	1188360		minus	efflux pump protein		905548	protein-coding		YP_002344648.1	394	Cj1257c
+NC_002163.1	1188414	1188869		plus	phosphotyrosine protein phosphatase		905549	protein-coding		YP_002344649.1	151	Cj1258
+NC_002163.1	1189121	1190395		plus	major outer membrane protein	porA	905550	protein-coding		YP_002344650.1	424	Cj1259
+NC_002163.1	1190510	1191631		minus	chaperone protein DnaJ	dnaJ	905551	protein-coding		YP_002344651.1	373	Cj1260c
+NC_002163.1	1191788	1192459		plus	two-component regulator	racR	905552	protein-coding		YP_002344652.1	223	Cj1261
+NC_002163.1	1192456	1193691		plus	two-component sensor histidine kinase	racS	905553	protein-coding		YP_002344653.1	411	Cj1262
+NC_002163.1	1193691	1194263		plus	recombination protein RecR	recR	905554	protein-coding		YP_002344654.1	190	Cj1263
+NC_002163.1	1194260	1194796		minus	hydrogenase maturation protease	hydD	905555	protein-coding		YP_002344655.1	178	Cj1264c
+NC_002163.1	1194793	1195485		minus	Ni/Fe-hydrogenase B-type cytochrome subunit	hydC	905556	protein-coding		YP_002344656.1	230	Cj1265c
+NC_002163.1	1195496	1197211		minus	Ni/Fe-hydrogenase large subunit	hydB	905557	protein-coding		YP_002344657.1	571	Cj1266c
+NC_002163.1	1197214	1198353		minus	Ni/Fe-hydrogenase small subunit	hydA	905558	protein-coding		YP_002344658.1	379	Cj1267c
+NC_002163.1	1198474	1200315		minus	bifunctional tRNA (mnm(5)s(2)U34)-methyltransferase/FAD-dependent cmnm(5)s(2)U34 oxidoreductase	mnmC	905559	protein-coding		YP_002344659.1	613	Cj1268c
+NC_002163.1	1200312	1202291		minus	N-acetylmuramoyl-L-alanine amidase	amiA	905560	protein-coding		YP_002344660.1	659	Cj1269c
+NC_002163.1	1202291	1203382		minus	2-nitropropane dioxygenase		905561	protein-coding		YP_002344661.1	363	Cj1270c
+NC_002163.1	1203379	1204584		minus	tyrosine--tRNA ligase	tyrS	905562	protein-coding		YP_002344662.1	401	Cj1271c
+NC_002163.1	1204596	1206791		minus	guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	spoT	905563	protein-coding		YP_002344663.1	731	Cj1272c
+NC_002163.1	1206775	1206999		minus	DNA-directed RNA polymerase subunit omega	rpoZ	905564	protein-coding		YP_002344664.1	74	Cj1273c
+NC_002163.1	1207010	1207729		minus	uridylate kinase	pyrH	905565	protein-coding		YP_002344665.1	239	Cj1274c
+NC_002163.1	1207781	1208974		minus	peptidase M23 family protein		905566	protein-coding		YP_002344666.1	397	Cj1275c
+NC_002163.1	1208971	1209777		minus	integral membrane protein		905567	protein-coding		YP_002344667.1	268	Cj1276c
+NC_002163.1	1209764	1210429		minus	ABC transporter ATP-binding protein		905568	protein-coding		YP_002344668.1	221	Cj1277c
+NC_002163.1	1210499	1211677		minus	tRNA (guanine-N(7)-)-methyltransferase	trmB	905569	protein-coding		YP_002344669.1	392	Cj1278c
+NC_002163.1	1211677	1212912		minus	fibronectin domain-containing lipoprotein		905570	protein-coding		YP_002344670.1	411	Cj1279c
+NC_002163.1	1212857	1213825		minus	pseudouridine synthase		905571	protein-coding		YP_002344671.1	322	Cj1280c
+NC_002163.1	1213903	1215003		plus	rod shape-determining protein RodA	mrdB	905572	protein-coding		YP_002344672.1	366	Cj1282
+NC_002163.1	1215057	1215133		plus	uncharacterized gene	tRNAMet	905573	tRNA				Cjp23
+NC_002163.1	1215057	1215133		plus	tRNA-Met	tRNAMet	905573	other				Cjp23
+NC_002163.1	1215241	1215316		minus	uncharacterized gene	tRNAPhe	905574	tRNA				Cjp24
+NC_002163.1	1215241	1215316		minus	tRNA-Phe	tRNAPhe	905574	other				Cjp24
+NC_002163.1	1215456	1216799		plus	K+ uptake protein	ktrB	905575	protein-coding		YP_002344673.1	447	Cj1283
+NC_002163.1	1216810	1217460		plus	K+ uptake protein	ktrA	905576	protein-coding		YP_002344674.1	216	Cj1284
+NC_002163.1	1217457	1218128		minus	hypothetical protein		905577	protein-coding		YP_002344675.1	223	Cj1285c
+NC_002163.1	1218134	1218760		minus	uracil phosphoribosyltransferase	upp	905578	protein-coding		YP_002344676.1	208	Cj1286c
+NC_002163.1	1218757	1219992		minus	malate oxidoreductase		905579	protein-coding		YP_002344677.1	411	Cj1287c
+NC_002163.1	1219994	1221385		minus	glutamate--tRNA ligase	gltX	905580	protein-coding		YP_002344678.1	463	Cj1288c
+NC_002163.1	1221450	1222265		plus	hypothetical protein		905581	protein-coding		YP_002344679.1	271	Cj1289
+NC_002163.1	1222303	1223634		minus	biotin carboxylase	accC	905582	protein-coding		YP_002344680.1	443	Cj1290c
+NC_002163.1	1223636	1224091		minus	acetyl-CoA carboxylase, biotin carboxyl carrier protein	accB	905583	protein-coding		YP_002344681.1	151	Cj1291c
+NC_002163.1	1224239	1224799		plus	deoxycytidine triphosphate deaminase	dcd	905584	protein-coding		YP_002344682.1	186	Cj1292
+NC_002163.1	1224849	1225853		plus	UDP-N-acetylglucosamine 4,6-dehydratase	pseB	905585	protein-coding		YP_002344683.1	334	Cj1293
+NC_002163.1	1225855	1226985		plus	UDP-4-amino-4,6-dideoxy-N-acetyl-beta-L-altrosamine transaminase	pseC	905586	protein-coding		YP_002344684.1	376	Cj1294
+NC_002163.1	1226978	1228285		plus	hypothetical protein		905587	protein-coding		YP_002344685.1	435	Cj1295
+NC_002163.1	1228282	1229075		plus	uncharacterized gene		905588	pseudogene				Cj1296
+NC_002163.1	1229096	1229887		plus	N-acetyltransferase		905590	protein-coding		YP_002344688.1	263	Cj1298
+NC_002163.1	1229918	1230148		plus	acyl carrier protein	acpP2	905591	protein-coding		YP_002344689.1	76	Cj1299
+NC_002163.1	1230145	1231038		plus	SAM domain-containing methyltransferase		905592	protein-coding		YP_002344690.1	297	Cj1300
+NC_002163.1	1231031	1231447		plus	hypothetical protein		905593	protein-coding		YP_002344691.1	138	Cj1301
+NC_002163.1	1231444	1233006		plus	HAD-superfamily hydrolase		905594	protein-coding		YP_002344692.1	520	Cj1302
+NC_002163.1	1232996	1234057		plus	3-oxoacyl-ACP synthase	fabH2	905595	protein-coding		YP_002344693.1	353	Cj1303
+NC_002163.1	1234057	1234278		plus	acyl carrier protein	acpP3	905596	protein-coding		YP_002344694.1	73	Cj1304
+NC_002163.1	1234292	1235509		minus	hypothetical protein		905597	protein-coding		YP_002344695.1	405	Cj1305c
+NC_002163.1	1235522	1236748		minus	hypothetical protein		905598	protein-coding		YP_002344696.1	408	Cj1306c
+NC_002163.1	1236809	1238317		plus	amino acid activating protein		905599	protein-coding		YP_002344697.1	502	Cj1307
+NC_002163.1	1238357	1238584		plus	acyl carrier protein		905600	protein-coding		YP_002344698.1	75	Cj1308
+NC_002163.1	1238581	1239651		minus	hypothetical protein		905601	protein-coding		YP_002344699.1	356	Cj1309c
+NC_002163.1	1239673	1240887		minus	hypothetical protein		905602	protein-coding		YP_002344700.1	404	Cj1310c
+NC_002163.1	1240966	1241664		plus	pseudaminic acid cytidylyltransferase	pseF	905603	protein-coding		YP_002344701.1	232	Cj1311
+NC_002163.1	1241648	1242472		plus	UDP-2,4-diacetamido-2,4,6-trideoxy-beta-L-altropyranose hydrolase	pseG	905604	protein-coding		YP_002344702.1	274	Cj1312
+NC_002163.1	1242469	1242942		plus	N-acetyltransferase	pseH	905605	protein-coding		YP_002344703.1	157	Cj1313
+NC_002163.1	1242907	1243653		minus	imidazole glycerol phosphate synthase subunit HisF	hisF	905606	protein-coding		YP_002344704.1	248	Cj1314c
+NC_002163.1	1243654	1244259		minus	imidazole glycerol phosphate synthase subunit HisH	hisH	905607	protein-coding		YP_002344705.1	201	Cj1315c
+NC_002163.1	1244256	1245392		minus	pseudaminic acid biosynthesis protein PseA	pseA	905608	protein-coding		YP_002344706.1	378	Cj1316c
+NC_002163.1	1245650	1246681		plus	pseudaminic acid synthase	pseI	905609	protein-coding		YP_002344707.1	343	Cj1317
+NC_002163.1	1246678	1248627		plus	hypothetical protein		905610	protein-coding		YP_002344708.1	649	Cj1318
+NC_002163.1	1248624	1249595		plus	NAD-dependent 4,6-dehydratase		905611	protein-coding		YP_002344709.1	323	Cj1319
+NC_002163.1	1249588	1250742		plus	PLP-dependent aminotransferase		905612	protein-coding		YP_002344710.1	384	Cj1320
+NC_002163.1	1250852	1251394		plus	uncharacterized gene		905613	pseudogene				Cj1321
+NC_002163.1	1251467	1252161		plus	uncharacterized gene		905614	pseudogene				Cj1322
+NC_002163.1	1252278	1253399		plus	hypothetical protein		905616	protein-coding		YP_002344714.1	373	Cj1324
+NC_002163.1	1253417	1254092		plus	methyltransferase		905617	protein-coding		YP_002344715.1	224	Cj1325
+NC_002163.1	1254132	1255136		plus	N,N'-diacetyllegionaminic acid synthase	neuB2	905619	protein-coding		YP_002344716.1	334	Cj1327
+NC_002163.1	1255129	1256283		plus	GDP/UDP-N,N'-diacetylbacillosamine 2-epimerase	neuC2	905620	protein-coding		YP_002344717.1	384	Cj1328
+NC_002163.1	1256292	1257317		plus	sugar-phosphate nucleotide transferase		905621	protein-coding		YP_002344718.1	341	Cj1329
+NC_002163.1	1257314	1258219		plus	isomerase		905622	protein-coding		YP_002344719.1	301	Cj1330
+NC_002163.1	1258212	1258919		plus	CMP-N,N'-diacetyllegionaminic acid synthase	ptmB	905623	protein-coding		YP_002344720.1	235	Cj1331
+NC_002163.1	1258919	1259689		plus	flagellin modification protein A	ptmA	905624	protein-coding		YP_002344721.1	256	Cj1332
+NC_002163.1	1259677	1261638		plus	protein PseD	pseD	905625	protein-coding		YP_002344722.1	653	Cj1333
+NC_002163.1	1261635	1263494		plus	hypothetical protein		905626	protein-coding		YP_002344723.1	619	Cj1334
+NC_002163.1	1263507	1265454		plus	hypothetical protein		905627	protein-coding		YP_002344724.1	649	Cj1335
+NC_002163.1	1265451	1267337		plus	protein PseE	pseE	905629	protein-coding		YP_002344725.1	628	Cj1337
+NC_002163.1	1267368	1269086		minus	flagellin B	flaB	905630	protein-coding		YP_002344726.1	572	Cj1338c
+NC_002163.1	1269232	1270950		minus	flagellin A	flaA	905631	protein-coding		YP_002344727.1	572	Cj1339c
+NC_002163.1	1271047	1272864		minus	motility protein		905632	protein-coding		YP_002344728.1	605	Cj1340c
+NC_002163.1	1272861	1274684		minus	hypothetical protein		905633	protein-coding		YP_002344729.1	607	Cj1341c
+NC_002163.1	1274694	1275935		minus	hypothetical protein		905634	protein-coding		YP_002344730.1	413	Cj1342c
+NC_002163.1	1275935	1276450		minus	periplasmic protein		905635	protein-coding		YP_002344731.1	171	Cj1343c
+NC_002163.1	1276451	1277458		minus	tRNA N6-adenosine threonylcarbamoyltransferase		905636	protein-coding		YP_002344732.1	335	Cj1344c
+NC_002163.1	1277455	1278849		minus	periplasmic protein		905637	protein-coding		YP_002344733.1	464	Cj1345c
+NC_002163.1	1278851	1279921		minus	1-deoxy-D-xylulose 5-phosphate reductoisomerase	dxr	905638	protein-coding		YP_002344734.1	356	Cj1346c
+NC_002163.1	1279918	1280643		minus	phosphatidate cytidylyltransferase	cdsA	905639	protein-coding		YP_002344735.1	241	Cj1347c
+NC_002163.1	1280652	1280990		minus	hypothetical protein		905640	protein-coding		YP_002344736.1	112	Cj1348c
+NC_002163.1	1280992	1282299		minus	fibronectin/fibrinogen-binding protein		905641	protein-coding		YP_002344737.1	435	Cj1349c
+NC_002163.1	1282361	1282936		plus	molybdopterin-guanine dinucleotide biosynthesis protein	mobA	905642	protein-coding		YP_002344738.1	191	Cj1350
+NC_002163.1	1282933	1283922		plus	phospholipase A	pldA	905643	protein-coding		YP_002344739.1	329	Cj1351
+NC_002163.1	1284008	1284976		plus	enterochelin uptake permease	ceuB	905644	protein-coding		YP_002344740.1	322	Cj1352
+NC_002163.1	1284969	1285907		plus	enterochelin uptake permease	ceuC	905645	protein-coding		YP_002344741.1	312	Cj1353
+NC_002163.1	1285904	1286659		plus	enterochelin uptake ATP-binding protein	ceuD	905646	protein-coding		YP_002344742.1	251	Cj1354
+NC_002163.1	1286672	1287664		plus	enterochelin uptake substrate-binding protein	ceuE	905647	protein-coding		YP_002344743.1	330	Cj1355
+NC_002163.1	1287737	1287826		minus	uncharacterized gene	tRNASer	905648	tRNA				Cjp25
+NC_002163.1	1287737	1287826		minus	tRNA-Ser	tRNASer	905648	other				Cjp25
+NC_002163.1	1287890	1288444		minus	integral membrane protein		905649	protein-coding		YP_002344744.1	184	Cj1356c
+NC_002163.1	1288580	1290412		minus	cytochrome c nitrite reductase cytochrome c552 subunit	nrfA	905650	protein-coding		YP_002344745.1	610	Cj1357c
+NC_002163.1	1290427	1290942		minus	cytochrome c nitrite reductase small subunit	nrfH	905651	protein-coding		YP_002344746.1	171	Cj1358c
+NC_002163.1	1291131	1293215		plus	polyphosphate kinase	ppk	905652	protein-coding		YP_002344747.1	694	Cj1359
+NC_002163.1	1293300	1293658		minus	uncharacterized gene		3245046	misc_RNA				Cjs01
+NC_002163.1	1293300	1293658		minus	uncharacterized gene		3245046	other				Cjs01
+NC_002163.1	1293659	1294111		minus	hypothetical protein		905654	protein-coding		YP_002344749.1	150	Cj1361c
+NC_002163.1	1294160	1295167		plus	Holliday junction DNA helicase RuvB	ruvB	905655	protein-coding		YP_002344750.1	335	Cj1362
+NC_002163.1	1295171	1296214		plus	acid membrane antigen A	amaA	905656	protein-coding		YP_002344751.1	347	Cj1363
+NC_002163.1	1296244	1297635		minus	fumarate hydratase	fumC	905657	protein-coding		YP_002344752.1	463	Cj1364c
+NC_002163.1	1297691	1300816		minus	serine protease		905658	protein-coding		YP_002344753.1	1041	Cj1365c
+NC_002163.1	1300819	1302615		minus	glucosamine--fructose-6-phosphate aminotransferase	glmS	905659	protein-coding		YP_002344754.1	598	Cj1366c
+NC_002163.1	1302620	1304968		minus	nucleotidyltransferase		905660	protein-coding		YP_002344755.1	782	Cj1367c
+NC_002163.1	1305112	1306176		plus	hypothetical protein		905661	protein-coding		YP_002344756.1	354	Cj1368
+NC_002163.1	1306186	1307505		plus	permease		905662	protein-coding		YP_002344757.1	439	Cj1369
+NC_002163.1	1307519	1307962		plus	nucleotide phosphoribosyltransferase		905663	protein-coding		YP_002344758.1	147	Cj1370
+NC_002163.1	1308007	1308705		plus	periplasmic protein		905664	protein-coding		YP_002344759.1	232	Cj1371
+NC_002163.1	1308715	1309284		plus	periplasmic protein		905665	protein-coding		YP_002344760.1	189	Cj1372
+NC_002163.1	1309284	1311755		plus	integral membrane protein		905666	protein-coding		YP_002344761.1	823	Cj1373
+NC_002163.1	1311786	1312388		minus	Non-canonical purine NTP pyrophosphatase		905667	protein-coding		YP_002344762.1	200	Cj1374c
+NC_002163.1	1312555	1313850		plus	multidrug efflux transporter		905668	protein-coding		YP_002344763.1	431	Cj1375
+NC_002163.1	1313847	1314656		plus	periplasmic protein		905669	protein-coding		YP_002344764.1	269	Cj1376
+NC_002163.1	1314649	1316310		minus	ferredoxin		905670	protein-coding		YP_002344765.1	553	Cj1377c
+NC_002163.1	1316388	1317710		plus	L-seryl-tRNA(Sec) selenium transferase	selA	905671	protein-coding		YP_002344766.1	440	Cj1378
+NC_002163.1	1317707	1319512		plus	selenocysteine-specific elongation factor	selB	905672	protein-coding		YP_002344767.1	601	Cj1379
+NC_002163.1	1319561	1320271		plus	periplasmic protein		905673	protein-coding		YP_002344768.1	236	Cj1380
+NC_002163.1	1320277	1320807		plus	lipoprotein		905674	protein-coding		YP_002344769.1	176	Cj1381
+NC_002163.1	1320852	1321343		minus	flavodoxin FldA	fldA	905675	protein-coding		YP_002344770.1	163	Cj1382c
+NC_002163.1	1321343	1322038		minus	hypothetical protein		905676	protein-coding		YP_002344771.1	231	Cj1383c
+NC_002163.1	1322041	1322355		minus	hypothetical protein		905677	protein-coding		YP_002344772.1	104	Cj1384c
+NC_002163.1	1322526	1323950		plus	catalase	katA	905678	protein-coding		YP_002344773.1	474	Cj1385
+NC_002163.1	1324007	1324477		plus	ankyrin repeat-containing protein		905679	protein-coding		YP_002344774.1	156	Cj1386
+NC_002163.1	1324478	1325134		minus	hypothetical protein		905680	protein-coding		YP_002344775.1	218	Cj1387c
+NC_002163.1	1325302	1325664		plus	endoribonuclease L-PSP		905681	protein-coding		YP_002344776.1	120	Cj1388
+NC_002163.1	1325668	1327107		plus	uncharacterized gene		905682	pseudogene				Cj1389
+NC_002163.1	1327120	1328282		plus	uncharacterized gene	metC	5066043	pseudogene				Cj1392
+NC_002163.1	1328292	1329659		plus	adenylosuccinate lyase		905684	protein-coding		YP_002344779.1	455	Cj1394
+NC_002163.1	1329668	1331008		plus	uncharacterized gene		905685	pseudogene				Cj1395
+NC_002163.1	1331090	1331314		plus	ferrous iron transport protein		905686	protein-coding		YP_002344780.1	74	Cj1397
+NC_002163.1	1331311	1333152		plus	ferrous iron transport protein	feoB	905687	protein-coding		YP_002344781.1	613	Cj1398
+NC_002163.1	1333149	1334642		minus	Ni/Fe-hydrogenase small subunit	hydA2	905688	protein-coding		YP_002344782.1	497	Cj1399c
+NC_002163.1	1334646	1335470		minus	enoyl-ACP reductase	fabI	905689	protein-coding		YP_002344783.1	274	Cj1400c
+NC_002163.1	1335474	1336145		minus	triosephosphate isomerase	tpiA	905690	protein-coding		YP_002344784.1	223	Cj1401c
+NC_002163.1	1336142	1337344		minus	phosphoglycerate kinase	pgk	905691	protein-coding		YP_002344785.1	400	Cj1402c
+NC_002163.1	1337347	1338345		minus	glyceraldehyde 3-phosphate dehydrogenase	gapA	905692	protein-coding		YP_002344786.1	332	Cj1403c
+NC_002163.1	1338404	1338949		plus	nicotinate-nucleotide adenylyltransferase	nadD	905693	protein-coding		YP_002344787.1	181	Cj1404
+NC_002163.1	1338977	1339303		plus	fibosomal silencing factor RsfS		905694	protein-coding		YP_002344788.1	108	Cj1405
+NC_002163.1	1339362	1339712		minus	periplasmic protein		905695	protein-coding		YP_002344789.1	116	Cj1406c
+NC_002163.1	1339759	1341147		minus	phospho-sugar mutase		905696	protein-coding		YP_002344790.1	462	Cj1407c
+NC_002163.1	1341250	1341786		plus	flagellar basal body-associated protein FliL	fliL	905697	protein-coding		YP_002344791.1	178	Cj1408
+NC_002163.1	1341786	1342133		plus	holo-ACP synthase	acpS	905698	protein-coding		YP_002344792.1	115	Cj1409
+NC_002163.1	1342134	1342553		minus	membrane protein		905699	protein-coding		YP_002344793.1	139	Cj1410c
+NC_002163.1	1342550	1343911		minus	cytochrome P450		905700	protein-coding		YP_002344794.1	453	Cj1411c
+NC_002163.1	1343908	1345029		minus	integral membrane protein		905701	protein-coding		YP_002344795.1	373	Cj1412c
+NC_002163.1	1345102	1346286		minus	capsule polysaccharide modification protein	kpsS	905702	protein-coding		YP_002344796.1	394	Cj1413c
+NC_002163.1	1346283	1348352		minus	capsule polysaccharide modification protein	kpsC	905703	protein-coding		YP_002344797.1	689	Cj1414c
+NC_002163.1	1348349	1348861		minus	adenylyl-sulfate kinase	cysC	905704	protein-coding		YP_002344798.1	170	Cj1415c
+NC_002163.1	1348851	1349612		minus	sugar nucleotidyltransferase		905705	protein-coding		YP_002344799.1	253	Cj1416c
+NC_002163.1	1349614	1350216		minus	amidotransferase		905706	protein-coding		YP_002344800.1	200	Cj1417c
+NC_002163.1	1350207	1352546		minus	hypothetical protein		905707	protein-coding		YP_002344801.1	779	Cj1418c
+NC_002163.1	1352561	1353322		minus	methyltransferase		905708	protein-coding		YP_002344802.1	253	Cj1419c
+NC_002163.1	1353375	1354148		minus	methyltransferase		905709	protein-coding		YP_002344803.1	257	Cj1420c
+NC_002163.1	1354215	1356053		minus	sugar transferase		905710	protein-coding		YP_002344804.1	612	Cj1421c
+NC_002163.1	1356108	1357985		minus	sugar transferase		905711	protein-coding		YP_002344805.1	625	Cj1422c
+NC_002163.1	1358036	1358701		minus	D-glycero-D-manno-heptose 1-phosphate guanosyltransferase	hddC	905712	protein-coding		YP_002344806.1	221	Cj1423c
+NC_002163.1	1358689	1359294		minus	phosphoheptose isomerase	gmhA2	905713	protein-coding		YP_002344807.1	201	Cj1424c
+NC_002163.1	1359282	1360301		minus	D-glycero-D-manno-heptose 7-phosphate kinase	hddA	905714	protein-coding		YP_002344808.1	339	Cj1425c
+NC_002163.1	1360321	1361172		minus	methyltransferase family protein		905715	protein-coding		YP_002344809.1	283	Cj1426c
+NC_002163.1	1361191	1362132		minus	sugar-nucleotide epimerase/dehydratease		905716	protein-coding		YP_002344810.1	313	Cj1427c
+NC_002163.1	1362156	1363196		minus	GDP-L-fucose synthetase	fcl	905717	protein-coding		YP_002344811.1	346	Cj1428c
+NC_002163.1	1363196	1364122		minus	hypothetical protein		905718	protein-coding		YP_002344812.1	308	Cj1429c
+NC_002163.1	1364126	1364671		minus	dTDP-4-dehydrorhamnose 3,5-epimerase	rfbC	905719	protein-coding		YP_002344813.1	181	Cj1430c
+NC_002163.1	1364671	1366419		minus	capsular polysaccharide heptosyltransferase	hddC	905720	protein-coding		YP_002344814.1	582	Cj1431c
+NC_002163.1	1366422	1369517		minus	sugar transferase		905721	protein-coding		YP_002344815.1	1031	Cj1432c
+NC_002163.1	1369527	1370633		minus	hypothetical protein		905722	protein-coding		YP_002344816.1	368	Cj1433c
+NC_002163.1	1370667	1372004		minus	sugar transferase		905723	protein-coding		YP_002344817.1	445	Cj1434c
+NC_002163.1	1372056	1372691		minus	phosphatase		905724	protein-coding		YP_002344818.1	211	Cj1435c
+NC_002163.1	1372695	1373867		minus	aminotransferase		905725	protein-coding		YP_002344819.1	390	Cj1436c
+NC_002163.1	1373917	1375020		minus	aminotransferase		905726	protein-coding		YP_002344820.1	367	Cj1437c
+NC_002163.1	1375007	1377337		minus	sugar transferase		905727	protein-coding		YP_002344821.1	776	Cj1438c
+NC_002163.1	1377339	1378445		minus	UDP-galactopyranose mutase	glf	905728	protein-coding		YP_002344822.1	368	Cj1439c
+NC_002163.1	1378483	1379706		minus	sugar transferase		905729	protein-coding		YP_002344823.1	407	Cj1440c
+NC_002163.1	1379716	1380897		minus	UDP-glucose 6-dehydrogenase	kfiD	905730	protein-coding		YP_002344824.1	393	Cj1441c
+NC_002163.1	1380894	1382528		minus	sugar transferase		905731	protein-coding		YP_002344825.1	544	Cj1442c
+NC_002163.1	1382528	1383475		minus	D-arabinose 5-phosphate isomerase	kpsF	905732	protein-coding		YP_002344826.1	315	Cj1443c
+NC_002163.1	1383486	1385144		minus	capsule polysaccharide ABC transporter substrate-binding protein	kpsD	905733	protein-coding		YP_002344827.1	552	Cj1444c
+NC_002163.1	1385146	1386264		minus	capsule polysaccharide ABC transporter permease	kpsE	905734	protein-coding		YP_002344828.1	372	Cj1445c
+NC_002163.1	1386264	1386926		minus	capsule polysaccharide ABC transporter ATP-binding protein	kpsT	905735	protein-coding		YP_002344829.1	220	Cj1447c
+NC_002163.1	1386923	1387705		minus	capsule polysaccharide ABC transporter permease	kpsM	905736	protein-coding		YP_002344830.1	260	Cj1448c
+NC_002163.1	1387777	1388184		minus	hypothetical protein		905737	protein-coding		YP_002344831.1	135	Cj1449c
+NC_002163.1	1388259	1388822		plus	ATP/GTP-binding protein		905738	protein-coding		YP_002344832.1	187	Cj1450
+NC_002163.1	1388859	1389548		plus	dUTPase	dut	905739	protein-coding		YP_002344833.1	229	Cj1451
+NC_002163.1	1389550	1390263		plus	integral membrane protein		905740	protein-coding		YP_002344834.1	237	Cj1452
+NC_002163.1	1390246	1391211		minus	tRNA(Ile)-lysidine synthase	tilS	905741	protein-coding		YP_002344835.1	321	Cj1453c
+NC_002163.1	1391201	1392520		minus	ribosomal protein S12 methylthiotransferase		905742	protein-coding		YP_002344836.1	439	Cj1454c
+NC_002163.1	1392594	1393691		plus	peptide chain release factor 2	prfB	905743	protein-coding		YP_002344837.1	365	Cj1455
+NC_002163.1	1393849	1394163		minus	periplasmic protein		905744	protein-coding		YP_002344838.1	104	Cj1456c
+NC_002163.1	1394285	1395403		minus	tRNA pseudouridine synthase D	truD	905745	protein-coding		YP_002344839.1	372	Cj1457c
+NC_002163.1	1395372	1396193		minus	thiamine monophosphate kinase	thiL	905746	protein-coding		YP_002344840.1	273	Cj1458c
+NC_002163.1	1396280	1397353		plus	hypothetical protein		905747	protein-coding		YP_002344841.1	357	Cj1459
+NC_002163.1	1397350	1397733		plus	hypothetical protein		905748	protein-coding		YP_002344842.1	127	Cj1460
+NC_002163.1	1397726	1398409		plus	DNA methylase		905749	protein-coding		YP_002344843.1	227	Cj1461
+NC_002163.1	1398468	1399514		plus	flagellar basal body P-ring protein	flgI	905750	protein-coding		YP_002344844.1	348	Cj1462
+NC_002163.1	1399514	1399855		plus	flagellar biosynthesis protein FlgJ	flgJ	905751	protein-coding		YP_002344845.1	113	Cj1463
+NC_002163.1	1399918	1400115		plus	flagellar biosynthesis protein FlgM	flgM	905752	protein-coding		YP_002344846.1	65	Cj1464
+NC_002163.1	1400158	1400592		plus	hypothetical protein		905753	protein-coding		YP_002344847.1	144	Cj1465
+NC_002163.1	1400602	1402428		plus	flagellar hook-associated protein FlgK	flgK	905754	protein-coding		YP_002344848.1	608	Cj1466
+NC_002163.1	1402445	1403209		plus	hypothetical protein		905755	protein-coding		YP_002344849.1	254	Cj1467
+NC_002163.1	1403213	1403977		plus	integral membrane protein		905756	protein-coding		YP_002344850.1	254	Cj1468
+NC_002163.1	1403970	1405150		minus	uncharacterized gene		905757	pseudogene				Cj1470c
+NC_002163.1	1405147	1406706		minus	type II protein secretion system protein E	ctsE	905758	protein-coding		YP_002344851.1	519	Cj1471c
+NC_002163.1	1406696	1407283		minus	membrane protein		905759	protein-coding		YP_002344852.1	195	Cj1472c
+NC_002163.1	1407287	1407895		minus	ATP/GTP-binding protein	ctsP	905760	protein-coding		YP_002344853.1	202	Cj1473c
+NC_002163.1	1407888	1409306		minus	type II protein secretion system protein D	ctsD	905761	protein-coding		YP_002344854.1	472	Cj1474c
+NC_002163.1	1409278	1409595		minus	hypothetical protein		905762	protein-coding		YP_002344855.1	105	Cj1475c
+NC_002163.1	1409619	1413179		minus	pyruvate-flavodoxin oxidoreductase		905763	protein-coding		YP_002344856.1	1186	Cj1476c
+NC_002163.1	1413272	1413913		minus	hydrolase		905764	protein-coding		YP_002344857.1	213	Cj1477c
+NC_002163.1	1413913	1414872		minus	outer membrane fibronectin-binding protein	cadF	905765	protein-coding		YP_002344858.1	319	Cj1478c
+NC_002163.1	1414997	1415386		minus	30S ribosomal protein S9	rpsI	905766	protein-coding		YP_002344859.1	129	Cj1479c
+NC_002163.1	1415389	1415814		minus	50S ribosomal protein L13	rplM	905767	protein-coding		YP_002344860.1	141	Cj1480c
+NC_002163.1	1415898	1418663		minus	helicase		905768	protein-coding		YP_002344861.1	921	Cj1481c
+NC_002163.1	1418660	1421026		minus	hypothetical protein		905769	protein-coding		YP_002344862.1	788	Cj1482c
+NC_002163.1	1421023	1421544		minus	lipoprotein		905770	protein-coding		YP_002344863.1	173	Cj1483c
+NC_002163.1	1421531	1422133		minus	membrane protein		905771	protein-coding		YP_002344864.1	200	Cj1484c
+NC_002163.1	1422130	1422231		minus	periplasmic protein		905772	protein-coding		YP_002344865.1	33	Cj1485c
+NC_002163.1	1422228	1422449		minus	periplasmic protein		905773	protein-coding		YP_002344866.1	73	Cj1486c
+NC_002163.1	1422446	1423309		minus	cbb3-type cytochrome C oxidase subunit III	ccoP	905774	protein-coding		YP_002344867.1	287	Cj1487c
+NC_002163.1	1423309	1423572		minus	cbb3-type cytochrome C oxidase subunit IV	ccoQ	905775	protein-coding		YP_002344868.1	87	Cj1488c
+NC_002163.1	1423577	1424242		minus	cbb3-type cytochrome c oxidase subunit II	ccoO	905776	protein-coding		YP_002344869.1	221	Cj1489c
+NC_002163.1	1424255	1425721		minus	cbb3-type cytochrome c oxidase subunit I	ccoN	905777	protein-coding		YP_002344870.1	488	Cj1490c
+NC_002163.1	1425847	1426527		minus	two-component regulator		905778	protein-coding		YP_002344871.1	226	Cj1491c
+NC_002163.1	1426530	1427741		minus	two-component sensor		905779	protein-coding		YP_002344872.1	403	Cj1492c
+NC_002163.1	1427738	1428397		minus	integral membrane protein		905783	protein-coding		YP_002344873.1	219	Cj1493c
+NC_002163.1	1428394	1429512		minus	carbamoyl phosphate synthase small subunit	carA	905785	protein-coding		YP_002344874.1	372	Cj1494c
+NC_002163.1	1429512	1430063		minus	hypothetical protein		905784	protein-coding		YP_002344875.1	183	Cj1495c
+NC_002163.1	1430156	1430674		minus	periplasmic protein		906007	protein-coding		YP_002344876.1	172	Cj1496c
+NC_002163.1	1430667	1431095		minus	hypothetical protein		905781	protein-coding		YP_002344877.1	142	Cj1497c
+NC_002163.1	1431092	1432342		minus	adenylosuccinate synthetase	purA	905786	protein-coding		YP_002344878.1	416	Cj1498c
+NC_002163.1	1432370	1432467		minus	uncharacterized gene	tRNASeC	905782	tRNA				Cjp26
+NC_002163.1	1432370	1432467		minus	tRNA-Sec	tRNASeC	905782	other				Cjp26
+NC_002163.1	1432607	1433815		plus	inner membrane protein		905787	protein-coding		YP_002344879.1	402	Cj1500
+NC_002163.1	1433819	1434046		plus	hypothetical protein		905791	protein-coding		YP_002344880.1	75	Cj1501
+NC_002163.1	1434062	1435549		minus	sodium/proline symporter	putP	905789	protein-coding		YP_002344881.1	495	Cj1502c
+NC_002163.1	1435549	1439037		minus	proline dehydrogenase/delta-1-pyrroline-5-carboxylate dehydrogenase	putA	905792	protein-coding		YP_002344882.1	1162	Cj1503c
+NC_002163.1	1439168	1440094		minus	selenide,water dikinase	selD	905797	protein-coding		YP_002344883.1	308	Cj1504c
+NC_002163.1	1440200	1440772		minus	two-component response regulator		905793	protein-coding		YP_002344884.1	190	Cj1505c
+NC_002163.1	1440883	1442985		minus	MCP-type signal transduction protein		905796	protein-coding		YP_002344885.1	700	Cj1506c
+NC_002163.1	1443095	1443832		minus	regulatory protein		905800	protein-coding		YP_002344886.1	245	Cj1507c
+NC_002163.1	1443825	1444607		minus	formate dehydrogenase accessory protein	fdhD	905799	protein-coding		YP_002344887.1	260	Cj1508c
+NC_002163.1	1444774	1445706		minus	formate dehydrogenase cytochrome B subunit	fdhC	905794	protein-coding		YP_002344888.1	310	Cj1509c
+NC_002163.1	1445703	1446344		minus	formate dehydrogenase iron-sulfur subunit	fdhB	905790	protein-coding		YP_002344889.1	213	Cj1510c
+NC_002163.1	1446341	1449145		minus	formate dehydrogenase large subunit	fdhA	905795	protein-coding		YP_002344890.1	934	Cj1511c
+NC_002163.1	1449145	1449336		minus	hypothetical protein		905788	protein-coding		YP_002344891.1	63	Cj1513c
+NC_002163.1	1449311	1450024		minus	hypothetical protein		905802	protein-coding		YP_002344892.1	237	Cj1514c
+NC_002163.1	1450328	1451476		minus	carboxynorspermidine/carboxyspermidine decarboxylase		905798	protein-coding		YP_002344893.1	382	Cj1515c
+NC_002163.1	1451600	1453141		plus	oxidoreductase		905803	protein-coding		YP_002344894.1	513	Cj1516
+NC_002163.1	1453143	1453364		plus	molybdopterin converting factor subunit 1	moaD	905801	protein-coding		YP_002344895.1	73	Cj1517
+NC_002163.1	1453365	1453811		plus	molybdopterin converting factor subunit 2	moaE	905805	protein-coding		YP_002344896.1	148	Cj1518
+NC_002163.1	1453815	1455005		plus	molybdopterin biosynthesis protein	moeA2	905804	protein-coding		YP_002344897.1	396	Cj1519
+NC_002163.1	1455569	1456000		minus	CRISPR-associated endoribonuclease Cas2		905810	protein-coding		YP_002344898.1	143	Cj1521c
+NC_002163.1	1455993	1456883		minus	CRISPR-associated endonuclease Cas1		905808	protein-coding		YP_002344899.1	296	Cj1522c
+NC_002163.1	1456880	1459834		minus	CRISPR-associated protein		905809	protein-coding		YP_002344900.1	984	Cj1523c
+NC_002163.1	1460037	1461474		plus	uncharacterized gene		905811	pseudogene				Cj1528
+NC_002163.1	1461504	1462493		minus	phosphoribosylformylglycinamidine cyclo-ligase	purM	905806	protein-coding		YP_002344901.1	329	Cj1529c
+NC_002163.1	1462554	1463159		plus	dephospho-CoA kinase	coaE	905813	protein-coding		YP_002344902.1	201	Cj1530
+NC_002163.1	1463156	1463905		plus	diaminopimelate epimerase	dapF	905812	protein-coding		YP_002344903.1	249	Cj1531
+NC_002163.1	1463880	1464611		plus	periplasmic protein		905246	protein-coding		YP_002344904.1	243	Cj1532
+NC_002163.1	1464608	1465645		minus	hypothetical protein		905815	protein-coding		YP_002344905.1	345	Cj1533c
+NC_002163.1	1465710	1466159		minus	bacterioferritin		905816	protein-coding		YP_002344906.1	149	Cj1534c
+NC_002163.1	1466289	1467509		minus	glucose-6-phosphate isomerase	pgi	905817	protein-coding		YP_002344907.1	406	Cj1535c
+NC_002163.1	1467503	1468327		minus	UTP-glucose-1-phosphate uridylyltransferase	galU	905818	protein-coding		YP_002344908.1	274	Cj1536c
+NC_002163.1	1468409	1470382		minus	acetyl-CoA synthetase	acs	905819	protein-coding		YP_002344909.1	657	Cj1537c
+NC_002163.1	1470520	1471515		minus	anion uptake ABC transporter ATP-binding protein		905820	protein-coding		YP_002344910.1	331	Cj1538c
+NC_002163.1	1471517	1472236		minus	anion-uptake ABC transporter permease		905821	protein-coding		YP_002344911.1	239	Cj1539c
+NC_002163.1	1472282	1473091		plus	periplasmic protein		905822	protein-coding		YP_002344912.1	269	Cj1540
+NC_002163.1	1473233	1474000		plus	LamB/YcsF family protein		905823	protein-coding		YP_002344913.1	255	Cj1541
+NC_002163.1	1474010	1474750		plus	allophanate hydrolase subunit 1		905826	protein-coding		YP_002344914.1	246	Cj1542
+NC_002163.1	1474731	1475696		plus	allophanate hydrolase subunit 2		905824	protein-coding		YP_002344915.1	321	Cj1543
+NC_002163.1	1475693	1476589		minus	integral membrane protein		905162	protein-coding		YP_002344916.1	298	Cj1544c
+NC_002163.1	1476622	1477200		minus	MdaB protein		904498	protein-coding		YP_002344917.1	192	Cj1545c
+NC_002163.1	1477300	1477647		plus	transcriptional regulator		905827	protein-coding		YP_002344918.1	115	Cj1546
+NC_002163.1	1477635	1478084		plus	lipocalin family protein		904541	protein-coding		YP_002344919.1	149	Cj1547
+NC_002163.1	1478086	1479162		minus	NADP-dependent alcohol dehydrogenase		904495	protein-coding		YP_002344920.1	358	Cj1548c
+NC_002163.1	1479390	1482485		minus	type I restriction enzyme R protein	hsdR	905828	protein-coding		YP_002344921.1	1031	Cj1549c
+NC_002163.1	1482488	1484254		minus	ATP/GTP-binding protein	rloH	905829	protein-coding		YP_002344922.1	588	Cj1550c
+NC_002163.1	1484265	1485407		minus	type I restriction enzyme S protein	hsdS	905830	protein-coding		YP_002344923.1	380	Cj1551c
+NC_002163.1	1485626	1487092		minus	hypothetical protein	mloB	905831	protein-coding		YP_002344924.1	488	Cj1552c
+NC_002163.1	1487089	1488591		minus	type I restriction enzyme M protein	hsdM	905832	protein-coding		YP_002344925.1	500	Cj1553c
+NC_002163.1	1488961	1489596		minus	hypothetical protein		905833	protein-coding		YP_002344926.1	211	Cj1555c
+NC_002163.1	1489789	1490121		plus	transcriptional regulator		905834	protein-coding		YP_002344927.1	110	Cj1556
+NC_002163.1	1490206	1491152		plus	uncharacterized gene		905836	pseudogene				Cj1560
+NC_002163.1	1491162	1491605		plus	uncharacterized gene		905837	pseudogene				Cj1561
+NC_002163.1	1491492	1491923		minus	transcriptional regulator		904355	protein-coding		YP_002344932.1	143	Cj1563c
+NC_002163.1	1492003	1493991		plus	methyl-accepting chemotaxis signal transduction protein		904333	protein-coding		YP_002344933.1	662	Cj1564
+NC_002163.1	1494034	1496400		minus	paralysed flagellum protein	pflA	905864	protein-coding		YP_002344934.1	788	Cj1565c
+NC_002163.1	1496422	1497810		minus	NADH-quinone oxidoreductase I subunit N	nuoN	905839	protein-coding		YP_002344935.1	462	Cj1566c
+NC_002163.1	1497800	1499287		minus	NADH-quinone oxidoreductase I subunit M	nuoM	905840	protein-coding		YP_002344936.1	495	Cj1567c
+NC_002163.1	1499289	1501079		minus	NADH-quinone oxidoreductase subunit L	nuoL	905250	protein-coding		YP_002344937.1	596	Cj1568c
+NC_002163.1	1501081	1501377		minus	NADH-quinone oxidoreductase I subunit K	nuoK	904491	protein-coding		YP_002344938.1	98	Cj1569c
+NC_002163.1	1501374	1501892		minus	NADH-quinone oxidoreductase subunit J	nuoJ	905841	protein-coding		YP_002344939.1	172	Cj1570c
+NC_002163.1	1501889	1502530		minus	NADH-quinone oxidoreductase subunit I	nuoI	905842	protein-coding		YP_002344940.1	213	Cj1571c
+NC_002163.1	1502540	1503538		minus	NADH-quinone oxidoreductase subunit H	nuoH	905843	protein-coding		YP_002344941.1	332	Cj1572c
+NC_002163.1	1503531	1505993		minus	NADH-quinone oxidoreductase subunit G	nuoG	905177	protein-coding		YP_002344942.1	820	Cj1573c
+NC_002163.1	1505990	1506682		minus	hypothetical protein		905844	protein-coding		YP_002344943.1	230	Cj1574c
+NC_002163.1	1506679	1506906		minus	hypothetical protein		905845	protein-coding		YP_002344944.1	75	Cj1575c
+NC_002163.1	1506903	1508129		minus	NADH-quinone oxidoreductase subunit D	nuoD	905846	protein-coding		YP_002344945.1	408	Cj1576c
+NC_002163.1	1508131	1508925		minus	NADH-quinone oxidoreductase subunit C	nuoC	905847	protein-coding		YP_002344946.1	264	Cj1577c
+NC_002163.1	1508922	1509425		minus	NADH-quinone oxidoreductase subunit B	nuoB	905848	protein-coding		YP_002344947.1	167	Cj1578c
+NC_002163.1	1509407	1509796		minus	NADH-quinone oxidoreductase subunit A	nuoA	905849	protein-coding		YP_002344948.1	129	Cj1579c
+NC_002163.1	1509909	1510574		minus	peptide ABC transporter ATP-binding protein		905850	protein-coding		YP_002344949.1	221	Cj1580c
+NC_002163.1	1510567	1511277		minus	peptide ABC transporter ATP-binding protein		905851	protein-coding		YP_002344950.1	236	Cj1581c
+NC_002163.1	1511274	1512068		minus	peptide ABC transporter permease		905852	protein-coding		YP_002344951.1	264	Cj1582c
+NC_002163.1	1512055	1512999		minus	peptide ABC transporter permease		905853	protein-coding		YP_002344952.1	314	Cj1583c
+NC_002163.1	1512999	1514534		minus	peptide ABC transporter substrate-binding protein		905854	protein-coding		YP_002344953.1	511	Cj1584c
+NC_002163.1	1514644	1517415		minus	oxidoreductase		905855	protein-coding		YP_002344954.1	923	Cj1585c
+NC_002163.1	1517567	1517989		plus	single domain hemoglobin	cgb	905856	protein-coding		YP_002344955.1	140	Cj1586
+NC_002163.1	1518009	1519640		minus	multidrug ABC transporter permease/ATP-binding protein		905857	protein-coding		YP_002344956.1	543	Cj1587c
+NC_002163.1	1519690	1520985		minus	MFS transport protein		905858	protein-coding		YP_002344957.1	431	Cj1588c
+NC_002163.1	1521072	1521869		plus	hypothetical protein		905859	protein-coding		YP_002344958.1	265	Cj1589
+NC_002163.1	1521957	1522175		plus	translation initiation factor IF-1	infA	905860	protein-coding		YP_002344959.1	72	Cj1590
+NC_002163.1	1522347	1522460		plus	50S ribosomal protein L36	rpmJ	905861	protein-coding		YP_002344960.1	37	Cj1591
+NC_002163.1	1522463	1522828		plus	30S ribosomal protein S13	rpsM	905825	protein-coding		YP_002344961.1	121	Cj1592
+NC_002163.1	1522838	1523230		plus	30S ribosomal protein S11	rpsK	905862	protein-coding		YP_002344962.1	130	Cj1593
+NC_002163.1	1523258	1523884		plus	30S ribosomal protein S4	rpsD	905863	protein-coding		YP_002344963.1	208	Cj1594
+NC_002163.1	1523897	1524910		plus	DNA-directed RNA polymerase subunit alpha	rpoA	905865	protein-coding		YP_002344964.1	337	Cj1595
+NC_002163.1	1524914	1525267		plus	50S ribosomal protein L17	rplQ	905866	protein-coding		YP_002344965.1	117	Cj1596
+NC_002163.1	1525440	1526339		plus	ATP phosphoribosyltransferase	hisG	905867	protein-coding		YP_002344966.1	299	Cj1597
+NC_002163.1	1526347	1527633		plus	histidinol dehydrogenase	hisD	905868	protein-coding		YP_002344967.1	428	Cj1598
+NC_002163.1	1527630	1528688		plus	bifunctional imidazole glycerol-phosphate dehydratase/histidinol phosphatase	hisB	905869	protein-coding		YP_002344968.1	352	Cj1599
+NC_002163.1	1528685	1529272		plus	imidazole glycerol phosphate synthase subunit HisH	hisH	904385	protein-coding		YP_002344969.1	195	Cj1600
+NC_002163.1	1529269	1530000		plus	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase	hisA	904505	protein-coding		YP_002344970.1	243	Cj1601
+NC_002163.1	1529985	1530941		plus	hypothetical protein		905870	protein-coding		YP_002344971.1	318	Cj1602
+NC_002163.1	1530942	1531709		plus	imidazole glycerol phosphate synthase subunit HisF	hisF	905871	protein-coding		YP_002344972.1	255	Cj1603
+NC_002163.1	1531711	1532334		plus	bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP pyrophosphatase	hisI	905159	protein-coding		YP_002344973.1	207	Cj1604
+NC_002163.1	1532359	1533519		minus	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase	dapD	905872	protein-coding		YP_002344974.1	386	Cj1605c
+NC_002163.1	1533545	1534651		minus	ATP/GTP-binding protein	mrp	905873	protein-coding		YP_002344975.1	368	Cj1606c
+NC_002163.1	1534774	1535889		plus	bifunctional 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase/2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	ispDF	905874	protein-coding		YP_002344976.1	371	Cj1607
+NC_002163.1	1535886	1536773		plus	two-component regulator		905875	protein-coding		YP_002344977.1	295	Cj1608
+NC_002163.1	1536751	1537911		plus	sulfate adenylyltransferase		905876	protein-coding		YP_002344978.1	386	Cj1609
+NC_002163.1	1537916	1538416		plus	phosphatidylglycerophosphatase	pgpA	905877	protein-coding		YP_002344979.1	166	Cj1610
+NC_002163.1	1538495	1538758		plus	30S ribosomal protein S20	rpsT	905878	protein-coding		YP_002344980.1	87	Cj1611
+NC_002163.1	1538777	1539844		plus	peptide chain release factor 1	prfA	905879	protein-coding		YP_002344981.1	355	Cj1612
+NC_002163.1	1539858	1540613		minus	pyridoxamine 5'-phosphate oxidase		905880	protein-coding		YP_002344982.1	251	Cj1613c
+NC_002163.1	1540807	1542936		plus	hemin uptake system outer membrane receptor	chuA	905881	protein-coding		YP_002344983.1	709	Cj1614
+NC_002163.1	1542911	1543897		plus	hemin uptake ABC transporter permease	chuB	905882	protein-coding		YP_002344984.1	328	Cj1615
+NC_002163.1	1543897	1544673		plus	hemin uptake ABC transporter ATP-binding protein	chuC	905883	protein-coding		YP_002344985.1	258	Cj1616
+NC_002163.1	1544670	1545476		plus	hemin uptake system substrate-binding protein	chuD	905884	protein-coding		YP_002344986.1	268	Cj1617
+NC_002163.1	1545473	1546390		minus	radical SAM domain-containing protein		905885	protein-coding		YP_002344987.1	305	Cj1618c
+NC_002163.1	1546496	1547755		plus	alpha-ketoglutarate permease	kgtP	905886	protein-coding		YP_002344988.1	419	Cj1619
+NC_002163.1	1547741	1548760		minus	A/G-specific adenine glycosylase	mutY	905887	protein-coding		YP_002344989.1	339	Cj1620c
+NC_002163.1	1548833	1549585		plus	periplasmic protein		905888	protein-coding		YP_002344990.1	250	Cj1621
+NC_002163.1	1549657	1549731		plus	uncharacterized gene	tRNAGly	905889	tRNA				Cjp27
+NC_002163.1	1549657	1549731		plus	tRNA-Gly	tRNAGly	905889	other				Cjp27
+NC_002163.1	1549741	1549829		plus	uncharacterized gene	tRNALeu	905890	tRNA				Cjp28
+NC_002163.1	1549741	1549829		plus	tRNA-Leu	tRNALeu	905890	other				Cjp28
+NC_002163.1	1549848	1549921		plus	uncharacterized gene	tRNACys	905892	tRNA				Cjp29
+NC_002163.1	1549848	1549921		plus	tRNA-Cys	tRNACys	905892	other				Cjp29
+NC_002163.1	1549943	1550030		plus	uncharacterized gene	tRNASer	905893	tRNA				Cjp30
+NC_002163.1	1549943	1550030		plus	tRNA-Ser	tRNASer	905893	other				Cjp30
+NC_002163.1	1550235	1551245		plus	riboflavin-specific deaminase/reductase	ribD	905894	protein-coding		YP_002344991.1	336	Cj1622
+NC_002163.1	1551226	1551747		plus	membrane protein		905895	protein-coding		YP_002344992.1	173	Cj1623
+NC_002163.1	1551755	1553119		minus	L-serine dehydratase	sdaA	905896	protein-coding		YP_002344993.1	454	Cj1624c
+NC_002163.1	1553134	1554384		minus	amino acid transporter	sdaC	905897	protein-coding		YP_002344994.1	416	Cj1625c
+NC_002163.1	1554644	1555060		minus	membrane protein		905898	protein-coding		YP_002344995.1	138	Cj1626c
+NC_002163.1	1555124	1555867		minus	hypothetical protein		905899	protein-coding		YP_002344996.1	247	Cj1627c
+NC_002163.1	1556025	1556450		plus	ExbB/TolQ family transport protein	exbB2	905901	protein-coding		YP_002344997.1	141	Cj1628
+NC_002163.1	1556443	1556832		plus	ExbD/TolR family transport protein	exbD2	905902	protein-coding		YP_002344998.1	129	Cj1629
+NC_002163.1	1556829	1557512		plus	TonB transport protein	tonB2	905903	protein-coding		YP_002344999.1	227	Cj1630
+NC_002163.1	1557525	1558394		minus	hypothetical protein		905904	protein-coding		YP_002345000.1	289	Cj1631c
+NC_002163.1	1558398	1558559		minus	periplasmic protein		905905	protein-coding		YP_002345001.1	53	Cj1632c
+NC_002163.1	1558654	1559637		plus	ATP-binding protein		905906	protein-coding		YP_002345002.1	327	Cj1633
+NC_002163.1	1559723	1560811		minus	chorismate synthase	aroC	905907	protein-coding		YP_002345003.1	362	Cj1634c
+NC_002163.1	1560811	1561485		minus	ribonuclease III	rnc	905908	protein-coding		YP_002345004.1	224	Cj1635c
+NC_002163.1	1561472	1561912		minus	ribonuclease H	rnhA	905909	protein-coding		YP_002345005.1	146	Cj1636c
+NC_002163.1	1561899	1562885		minus	periplasmic protein		905910	protein-coding		YP_002345006.1	328	Cj1637c
+NC_002163.1	1562955	1564772		plus	DNA primase	dnaG	905911	protein-coding		YP_002345007.1	605	Cj1638
+NC_002163.1	1564854	1565126		plus	NifU protein		905912	protein-coding		YP_002345008.1	90	Cj1639
+NC_002163.1	1565113	1565664		plus	hypothetical protein		905913	protein-coding		YP_002345009.1	183	Cj1640
+NC_002163.1	1565648	1566931		plus	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase	murE	905914	protein-coding		YP_002345010.1	427	Cj1641
+NC_002163.1	1566935	1567246		plus	nucleoid-associated protein		905915	protein-coding		YP_002345011.1	103	Cj1642
+NC_002163.1	1567243	1568337		plus	periplasmic protein		905916	protein-coding		YP_002345012.1	364	Cj1643
+NC_002163.1	1568334	1569179		plus	geranyltranstransferase	ispA	905917	protein-coding		YP_002345013.1	281	Cj1644
+NC_002163.1	1569190	1571088		plus	transketolase	tkt	905918	protein-coding		YP_002345014.1	632	Cj1645
+NC_002163.1	1571090	1572199		plus	ABC transporter permease	iamB	905919	protein-coding		YP_002345015.1	369	Cj1646
+NC_002163.1	1572200	1572922		plus	ABC transporter ATP-binding protein	iamA	905920	protein-coding		YP_002345016.1	240	Cj1647
+NC_002163.1	1572925	1573815		plus	ABC transporter substrate-binding protein		905921	protein-coding		YP_002345017.1	296	Cj1648
+NC_002163.1	1573815	1574414		plus	lipoprotein		905922	protein-coding		YP_002345018.1	199	Cj1649
+NC_002163.1	1574470	1574970		plus	hypothetical protein		905923	protein-coding		YP_002345019.1	166	Cj1650
+NC_002163.1	1575339	1576097		minus	methionine aminopeptidase	map	905924	protein-coding		YP_002345020.1	252	Cj1651c
+NC_002163.1	1576099	1576851		minus	glutamate racemase	murI	905925	protein-coding		YP_002345021.1	250	Cj1652c
+NC_002163.1	1576853	1577311		minus	lipoprotein		905926	protein-coding		YP_002345022.1	152	Cj1653c
+NC_002163.1	1577320	1578489		minus	Na(+)/H(+) antiporter NhaA	nhaA	905927	protein-coding		YP_002345023.1	389	Cj1654c
+NC_002163.1	1578486	1579634		minus	Na(+)/H(+) antiporter	nhaA1	905928	protein-coding		YP_002345024.1	382	Cj1655c
+NC_002163.1	1579777	1579959		minus	hypothetical protein		905929	protein-coding		YP_002345025.1	60	Cj1656c
+NC_002163.1	1580836	1582926		plus	iron permease		905930	protein-coding		YP_002345026.1	696	Cj1658
+NC_002163.1	1582923	1583462		plus	hypothetical protein	p19	905931	protein-coding		YP_002345027.1	179	Cj1659
+NC_002163.1	1583545	1584948		plus	integral membrane protein		905932	protein-coding		YP_002345028.1	467	Cj1660
+NC_002163.1	1584935	1586227		plus	ABC transporter permease		905933	protein-coding		YP_002345029.1	430	Cj1661
+NC_002163.1	1586217	1587335		plus	integral membrane protein		905934	protein-coding		YP_002345030.1	372	Cj1662
+NC_002163.1	1587332	1587985		plus	ABC transporter ATP-binding protein		905935	protein-coding		YP_002345031.1	217	Cj1663
+NC_002163.1	1587982	1588470		plus	thiredoxin		905936	protein-coding		YP_002345032.1	162	Cj1664
+NC_002163.1	1588431	1588934		plus	lipoprotein thiredoxin		905937	protein-coding		YP_002345033.1	167	Cj1665
+NC_002163.1	1588944	1589381		minus	periplasmic protein		905938	protein-coding		YP_002345034.1	145	Cj1666c
+NC_002163.1	1589680	1590096		minus	periplasmic protein		905940	protein-coding		YP_002345036.1	138	Cj1668c
+NC_002163.1	1590271	1590355		minus	uncharacterized gene	tRNALeu	3245052	tRNA				Cjt05
+NC_002163.1	1590271	1590355		minus	tRNA-Leu	tRNALeu	3245052	other				Cjt05
+NC_002163.1	1590360	1590436		minus	uncharacterized gene	tRNAArg	3245047	tRNA				Cjt3
+NC_002163.1	1590360	1590436		minus	tRNA-Arg	tRNAArg	3245047	other				Cjt3
+NC_002163.1	1590451	1590527		minus	uncharacterized gene	tRNAArg	3245057	tRNA				Cjt4
+NC_002163.1	1590451	1590527		minus	tRNA-Arg	tRNAArg	3245057	other				Cjt4
+NC_002163.1	1590531	1590607		minus	uncharacterized gene	tRNAHis	905942	tRNA				Cjp32
+NC_002163.1	1590531	1590607		minus	tRNA-His	tRNAHis	905942	other				Cjp32
+NC_002163.1	1590632	1590709		minus	uncharacterized gene	tRNAPro	905943	tRNA				Cjp33
+NC_002163.1	1590632	1590709		minus	tRNA-Pro	tRNAPro	905943	other				Cjp33
+NC_002163.1	1590752	1591600		minus	ATP-dependent DNA ligase		905944	protein-coding		YP_002345037.1	282	Cj1669c
+NC_002163.1	1591600	1592262		minus	glycoprotein CpgA	cgpA	905945	protein-coding		YP_002345038.1	220	Cj1670c
+NC_002163.1	1592252	1592455		minus	hypothetical protein		905946	protein-coding		YP_002345039.1	67	Cj1671c
+NC_002163.1	1592521	1593765		minus	enolase	eno	905947	protein-coding		YP_002345040.1	414	Cj1672c
+NC_002163.1	1593765	1594796		minus	recombinase A	recA	905948	protein-coding		YP_002345041.1	343	Cj1673c
+NC_002163.1	1594902	1595762		plus	hypothetical protein		905949	protein-coding		YP_002345042.1	286	Cj1674
+NC_002163.1	1595774	1596043		plus	flagellar biosynthesis protein FliQ	fliQ	905950	protein-coding		YP_002345043.1	89	Cj1675
+NC_002163.1	1596040	1596816		plus	UDP-N-acetylenolpyruvoylglucosamine reductase	murB	905951	protein-coding		YP_002345044.1	258	Cj1676
+NC_002163.1	1597008	1600372		plus	lipoprotein		905952	protein-coding		YP_002345045.1	1120	Cj1677
+NC_002163.1	1600574	1602328		plus	hypothetical protein		905954	protein-coding		YP_002345046.1	584	Cj1679
+NC_002163.1	1602332	1603099		minus	periplasmic protein		905955	protein-coding		YP_002345047.1	255	Cj1680c
+NC_002163.1	1603139	1603903		minus	3'(2'),5'-bisphosphate nucleotidase CysQ	cysQ	905956	protein-coding		YP_002345048.1	254	Cj1681c
+NC_002163.1	1603983	1605251		minus	citrate synthase	gltA	905957	protein-coding		YP_002345049.1	422	Cj1682c
+NC_002163.1	1605366	1606541		minus	transmembrane transport protein		905958	protein-coding		YP_002345050.1	391	Cj1684c
+NC_002163.1	1606522	1607358		minus	biotin synthase	bioB	905959	protein-coding		YP_002345051.1	278	Cj1685c
+NC_002163.1	1607360	1609462		minus	DNA topoisomerase I	topA	905960	protein-coding		YP_002345052.1	700	Cj1686c
+NC_002163.1	1609657	1610928		plus	efflux protein		905961	protein-coding		YP_002345053.1	423	Cj1687
+NC_002163.1	1610956	1612221		minus	protein translocase subunit SecY	secY	905962	protein-coding		YP_002345054.1	421	Cj1688c
+NC_002163.1	1612221	1612613		minus	50S ribosomal protein L15	rplO	905963	protein-coding		YP_002345055.1	130	Cj1689c
+NC_002163.1	1612618	1613061		minus	30S ribosomal protein S5	rpsE	905964	protein-coding		YP_002345056.1	147	Cj1690c
+NC_002163.1	1613073	1613429		minus	50S ribosomal protein L18	rplR	905965	protein-coding		YP_002345057.1	118	Cj1691c
+NC_002163.1	1613439	1613975		minus	50S ribosomal protein L6	rplF	905966	protein-coding		YP_002345058.1	178	Cj1692c
+NC_002163.1	1614054	1614449		minus	30S ribosomal protein S8	rpsH	905967	protein-coding		YP_002345059.1	131	Cj1693c
+NC_002163.1	1614459	1614644		minus	30S ribosomal protein S14	rpsN	905968	protein-coding		YP_002345060.1	61	Cj1694c
+NC_002163.1	1614646	1615191		minus	50S ribosomal protein L5	rplE	905969	protein-coding		YP_002345061.1	181	Cj1695c
+NC_002163.1	1615195	1615428		minus	50S ribosomal protein L24	rplX	905970	protein-coding		YP_002345062.1	77	Cj1696c
+NC_002163.1	1615428	1615796		minus	50S ribosomal protein L14	rplN	905971	protein-coding		YP_002345063.1	122	Cj1697c
+NC_002163.1	1615796	1616047		minus	30S ribosomal protein S17	rpsQ	905972	protein-coding		YP_002345064.1	83	Cj1698c
+NC_002163.1	1616057	1616242		minus	50S ribosomal protein L29	rpmC	905973	protein-coding		YP_002345065.1	61	Cj1699c
+NC_002163.1	1616229	1616654		minus	50S ribosomal protein L16	rplP	905974	protein-coding		YP_002345066.1	141	Cj1700c
+NC_002163.1	1616657	1617358		minus	30S ribosomal protein S3	rpsC	905975	protein-coding		YP_002345067.1	233	Cj1701c
+NC_002163.1	1617358	1617783		minus	50S ribosomal protein L22	rplV	905976	protein-coding		YP_002345068.1	141	Cj1702c
+NC_002163.1	1617794	1618075		minus	30S ribosomal protein S19	rpsS	905977	protein-coding		YP_002345069.1	93	Cj1703c
+NC_002163.1	1618077	1618907		minus	50S ribosomal protein L2	rplB	905978	protein-coding		YP_002345070.1	276	Cj1704c
+NC_002163.1	1618909	1619190		minus	50S ribosomal protein L23	rplW	905979	protein-coding		YP_002345071.1	93	Cj1705c
+NC_002163.1	1619193	1619807		minus	50S ribosomal protein L4	rplD	905980	protein-coding		YP_002345072.1	204	Cj1706c
+NC_002163.1	1619804	1620379		minus	50S ribosomal protein L3	rplC	905981	protein-coding		YP_002345073.1	191	Cj1707c
+NC_002163.1	1620389	1620700		minus	30S ribosomal protein S10	rpsJ	905982	protein-coding		YP_002345074.1	103	Cj1708c
+NC_002163.1	1620899	1621660		minus	pseudouridine synthase		905983	protein-coding		YP_002345075.1	253	Cj1709c
+NC_002163.1	1621696	1623690		minus	metallo-beta-lactamase family protein		905984	protein-coding		YP_002345076.1	664	Cj1710c
+NC_002163.1	1623659	1624459		minus	rRNA small subunit methyltransferase A	ksgA	905985	protein-coding		YP_002345077.1	266	Cj1711c
+NC_002163.1	1624541	1625077		plus	hypothetical protein		905986	protein-coding		YP_002345078.1	178	Cj1712
+NC_002163.1	1625100	1626170		plus	23S rRNA (adenine(2503)-C(2))-methyltransferase RlmN		905987	protein-coding		YP_002345079.1	356	Cj1713
+NC_002163.1	1626167	1626265		plus	hypothetical protein		905988	protein-coding		YP_002345080.1	32	Cj1714
+NC_002163.1	1626279	1626355		minus	uncharacterized gene	tRNAMet	905989	tRNA				Cjp34
+NC_002163.1	1626279	1626355		minus	tRNA-Met	tRNAMet	905989	other				Cjp34
+NC_002163.1	1626491	1626578		plus	uncharacterized gene	tRNASer	3245049	tRNA				Cjt06
+NC_002163.1	1626491	1626578		plus	tRNA-Ser	tRNASer	3245049	other				Cjt06
+NC_002163.1	1626625	1626700		plus	uncharacterized gene	tRNAAla	905990	tRNA				Cjp35
+NC_002163.1	1626625	1626700		plus	tRNA-Ala	tRNAAla	905990	other				Cjp35
+NC_002163.1	1626704	1626779		plus	uncharacterized gene	tRNAVal	905991	tRNA				Cjp36
+NC_002163.1	1626704	1626779		plus	tRNA-Val	tRNAVal	905991	other				Cjp36
+NC_002163.1	1626807	1627337		plus	acetyltransferase		905992	protein-coding		YP_002345081.1	176	Cj1715
+NC_002163.1	1627317	1627919		minus	3-isopropylmalate dehydratase small subunit	leuD	905993	protein-coding		YP_002345082.1	200	Cj1716c
+NC_002163.1	1627921	1629333		minus	3-isopropylmalate dehydratase large subunit	leuC	905994	protein-coding		YP_002345083.1	470	Cj1717c
+NC_002163.1	1629320	1630396		minus	3-isopropylmalate dehydrogenase	leuB	905995	protein-coding		YP_002345084.1	358	Cj1718c
+NC_002163.1	1630393	1631928		minus	2-isopropylmalate synthase	leuA	905996	protein-coding		YP_002345085.1	511	Cj1719c
+NC_002163.1	1632248	1632877		plus	hypothetical protein		905997	protein-coding		YP_002345086.1	209	Cj1720
+NC_002163.1	1632901	1633545		minus	outer membrane protein		905998	protein-coding		YP_002345087.1	214	Cj1721c
+NC_002163.1	1633791	1634119		minus	uncharacterized gene		906000	pseudogene				Cj1723c
+NC_002163.1	1634296	1634679		minus	7-cyano-7-deazaguanine reductase		905900	protein-coding		YP_002345090.1	127	Cj1724c
+NC_002163.1	1634839	1635438		plus	periplasmic protein		905202	protein-coding		YP_002345091.1	199	Cj1725
+NC_002163.1	1635443	1636324		minus	homoserine O-succinyltransferase	metA	906001	protein-coding		YP_002345092.1	293	Cj1726c
+NC_002163.1	1636407	1637678		minus	O-acetylhomoserine (thiol)-lyase	metB	906002	protein-coding		YP_002345093.1	423	Cj1727c
+NC_002163.1	1638104	1640701		minus	flagellar hook protein FlgE	flgE	906004	protein-coding		YP_002345095.1	865	Cj1729c
+NC_002163.1	1640904	1641386		minus	Holliday junction resolvase	ruvC	906005	protein-coding		YP_002345096.1	160	Cj1731c
