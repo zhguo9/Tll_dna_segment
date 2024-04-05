@@ -80,31 +80,35 @@ def train(cfg: DictConfig) -> None:
             target_x = target_x.to(device)
 
             # print(source_x.shape,
-            #       # source_x[0],
-            #       source_label.shape,
-            #       # source_label[0],
-            #       target_x.shape,
-            #       # target_x[0]
-            #       )
+            #       source_x[0],
+            #       source_x.size(0)
+                  # source_label.shape,
+                  # source_label[0],
+                  # target_x.shape,
+                  # target_x[0]
+                  # )
             source_feature = model.get_feature(source_x.float())
             target_feature = model.get_feature(target_x.float())
 
-            source_y = model.predict(source_x, source_label)
+            source_y = model.predict(source_x)
             source_y = torch.as_tensor(source_y)
             target_f = model(target_x)
             source_y = source_y.to(device)
 
             # 计算准确率
-            # print("y:",source_y,"\n", "l:", source_label)
-            batch_correct = torch.sum(source_y == source_label).item()
-            # print(batch_correct)
+            # print("y:",source_y[0],"\n", "l:", source_label[0])
+            batch_correct = torch.sum((source_y == source_label).int()).item()
+
             total_correct += batch_correct
-            total_samples += source_x.size(0)
+            total_samples += source_label.size(0) * 33
+            # print(batch_correct, total_correct, total_samples)
 
             # 计算损失
             # cls_loss = model.loss(source_x, source_label)
             cross_loss = torch.nn.CrossEntropyLoss()
-            cls_loss = cross_loss(source_y.float(), source_label.float())
+            # print(source_x[0],source_y[0])
+            # break
+            cls_loss = model.loss(source_x, source_label)
             align_weight = 1.0
             # print(source_feature, target_feature)
             tf_loss = mkmmd_loss(torch.transpose(source_feature, 0, 1),torch.transpose(target_feature, 0, 1))

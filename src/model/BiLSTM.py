@@ -22,20 +22,27 @@ class BILSTMCRF(nn.Module):
         self.rnn_units = rnn_units
         self.drop_rate = drop_rate
 
-        self.embedding = nn.Embedding(vocab_size, embedding_dim)
-        self.bilstm = nn.LSTM(embedding_dim, rnn_units, num_layers=1, bidirectional=True, batch_first=True)
+        self.embedding = nn.Embedding(self.vocab_size, self.embedding_dim)
+        self.bilstm = nn.LSTM(input_size=self.embedding_dim,
+                              hidden_size=self.rnn_units,
+                              num_layers=1,
+                              bidirectional=True,
+                              batch_first=True)
         self.dropout = nn.Dropout(drop_rate)
-        self.linear = nn.Linear(rnn_units * 2, n_class)
-        self.crf = CRF(n_class, batch_first=True)
+        self.linear = nn.Linear(rnn_units * 2, self.n_class)
+        self.crf = CRF(self.n_class, batch_first=True)
 
     def forward(self, x):
         x = x.long()
         x = self.embedding(x)
         x, _ = self.bilstm(x)
         x = self.dropout(x)
+        # print(x.shape)
         x = self.linear(x)
-        emission = x
-        return emission
+        # print("111",x.shape)
+        # x = self.crf(x, y)
+        # print("222",x.shape,x)
+        return x
 
     def get_feature(self, x):
         # print(x)
@@ -43,11 +50,11 @@ class BILSTMCRF(nn.Module):
         decoded = self.decoder(encoded)
         return decoded
     def loss(self, x, y):
-        emission = self.forward(x, y)
-        loss = -self.crf.forward(emission, y)
+        outputs = self.forward(x)
+        loss = -self.crf(outputs, y)
         return loss
 
-    def predict(self, x, y):
+    def predict(self, x):
         emission = self.forward(x)
         return self.crf.decode(emission)
 

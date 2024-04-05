@@ -9,13 +9,13 @@ autoencoder:
 
 bilstm:
   # 125 is ok
-  voca_size: 125
-  n_class: 2
+  voca_size: 66
+  n_class: 3
 optimizer:
   name: "Adam"
   lr: 0.001
 
-batch_size: 4056
+batch_size: 1024
 epochs: 300
 iters_per_epoch: 10
 trade_off: 0.5
