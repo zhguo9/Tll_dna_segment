@@ -1,6 +1,7 @@
 import torch
 import torch.nn as nn
 import tqdm
+import os
 import torch.nn.functional as F
 from dataset.processText import EngDataset
 from dataset.processDna import DNADataset
@@ -11,19 +12,42 @@ from omegaconf import DictConfig
 from torchvision import datasets, transforms
 from model.BiLSTM import BILSTMCRF
 from model.kernels import GaussianKernel
-from model.mkLoss import MultipleKernelMaximumMeanDiscrepancy
 from torchcrf import CRF
+import os
+from model.mkLoss import MultipleKernelMaximumMeanDiscrepancy
+import sys
+import datetime
+import logging
+
+
 
 # 定义一个简单的文本转换函数
 def text_to_tensor(text):
     tensor = torch.tensor(text)
     return tensor
 
+current_dir = os.path.dirname(os.path.abspath(__file__))
+path_eng = os.path.join(current_dir, '..\\data\\EngDataset.txt')
+path_data_dir = os.path.join(current_dir, '..\\..\\data\\sourceData\\')
+
+checkpoint_dir = os.path.join(current_dir, '..\\checkoutpoints')
+if not os.path.exists(checkpoint_dir):
+    os.makedirs(checkpoint_dir)
+
+# # 定义日志文件名
+# log_file = datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S.log")
+# log_file = os.path.join(current_dir, '..\\log', log_file)
+# # 将 stdout 和 stderr 重定向到日志文件
+# sys.stdout = open(log_file, "w")
+# sys.stderr = open(log_file, "a")
+#
+# # 配置 logging 模块，将日志输出到文件中
+# logging.basicConfig(filename=log_file, level=logging.INFO)
 
 @hydra.main(config_path="configs", config_name="config.yaml",version_base="1.1")
 def train(cfg: DictConfig) -> None:
     # 创建模型
-    model = BILSTMCRF(cfg.autoencoder.input_size, cfg.autoencoder.hidden_size, cfg.bilstm.voca_size, cfg.bilstm.n_class)
+    model = BILSTMCRF(cfg.bilstm.voca_size, cfg.bilstm.n_class)
     model.to(device)
 
     # Define your optimizer
@@ -39,18 +63,14 @@ def train(cfg: DictConfig) -> None:
 
     # 加载数据
     transform = transforms.Lambda(lambda x: text_to_tensor(x))
-    source_dataset = EngDataset(file_path=r'C:\\Users\silence\Documents\Git\\transfer-dna\data\dataset.txt', transform=transform)
+    source_dataset = EngDataset(file_path=path_eng, transform=transform)
     source_loader = DataLoader(source_dataset, batch_size=cfg.batch_size, shuffle=True)
-    target_dataset = DNADataset(file_path=r'C:\Users\silence\Documents\Git\transfer-dna\data\dnaData\output.txt', seq_length=33)
+    target_dataset = DNADataset(file_path=r'C:\Guo\Git\transfer-dna\data\processedData\output.txt', seq_length=33)
     target_loader = DataLoader(target_dataset, batch_size=cfg.batch_size, shuffle=True)
 
     for epoch in range(cfg.epochs):
-        # Initialize variables for accuracy calculation
-        correct = 0
-        total = 0
-
-        # Use tqdm for progress bar
-        source_loader_iterator = tqdm.tqdm(source_loader, desc=f'Epoch {epoch + 1}/{cfg.epochs}', leave=False)
+        total_correct = 0
+        total_samples = 0
 
         for i in range(cfg.iters_per_epoch):
             source_x, source_label = next(iter(source_loader))
@@ -59,33 +79,55 @@ def train(cfg: DictConfig) -> None:
             source_label = source_label.to(device)
             target_x = target_x.to(device)
 
-            source_f, source_y = model(source_x, source_label)
-            target_f, _ = model(target_x)
+            # print(source_x.shape,
+            #       # source_x[0],
+            #       source_label.shape,
+            #       # source_label[0],
+            #       target_x.shape,
+            #       # target_x[0]
+            #       )
+            source_feature = model.get_feature(source_x.float())
+            target_feature = model.get_feature(target_x.float())
+
+            source_y = model.predict(source_x, source_label)
+            source_y = torch.as_tensor(source_y)
+            target_f = model(target_x)
             source_y = source_y.to(device)
 
-            # 计算损失
-            cls_loss = source_y
-            # transfer_loss = mkmmd_loss(source_f, target_f)
-            transfer_loss = 0
-            total_loss = cls_loss + transfer_loss * cfg.trade_off
+            # 计算准确率
+            # print("y:",source_y,"\n", "l:", source_label)
+            batch_correct = torch.sum(source_y == source_label).item()
+            # print(batch_correct)
+            total_correct += batch_correct
+            total_samples += source_x.size(0)
 
+            # 计算损失
+            # cls_loss = model.loss(source_x, source_label)
+            cross_loss = torch.nn.CrossEntropyLoss()
+            cls_loss = cross_loss(source_y.float(), source_label.float())
+            align_weight = 1.0
+            # print(source_feature, target_feature)
+            tf_loss = mkmmd_loss(torch.transpose(source_feature, 0, 1),torch.transpose(target_feature, 0, 1))
+            # print(cls_loss, tf_loss)
+            total_loss = cls_loss + align_weight * tf_loss
+
+            # print(cls_loss, tf_loss)
             # 计算梯度，优化参数
             optimizer.zero_grad()
             total_loss.backward()
             optimizer.step()
             lr_scheduler.step(epoch)
+        # 计算平均准确率
+        accuracy = total_correct / total_samples
+        print(f"Epoch {epoch+1}, Accuracy: {accuracy}, Loss: {total_loss}")
 
-            # Calculate accuracy
-            source_y = torch.unsqueeze(source_y, dim = 1)
-            total += source_label.size(0)
-            equal = torch.squeeze(source_y) == source_label
-            correct += torch.sum(equal).item()
-
-            # Update progress bar description with accuracy
-            source_loader_iterator.set_postfix(loss=total_loss.item(), accuracy=100 * correct / total, refresh=True)
-
-        # Print epoch summary
-        print(f'Epoch {epoch + 1}/{cfg.epochs}, Loss: {total_loss.item()}, Accuracy: {100 * correct / total:.2f}%')
+        # 在固定的轮数增加检查点
+        if (epoch + 1) % cfg.checkpoint_interval == 0:
+            # 构建检查点文件名
+            checkpoint_path = os.path.join(checkpoint_dir, f"model_epoch_{epoch+1}.pt")
+            # 保存模型状态
+            torch.save(model.state_dict(), checkpoint_path)
+            print(f"Checkpoint saved at epoch {epoch+1}")
 
 if __name__ == "__main__":
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")

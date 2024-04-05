@@ -1,4 +1,13 @@
 from Bio import SeqIO
+import os
+
+# 指定起点路径
+base_dir = r"C:\Guo\Git\transfer-dna\data"
+
+# 构建绝对路径
+input_fna_file = os.path.join(base_dir, "sourceData", "h20.fna")  # 替换为你的FNA文件名
+output_txt_file = os.path.join(base_dir, "processedData", "output.txt")  # 替换为输出的TXT文件名
+
 
 # 读取FNA文件
 def extract_tokens_from_fna(input_file, output_file):
@@ -10,7 +19,4 @@ def extract_tokens_from_fna(input_file, output_file):
                 f_out.write("\n".join(tokens))
                 f_out.write("\n")
 
-# 使用示例
-input_fna_file = r"C:\Users\silence\Documents\Git\\transfer-dna\data\sourceData\h20.fna"  # 替换为你的FNA文件路径
-output_txt_file = r"C:\Users\silence\Documents\Git\\transfer-dna\data\processedData\output.txt"  # 替换为输出的TXT文件路径
 extract_tokens_from_fna(input_fna_file, output_txt_file)

@@ -69,6 +69,7 @@ class MultipleKernelMaximumMeanDiscrepancy(nn.Module):
 
     def forward(self, z_s: torch.Tensor, z_t: torch.Tensor) -> torch.Tensor:
         features = torch.cat([z_s, z_t], dim=0)
+        # print(z_s[0].size())
         batch_size = int(z_s.size(0))
         self.index_matrix = _update_index_matrix(batch_size, self.index_matrix, self.linear).to(z_s.device)
 
