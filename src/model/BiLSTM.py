@@ -31,33 +31,39 @@ class BILSTMCRF(nn.Module):
         self.dropout = nn.Dropout(drop_rate)
         self.linear = nn.Linear(rnn_units * 2, self.n_class)
         self.crf = CRF(self.n_class, batch_first=True)
+        dim = self.rnn_units * 2
+        self.dan = nn.Sequential(
+            nn.Linear(dim, dim),
+            nn.ReLU(),
+            nn.Linear(dim,dim),
+        )
+        self.hidden2tag = nn.Linear(dim, 3)
+        self.f = 0
 
     def forward(self, x):
-        # print("wrong:", x[0][0])
-        # print(type(x),x.shape)
-        # x = x.to(float)
-        # x = x.float()
-        # x = self.encoder(x)
-        # print(type(x), x.shape)
-        # x = self.decoder(x)
-        # print(type(x), x.shape)
         x = x.long()
-        # print(x[0][0])
         x = self.embedding(x)
         x, _ = self.bilstm(x)
-        x = self.dropout(x)
+        x = self.dropout(x)   #[16, 32, 256]
+        # x = self.linear(x)
         # print(x.shape)
-        x = self.linear(x)
-        # print("111",x.shape)
-        # x = self.crf(x, y)
-        # print("222",x.shape,x)
-        return x
+        lstm_avg = torch.mean(x, dim=1)
+        # print(lstm_avg.shape)
+        dan_out = self.dan(lstm_avg)
+        self.f = dan_out
+        # print(dan_out.shape)
+        dan_out_expand = dan_out.unsqueeze(1).repeat(1, x.size(1), 1)
+        # print(dan_out_expand)
+        # print(dan_out_expand.shape)
+        emission = self.hidden2tag(dan_out_expand)
+        # print(emission.shape)
+        # y = self.crf.decode(emission)
+        # y = torch.tensor(y)
+        return emission
 
     def get_feature(self, x):
-        # print("right:",x[0][0])
-        encoded = self.encoder(x)
-        decoded = self.decoder(encoded)
-        return encoded
+        o = self.forward(x)
+        return self.f
     def loss(self, x, y):
         outputs = self.forward(x)
         loss = -self.crf(outputs, y)

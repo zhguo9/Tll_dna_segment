@@ -96,11 +96,12 @@ def inference(cfg: DictConfig) -> None:
         if begin_position > len(predictions):
             break
     print(correct, whole, correct / whole)
+    print(6144/len(result))
     # print(predictions[6143])
     # print(predictions[6144])
-    for i in range(0, 32 * 10, 32):
-        group = predictions[i: i + 32]
-        print(group[16])
+    # for i in range(0, 32 * 10, 32):
+    #     group = predictions[i: i + 32]
+    #     print(group[16])
     # print(result)
     # for r in result:
     #     print(r)

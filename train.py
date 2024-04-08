@@ -37,16 +37,6 @@ checkpoint_dir = os.path.join(current_dir, 'checkoutpoints')
 if not os.path.exists(checkpoint_dir):
     os.makedirs(checkpoint_dir)
 
-# # 定义日志文件名
-# log_file = datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S.log")
-# log_file = os.path.join(current_dir, '..\\log', log_file)
-# # 将 stdout 和 stderr 重定向到日志文件
-# sys.stdout = open(log_file, "w")
-# sys.stderr = open(log_file, "a")
-#
-# # 配置 logging 模块，将日志输出到文件中
-# logging.basicConfig(filename=log_file, level=logging.INFO)
-
 @hydra.main(config_path="src/configs", config_name="config.yaml", version_base="1.1")
 def train(cfg: DictConfig) -> None:
     # 创建模型
@@ -54,7 +44,7 @@ def train(cfg: DictConfig) -> None:
     model.to(device)
 
     # 检查是否存在检查点文件
-    # checkpoint_file = "model_epoch_200.pt"
+    # checkpoint_file = "model_epoch_600.pt"
     # checkpoint_path = os.path.join(checkpoint_dir, checkpoint_file)
     # if os.path.exists(checkpoint_path):
     #     # 加载模型参数
@@ -62,11 +52,10 @@ def train(cfg: DictConfig) -> None:
     #     print(f"Model parameters loaded from checkpoint file: {checkpoint_path}")
 
     # Define your optimizer
-    optimizer = torch.optim.Adam(model.parameters(), lr=0.0005)
+    optimizer = torch.optim.Adam(model.parameters(), lr=0.001)
     lr_scheduler = LambdaLR(optimizer, lr_lambda=lambda epoch: 0.95 ** epoch)
 
     #define loss
-    class_loss = nn.CrossEntropyLoss()
     mkmmd_loss = MultipleKernelMaximumMeanDiscrepancy(
         kernels=[GaussianKernel(alpha=2 ** k) for k in range(-3, 2)],
         linear=False
@@ -86,54 +75,41 @@ def train(cfg: DictConfig) -> None:
         for i in range(cfg.iters_per_epoch):
             source_x, source_label = next(iter(source_loader))
             target_x = next(iter(target_loader))
-            source_x = source_x.to(device)
             source_label = source_label.to(device)
+
+            source_x = source_x.to(device)
             target_x = target_x.to(device)
 
-            # print(source_x.shape,
-            #       source_x[0],
-            #       source_x.size(0)
-                  # source_label.shape,
-                  # source_label[0],
-                  # target_x.shape,
-                  # target_x[0]
-                  # )
-            # print(source_x.shape)
-            source_feature = model.get_feature(source_x.float())
-            target_feature = model.get_feature(target_x.float())
+            y_s = model.predict(source_x)
+            y_t = model.predict(target_x)
 
-            source_y = model.predict(source_x)
-            source_y = torch.as_tensor(source_y)
-            target_f = model(target_x)
-            source_y = source_y.to(device)
+            f_s = model.get_feature(source_x)
+            f_t = model.get_feature(target_x)
+
+            y_s = torch.tensor(y_s)
+            y_s = y_s.to(device)
 
             # 计算准确率
             # print("y:",source_y[0],"\n", "l:", source_label[0])
-            batch_correct = torch.sum((source_y == source_label).int()).item()
+            batch_correct = torch.sum((y_s == source_label).int()).item()
 
             total_correct += batch_correct
             total_samples += source_label.size(0) * 32
             # print(batch_correct, total_correct, total_samples)
 
             # 计算损失
-            # cls_loss = model.loss(source_x, source_label)
-            cross_loss = torch.nn.CrossEntropyLoss()
-            # print(source_x[0],source_y[0])
-            # break
             cls_loss = model.loss(source_x, source_label)
-            align_weight = 1.0
-            # print(source_feature, target_feature)
-            tf_loss = mkmmd_loss(torch.transpose(source_feature, 0, 1),torch.transpose(target_feature, 0, 1))
-            print(cls_loss, tf_loss * align_weight)
+            # cls_loss = torch.nn.functional.cross_entropy(y_s.float(), source_label.float())
+            align_weight = 100.0
+            tf_loss = mkmmd_loss(f_s, f_t)
             total_loss = cls_loss + align_weight * tf_loss
+            print("class_loss: ",cls_loss, "feature loss: ", tf_loss * align_weight, "total loss: ", total_loss)
 
-            # print(cls_loss, tf_loss)
             # 计算梯度，优化参数
             optimizer.zero_grad()
             total_loss.backward()
             optimizer.step()
             lr_scheduler.step(epoch)
-        print(optimizer.param_groups[0]['lr'])
         # 计算平均准确率
         accuracy = total_correct / total_samples
         print(f"Epoch {epoch+1}, Accuracy: {accuracy}, Loss: {total_loss}")

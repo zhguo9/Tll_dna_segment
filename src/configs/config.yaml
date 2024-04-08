@@ -15,8 +15,8 @@ optimizer:
   name: "Adam"
   lr: 0.001
 
-batch_size: 32
-epochs: 1000
+batch_size: 16
+epochs: 2000
 iters_per_epoch: 10
 trade_off: 0.5
-checkpoint_interval: 10
+checkpoint_interval: 50
