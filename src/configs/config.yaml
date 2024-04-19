@@ -1,11 +1,14 @@
-model:
-  name: "DAN"
-  num_classes: 2
-  num_layers: 5
+eng_extractor:
+  voca_size: 66
+  embedding_dim: 64
+  num_filter: 128
+  filter_size: 5
 
-autoencoder:
-  input_size: 33
-  hidden_size: 11
+dna_extractor:
+  voca_size: 4
+  embedding_dim: 64
+  num_filter: 128
+  filter_size: 5
 
 bilstm:
   # 125 is ok
@@ -15,7 +18,7 @@ optimizer:
   name: "Adam"
   lr: 0.001
 
-batch_size: 16
+batch_size: 8
 epochs: 2000
 iters_per_epoch: 10
 trade_off: 0.5

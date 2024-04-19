@@ -21,7 +21,7 @@ import sys
 import datetime
 import logging
 import warnings
-
+from src.model.getFeature import DNAFeatureExtractor
 current_dir = os.path.dirname(os.path.abspath(__file__))
 path_dna = os.path.join(current_dir, 'data\\processedData\\TestDataSet.txt')
 path_data_dir = os.path.join(current_dir, 'data\\sourceData\\')
@@ -32,11 +32,24 @@ mapping = {0: 'A', 1: 'C', 2: 'G', 3: 'T'}
 @hydra.main(config_path="src/configs", config_name="config.yaml", version_base="1.1")
 def inference(cfg: DictConfig) -> None:
     # 创建模型
-    model = BILSTMCRF(cfg.bilstm.voca_size, cfg.bilstm.n_class)
+    dna_encoder = DNAFeatureExtractor(cfg.dna_extractor.voca_size,
+                                      cfg.dna_extractor.embedding_dim,
+                                      cfg.dna_extractor.num_filter,
+                                      cfg.dna_extractor.filter_size,
+                                      )
+    dna_encoder.to(device)
+    model = BILSTMCRF(4, 2)
     model.to(device)
 
     # 加载模型参数
-    checkpoint_file = "model_epoch_40.pt"
+    encoder_file = "encoder_epoch_100.pt"
+    checkpoint_path = os.path.join(checkpoint_dir, encoder_file)
+    if os.path.exists(checkpoint_path):
+        # 加载模型参数
+        dna_encoder.load_state_dict(torch.load(checkpoint_path))
+        print(f"Encoder parameters loaded from checkpoint file: {checkpoint_path}")
+
+    checkpoint_file = "lstm_epoch_100.pt"
     checkpoint_path = os.path.join(checkpoint_dir, checkpoint_file)
     if os.path.exists(checkpoint_path):
         # 加载模型参数
@@ -49,6 +62,7 @@ def inference(cfg: DictConfig) -> None:
 
     # 推理过程
     model.eval()  # 将模型设置为评估模式，关闭 dropout 和 batch normalization
+    dna_encoder.eval()
     words = []
     predictions = []
     total = 30
@@ -62,7 +76,9 @@ def inference(cfg: DictConfig) -> None:
         tmp = data.tolist()
         words.append(tmp)
         inputs = data.to(device)
-        outputs = model.predict(inputs)
+        data = data.to(device)
+        f, x = dna_encoder(data)
+        outputs = model.predict(x)
         # print("intput:",inputs[0],
         #       "output:",outputs[0])
         predictions.append(outputs)
@@ -87,7 +103,7 @@ def inference(cfg: DictConfig) -> None:
     correct = 0
     whole = 0
     for i in range(200):
-        if predictions[begin_position] == 0:
+        if predictions[begin_position] == 1:
             correct += 1
         else:
             pass
@@ -99,9 +115,15 @@ def inference(cfg: DictConfig) -> None:
     print(6144/len(result))
     # print(predictions[6143])
     # print(predictions[6144])
-    # for i in range(0, 32 * 10, 32):
-    #     group = predictions[i: i + 32]
-    #     print(group[16])
+    correct = 0
+    whole = 0
+    for i in range(0, 32 * 10, 32):
+        group = predictions[i: i + 32]
+        if group[16] == 1:
+            pass
+        else:
+            correct += 1
+        whole
     # print(result)
     # for r in result:
     #     print(r)

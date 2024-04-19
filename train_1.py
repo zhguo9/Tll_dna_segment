@@ -19,6 +19,7 @@ import sys
 import datetime
 import logging
 import warnings
+from src.model.getFeature import TextFeatureExtractor, DNAFeatureExtractor
 
 
 
@@ -40,20 +41,35 @@ if not os.path.exists(checkpoint_dir):
 @hydra.main(config_path="src/configs", config_name="config.yaml", version_base="1.1")
 def train(cfg: DictConfig) -> None:
     # 创建模型
-    model = BILSTMCRF(cfg.bilstm.voca_size, cfg.bilstm.n_class)
-    model.to(device)
-
-    # 检查是否存在检查点文件
-    checkpoint_file = "model_epoch_350.pt"
-    checkpoint_path = os.path.join(checkpoint_dir, checkpoint_file)
-    if os.path.exists(checkpoint_path):
-        # 加载模型参数
-        model.load_state_dict(torch.load(checkpoint_path))
-        print(f"Model parameters loaded from checkpoint file: {checkpoint_path}")
+    eng_encoder = TextFeatureExtractor(cfg.eng_extractor.voca_size,
+                                       cfg.eng_extractor.embedding_dim,
+                                       cfg.eng_extractor.num_filter,
+                                       cfg.eng_extractor.filter_size,
+                                       )
+    eng_encoder.to(device)
+    dna_encoder = DNAFeatureExtractor(cfg.dna_extractor.voca_size,
+                                      cfg.dna_extractor.embedding_dim,
+                                      cfg.dna_extractor.num_filter,
+                                      cfg.dna_extractor.filter_size,
+                                      )
+    dna_encoder.to(device)
+    eng_lstm = BILSTMCRF(cfg.bilstm.voca_size, cfg.bilstm.n_class)
+    dna_lstm = BILSTMCRF(4, 2)
+    eng_lstm.to(device)
+    dna_lstm.to(device)
 
     # Define your optimizer
-    optimizer = torch.optim.Adam(model.parameters(), lr=0.001)
-    lr_scheduler = LambdaLR(optimizer, lr_lambda=lambda epoch: 0.95 ** epoch)
+    optimizer1 = torch.optim.Adam(eng_lstm.parameters(), lr=0.001)
+    lr_scheduler1 = LambdaLR(optimizer1, lr_lambda=lambda epoch: 0.95 ** epoch)
+
+    optimizer2 = torch.optim.Adam(dna_lstm.parameters(), lr=0.001)
+    lr_scheduler2 = LambdaLR(optimizer2, lr_lambda=lambda epoch: 0.95 ** epoch)
+
+    optimizer3 = torch.optim.Adam(eng_encoder.parameters(), lr=0.001)
+    lr_scheduler3 = LambdaLR(optimizer3, lr_lambda=lambda epoch: 0.95 ** epoch)
+
+    optimizer4 = torch.optim.Adam(dna_encoder.parameters(), lr=0.001)
+    lr_scheduler4 = LambdaLR(optimizer4, lr_lambda=lambda epoch: 0.95 ** epoch)
 
     #define loss
     mkmmd_loss = MultipleKernelMaximumMeanDiscrepancy(
@@ -73,44 +89,44 @@ def train(cfg: DictConfig) -> None:
         total_samples = 0
 
         for i in range(cfg.iters_per_epoch):
+            # 加载数据
             source_x, source_label = next(iter(source_loader))
             target_x = next(iter(target_loader))
+            # print(source_x, target_x)
             source_label = source_label.to(device)
-
             source_x = source_x.to(device)
             target_x = target_x.to(device)
 
-            y_s = model.predict(source_x)
-            y_t = model.predict(target_x)
+            f_s, x_s = eng_encoder(source_x)
+            f_t, x_t = dna_encoder(target_x)
 
-            f_s = model.get_feature(source_x)
-            f_t = model.get_feature(target_x)
-
-            y_s = torch.tensor(y_s)
+            y_s = eng_lstm.predict(x_s)
+            y_s = torch.as_tensor(y_s)
             y_s = y_s.to(device)
-
-            # 计算准确率
-            # print("y:",source_y[0],"\n", "l:", source_label[0])
             batch_correct = torch.sum((y_s == source_label).int()).item()
-
             total_correct += batch_correct
             total_samples += source_label.size(0) * 32
-            # print(batch_correct, total_correct, total_samples)
 
-            # 计算损失
-            cls_loss = model.loss(source_x, source_label)
-            # cls_loss = torch.nn.functional.cross_entropy(y_s.float(), source_label.float())
-            align_weight = 100.0
-            print(f_s.shape, f_t.shape)
-            tf_loss = mkmmd_loss(f_s, f_t)
-            total_loss = cls_loss + align_weight * tf_loss
-            print("class_loss: ",cls_loss, "feature loss: ", tf_loss * align_weight, "total loss: ", total_loss)
+            # print(f_s)
+            # print(f_t)
+            class_loss = eng_lstm.loss(x_s, source_label)
+            feature_loss = mkmmd_loss(f_s, f_t)
+            total_loss = class_loss + feature_loss
+            print(class_loss, feature_loss)
 
-            # 计算梯度，优化参数
-            optimizer.zero_grad()
+            optimizer1.zero_grad()
+            optimizer2.zero_grad()
+            optimizer3.zero_grad()
+            optimizer4.zero_grad()
             total_loss.backward()
-            optimizer.step()
-            lr_scheduler.step(epoch)
+            optimizer1.step()
+            optimizer2.step()
+            optimizer3.step()
+            optimizer4.step()
+            lr_scheduler1.step(epoch)
+            lr_scheduler2.step(epoch)
+            lr_scheduler3.step(epoch)
+            lr_scheduler4.step(epoch)
         # 计算平均准确率
         accuracy = total_correct / total_samples
         print(f"Epoch {epoch+1}, Accuracy: {accuracy}, Loss: {total_loss}")
@@ -118,9 +134,13 @@ def train(cfg: DictConfig) -> None:
         # 在固定的轮数增加检查点
         if (epoch + 1) % cfg.checkpoint_interval == 0:
             # 构建检查点文件名
-            checkpoint_path = os.path.join(checkpoint_dir, f"model_epoch_{epoch+1}.pt")
+            checkpoint_path = os.path.join(checkpoint_dir, f"encoder_epoch_{epoch+1}.pt")
             # 保存模型状态
-            torch.save(model.state_dict(), checkpoint_path)
+            torch.save(dna_encoder.state_dict(), checkpoint_path)
+            # 构建检查点文件名
+            checkpoint_path = os.path.join(checkpoint_dir, f"lstm_epoch_{epoch+1}.pt")
+            # 保存模型状态
+            torch.save(dna_lstm.state_dict(), checkpoint_path)
             print(f"Checkpoint saved at epoch {epoch+1}")
 
 if __name__ == "__main__":

@@ -45,21 +45,8 @@ class BILSTMCRF(nn.Module):
         x = self.embedding(x)
         x, _ = self.bilstm(x)
         x = self.dropout(x)   #[16, 32, 256]
-        # x = self.linear(x)
-        # print(x.shape)
-        lstm_avg = torch.mean(x, dim=1)
-        # print(lstm_avg.shape)
-        dan_out = self.dan(lstm_avg)
-        self.f = dan_out
-        # print(dan_out.shape)
-        dan_out_expand = dan_out.unsqueeze(1).repeat(1, x.size(1), 1)
-        # print(dan_out_expand)
-        # print(dan_out_expand.shape)
-        emission = self.hidden2tag(dan_out_expand)
-        # print(emission.shape)
-        # y = self.crf.decode(emission)
-        # y = torch.tensor(y)
-        return emission
+        x = self.linear(x)
+        return x
 
     def get_feature(self, x):
         o = self.forward(x)
