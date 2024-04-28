@@ -1,3 +1,4 @@
+fna_path: "default path"
 eng_extractor:
   voca_size: 66
   embedding_dim: 64

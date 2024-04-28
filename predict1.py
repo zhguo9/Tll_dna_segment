@@ -21,9 +21,12 @@ import sys
 import datetime
 import logging
 import warnings
+# Get file name as an argument
+import argparse
 from src.model.getFeature import DNAFeatureExtractor
+from src.dataset.createTestDataSet import fna2Dataset
 current_dir = os.path.dirname(os.path.abspath(__file__))
-path_dna = os.path.join(current_dir, 'data\\processedData\\TestDataSet.txt')
+path_dna = os.path.join(current_dir, 'data\\processedData\\output.txt')
 path_data_dir = os.path.join(current_dir, 'data\\sourceData\\')
 checkpoint_dir = os.path.join(current_dir, 'checkoutpoints')
 
@@ -31,6 +34,12 @@ mapping = {0: 'A', 1: 'C', 2: 'G', 3: 'T'}
 
 @hydra.main(config_path="src/configs", config_name="config.yaml", version_base="1.1")
 def inference(cfg: DictConfig) -> None:
+    fna_path = cfg.fna_path
+    print(fna_path)
+    tsv_path = fna_path.replace(".fna", ".tsv")
+    fna2Dataset("C:\\Users\\silence\\Desktop\\Files\\" + fna_path,
+                "C:\\Users\\silence\\Desktop\\Files\\" + tsv_path,
+                'C:\\Guo\\Git\\transfer-dna\\data\\processedData\\output.txt')
     # 创建模型
     dna_encoder = DNAFeatureExtractor(cfg.dna_extractor.voca_size,
                                       cfg.dna_extractor.embedding_dim,
@@ -86,7 +95,7 @@ def inference(cfg: DictConfig) -> None:
     words = words.flatten()
     predictions = np.array(predictions)
     predictions = predictions.flatten()
-    print(words.shape, predictions.shape)
+    # print(words.shape, predictions.shape)
     start = 0
     end = 0
     result = []
@@ -98,7 +107,7 @@ def inference(cfg: DictConfig) -> None:
             fragment = "".join(mapping[n] for n in words[start:end])
             result.append(fragment)
             start = end
-    print(predictions[0:100],predictions.shape)
+    # print(predictions[0:100],predictions.shape)
     begin_position = 16
     correct = 0
     whole = 0
@@ -111,10 +120,11 @@ def inference(cfg: DictConfig) -> None:
         whole += 1
         if begin_position > len(predictions):
             break
-    print(correct, whole, correct / whole)
-    print(6144/len(result))
-    # print(predictions[6143])
-    # print(predictions[6144])
+    # print(correct, whole, correct / whole)
+    # 准确率
+    print(correct / whole)
+    # 词长
+    # print(6144/len(result))
     correct = 0
     whole = 0
     for i in range(0, 32 * 10, 32):
