@@ -70,7 +70,7 @@ def fna2Dataset(input_fna_file, input_tsv_file, output_txt_file):
                 results.append(subsequence_with_context.upper())
                 # print(subsequence)
                 # print(end_position)
-    print(len(results))
+    # print(len(results))
     with open(output_txt_file, 'w') as out_file:
         for result in results:
             for i in range(len(result)):
